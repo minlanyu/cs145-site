@@ -29,7 +29,8 @@ Clouds have become critical infrastructures for many applications in business an
 
 ## Syllabus
 
-
+| Weeks | Monday | Tuesday | Wednesday | Thursday | Friday | 
+| --- | --- | ---|
 
 
 ## Diversity and Inclusion
