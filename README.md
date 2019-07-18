@@ -46,7 +46,7 @@ Clouds have become critical infrastructures for many applications in business an
 | Apr 13-17    | GSI     |         |
 | Apr 20-24    | GSI     |         |
 | Apr 27-May 1 |         |         |           | Final project due |
-| May 4-8  <td colspan=5>Work on your final project</td>  
+| May 4-8  | > | > | > | > | Work on your final project | 
 | May 11-15    |         |         |           |                   | Final project due |
 
 
