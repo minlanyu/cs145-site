@@ -45,8 +45,8 @@ Clouds have become critical infrastructures for many applications in business an
 | Apr 6-10     | GSI     |         |
 | Apr 13-17    | GSI     |         |
 | Apr 20-24    | GSI     |         |
-| Apr 27-May 1 |         |         |           | Final project due |
-| May 4-8  | > | > | > | > | Work on your final project | 
+| Apr 27-May 1 |   Security and Ethics <br>  <a href="https://hovav.net/ucsd/dist/cloudsec.pdf">InfoLeak</a> <a href="https://www.usenix.org/system/files/conference/foci15/foci15-paper-marczak.pdf">GreatCannon</a>    |   |      |    Course Summary  |      | Final project proposal |
+| May 4-8  | | ||||
 | May 11-15    |         |         |           |                   | Final project due |
 
 
