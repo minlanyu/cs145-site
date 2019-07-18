@@ -29,8 +29,8 @@ Clouds have become critical infrastructures for many applications in business an
 
 ## Syllabus
 
-| Weeks        | Monday  | Tuesday | Wednesday | Thursday          | Friday            |
-| :----------- | :------ | :------ | :-------- | :---------------- | :---------------- |
+| Weeks        | Mon  | Tue | Wed | Thu          | Fri            |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | Jan 27-31    |   |    |      |     |     |
 | Feb 3-7      |       |    |      |     |     |
 | Feb 10-14    |        |    |      |     |     |
