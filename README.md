@@ -19,7 +19,7 @@ Clouds have become critical infrastructures for many applications in business an
 - There are no good textbook for cloud related concepts. You have to refer to my slides and the papers listed in the syllabus for readings. Please contact me if some concepts are hard to understand and I'll provide more supplemental materials.
 
 ## Coursework
-- Class and section participation is mandatory.
+- Class and biweekly section participation is mandatory.
 - Extra credits given based on your contributions to in-class and piazza discussions.
 - Weekly questions and reviews: 20%
 - Programming projects: 70%
@@ -29,25 +29,24 @@ Clouds have become critical infrastructures for many applications in business an
 
 ## Syllabus
 
-| Weeks        | Mon  | Tue | Wed | Thu          | Fri            |
+| Weeks        | Mon  | Tue | Wed | Thu          | Fri            | Sat | Sun |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Jan 27-31    |   |    |      |     |     |
-| Feb 3-7      |       |    |      |     |     |
-| Feb 10-14    |        |    |      |     |     |
-| Feb 17-21    |        |    |      |     |     |
-| Feb 24-28    |        |    |      |     |     |
-| Mar 2-6      |        |    |      |     |     |
-| Mar 9-13     |        |    |      |     |     |
-| Mar 9-13     |        |    |      |     |     |
-| Mar 16-20    |        |    |      |     |     |
-| Mar 23-27    |        |    |      |     |     |
-| Mar 30-Apr 3 |        |    |      |     |     |
-| Apr 6-10     |        |    |      |     |     |
-| Apr 13-17    |        |    |      |     |     |
-| Apr 20-24    |      |    |      |     |     |
-| Apr 27-May 1 |   Security and Ethics <br>  <a href="https://hovav.net/ucsd/dist/cloudsec.pdf">InfoLeak</a> <a href="https://www.usenix.org/system/files/conference/foci15/foci15-paper-marczak.pdf">GreatCannon</a>    |   |      |    Course Summary  |      | Final project proposal |
-| May 4-8  | | ||||
-| May 11-15     |            |           |                 |  | Final project due |
+| Jan 27-Feb 2    | Course Overview <br> introduction of clouds  |    |  Cloud applications I <br> (scalability, low latency)    |     |     |
+| Feb 3-9      |  Cloud applications II (bandwidth, reliability)     |    |   Basic terms in Networking <br> (IP, MAC, addresses, L2/L3)   |     |     |
+| Feb 10-16    |   Data center topology <br> (optional)[Jupiter](http://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p183.pdf)    |    |  Discovery <br> (ARP, DHCP, DNS)     |  Project 1 released    |  Mininet and P4 tutorial   |
+| Feb 17-23    |   No class <br> (President's Day)    |    | Routing basics <br> (link state, distance vector, ECMP, etc.)     |  Project 2 released   |     | | Project 2 due 11:59pm|
+| Feb 24-Mar 1    |  Data Center routing      |    |      | Project 3 Released    |  P4 tutorial continued; ECMP; failure events   | | Project 2 Due|
+| Mar 2-8      |   BGP Routing <br> data center BGP routing     |    |   Congestion control and TCP fairness   |  project 4 released   |     | | Project 3 due|
+| Mar 9-15     |   DataCenterTCP, RDMA     |    |      | project 5 released    |     | | Project 4 due |
+| Mar 16-22    |   no class (Spring recess)     |    |       |     |     | ||
+| Mar 23-29    |   Traffic engineering basics, WCMP     |    | Conga     |  project 6  released   |     || Project 5 due |
+| Mar 30-Apr 5 |   VMs, hypervisors, and NIC     |    |   Switches and P4   |  project 7  released   |     | | project 6  due |
+| Apr 6-12     |        |    |      | network function basics load balancing   |     |
+| Apr 13-19    |   Software defined networking      |    |   WAN (wide-area networking)   |     |     |
+| Apr 20-26    |      |    |  Microsoft Guest Lecture    |     |     |
+| Apr 27-May 3 |   Security and Ethics <br>  <a href="https://hovav.net/ucsd/dist/cloudsec.pdf">InfoLeak</a> <a href="https://www.usenix.org/system/files/conference/foci15/foci15-paper-marczak.pdf">GreatCannon</a>    |   |      |    Course Summary  |      |  || Final project proposal due|
+| May 4-10 | | ||||||
+| May 11-17     |            |           |                 |  | Final project due | ||
 
 
 
