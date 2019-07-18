@@ -31,23 +31,23 @@ Clouds have become critical infrastructures for many applications in business an
 
 | Weeks        | Monday  | Tuesday | Wednesday | Thursday          | Friday            |
 | :----------- | :------ | :------ | :-------- | :---------------- | :---------------- |
-| Jan 27-31    |
-| Feb 3-7      | GSI     |         |
-| Feb 10-14    | GSI     |         |
-| Feb 17-21    | GSI     |         |
-| Feb 24-28    | GSI     |         |
-| Mar 2-6      | GSI     |         |
-| Mar 9-13     | GSI     |         |
-| Mar 9-13     | GSI     |         |
-| Mar 16-20    | GSI     |         |
-| Mar 23-27    | GSI     |         |
-| Mar 30-Apr 3 | GSI     |         |
-| Apr 6-10     | GSI     |         |
-| Apr 13-17    | GSI     |         |
-| Apr 20-24    | GSI     |         |
+| Jan 27-31    |   |    |      |     |     |
+| Feb 3-7      |       |    |      |     |     |
+| Feb 10-14    |        |    |      |     |     |
+| Feb 17-21    |        |    |      |     |     |
+| Feb 24-28    |        |    |      |     |     |
+| Mar 2-6      |        |    |      |     |     |
+| Mar 9-13     |        |    |      |     |     |
+| Mar 9-13     |        |    |      |     |     |
+| Mar 16-20    |        |    |      |     |     |
+| Mar 23-27    |        |    |      |     |     |
+| Mar 30-Apr 3 |        |    |      |     |     |
+| Apr 6-10     |        |    |      |     |     |
+| Apr 13-17    |        |    |      |     |     |
+| Apr 20-24    |      |    |      |     |     |
 | Apr 27-May 1 |   Security and Ethics <br>  <a href="https://hovav.net/ucsd/dist/cloudsec.pdf">InfoLeak</a> <a href="https://www.usenix.org/system/files/conference/foci15/foci15-paper-marczak.pdf">GreatCannon</a>    |   |      |    Course Summary  |      | Final project proposal |
 | May 4-8  | | ||||
-| May 11-15    |         |         |           |                   | Final project due |
+| May 11-15     |            |           |                 |  | Final project due |
 
 
 
