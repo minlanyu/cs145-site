@@ -21,12 +21,12 @@ Clouds have become critical infrastructures for many applications in business an
 ## Coursework
 - Class and biweekly section participation is mandatory.
 - Extra credits given based on your contributions to in-class and piazza discussions.
-- Programming projects: 70%
+- Programming projects: 65%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
 - Midterm exam: 20%
-- In-class and in-piazza participations 10%
-  - including a few cloud news presentations.
-- Please refer to the first lecture slides for details.
+- In-class and in-piazza participation 5%
+- Scribe: 5%
+- In-class news presentation: 5%
 
 ## Syllabus
 
