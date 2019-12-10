@@ -52,6 +52,8 @@ Clouds have become critical infrastructures for many applications in business an
 
 
 
+## Project
+During this course, we will build a complete datacenter network. To better understand the skills you will be learning as part of the course, take a look at the first assignment [here](https://classroom.github.com/a/mRCEAfN8). 
 
 ## Diversity and Inclusion
 I would like to create a learning environment in our class that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, socioeconomic status, religion, ability, etc.). I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. If you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with me. As a participant in course discussions, you should also strive to honor the diversity of your classmates. (Statement extracted from one by Dr. Monica Linden at Brown University.)
