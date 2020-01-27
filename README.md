@@ -6,7 +6,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 - Instructor: Minlan Yu (MD 137)
 - Lecture time: MW 1:30pm-2:45pm
-- Location: TBD
+- Location: MD 221
 - Office hour: W 12:30-1:30, MD 137
 - Discussion list: [Piazza](https://piazza.com/class/jy80ngwm9123)
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61 or CS 143.
