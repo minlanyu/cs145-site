@@ -63,7 +63,7 @@ This course project runs throughout the semester. Through this project you will 
 * You will get hands-on experiences of the major concepts learnt in lectures and understand the tradeoffs of different design decisions
 
 ### First project
-You can also try out the first assignment [here](https://classroom.github.com/a/mRCEAfN8). 
+You can also try out the first assignment [here](https://classroom.github.com/a/JtYOePbG). 
 
 ### Late policy
 You should submit your work on an assignment (electronically) before its due time. All assignments will be due at 11:59pm on their selected days. 
