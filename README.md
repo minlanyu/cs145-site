@@ -33,7 +33,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 | Weeks| Mon | Tue| Wed | Thu | Fri | Sat  | Sun |
 |:-----------| :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
-| **Jan 25-Jan 31** | Course Overview | | L2/L3 (K&R 4.1-4.3, 6.1-6.3) | Project 1 (Topology) released | | | <span style="color:red">Project 0 due</span>|
+| **Jan 25-Jan 31** | Course Overview | | L2/L3 (K&R 4.1-4.3, 6.1-6.3) | Project 1 (Topology) released | | | Project 0 due|
 | **Feb 1-7**      | Data center topology (K&R 6.6)  | |  Discovery (K&R 6.4, 6.7)   |    |    Mininet tutorial | | 
 | **Feb 8-14**    |     Routing basics (K&R 5.2, 5.3, 6.4)                  |     | Data Center routing  |   Project 2 (intradomain routing) released          |                      | | Project 1 due
 | **Feb 15-21**    | No class <br> (President's Day) |      |    BGP Routing <br> data center BGP routing (K&R 5.4)  |                  | Routing tutorial|      |  |
@@ -61,11 +61,10 @@ This course project runs throughout the semester. Through this project you will 
 * Build a full stack data center network on your own laptop ranging from topology, routing, to applications.
 * You will get hands-on experiences of the major concepts learnt in lectures and understand the tradeoffs of different design decisions
 
-### Infrastructure notes
-See [here](infra.md)
+### [Infrastructure notes](infra.md) 
 
 ### Project Zero
-You are supposed to finish assignment 0 [here](https://classroom.github.com/a/JtYOePbG) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for your 
+You are supposed to finish [Project Zero](https://classroom.github.com/a/JtYOePbG) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Late policy
 You should submit your work on an assignment (electronically) before its due time. All assignments will be due at `11:59pm ET` on the deadline date. 
@@ -84,9 +83,14 @@ That said, you are allowed **TEN free late days** during the semester. The final
 
 Please plan your work on the assignments so that travel, interviews, athletics, touring, student clubs, extracurricular activities, religious holidays, etc. do not cause you to submit it late. None of the above reasons nor a heavy academic workload constitute an extraordinary circumstance.
 
-Several projects depend on earlier projects. *So even if you miss a deadline of a previous project, it is still important to finish it so you can build future projects on top of it.* Here is the project dependency graph:
+Several projects depend on earlier projects. *So even if you miss a deadline of a previous project, it is still important to finish it so you can build future projects on top of it.* Here are the project dependencies:
 
-[place holder for dependency graph]
+```
+  Project 0 (Setup) --> Project 1 (Topology) --> Project 3 (ECMP) --> Project 5 (Flowlet) --> Project 6 (CONGA)
+  Project 2 (Intradomain routing)
+  Project 4 (Reliable transport)
+  Project 7 (Final project)
+```
 
 ### Collaboration policy
 Programming, like composition, is an individual creative process. Individuals must reach their own understanding of the problem and discover a path to its solution. During this time, you are encouraged to discuss your project with other students at the conceptual level. However, when the time comes to write the code that solves the problem, the program must be your own work.
