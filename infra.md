@@ -88,7 +88,7 @@ We run all our programs in a virtual machine. The VM has the P4 and Mininet envi
 
 	- [VirtualBox image](<https://drive.google.com/open?id=1QFy58C3Tgm0x4e_Y3nPDggY-iBey3ekT>).
 
-	- [VMWare image](<https://drive.google.com/file/d/1JMAZXHpwc1WK4KqJJFHWdQLS03UmGRdT/view?usp=sharing>).
+	- [VMWare image](<https://www.dropbox.com/sh/ijh8833uu3gfc8o/AADr-4ZcxSHXFCdU-8A1PRjga?dl=0>).
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
