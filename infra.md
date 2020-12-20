@@ -84,11 +84,7 @@ got from the VMware store. Then click Finish.</li>
 
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you.
 
-- **Download the virtual machine we prepared**. The virtual machine file can be downloaded in the following link(s): 
-
-	- [VirtualBox image](<https://drive.google.com/open?id=1QFy58C3Tgm0x4e_Y3nPDggY-iBey3ekT>).
-
-	- [VMWare image](<https://www.dropbox.com/sh/ijh8833uu3gfc8o/AADr-4ZcxSHXFCdU-8A1PRjga?dl=0>).
+- **Download the virtual machine we prepared**. The virtual machine files for VMWare and Virtualbox can be downloaded at this [link](<https://www.dropbox.com/sh/ijh8833uu3gfc8o/AADr-4ZcxSHXFCdU-8A1PRjga?dl=0>).
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
