@@ -2,7 +2,6 @@
 We *strongly recommend* you do all problem sets using the virtual machine environment we provide. Before loading our environment, you will need to install a virtual machine monitor.
 
 <h3 id="install-a-virtual-machine-monitor">Install a virtual machine monitor</h3>
-<p><i>Note: this section borrowed from the CS 61 (Fall 2020) offering by Eddie Kohler and Minlan Yu.</i></p>
 
 <p>A virtual machine monitor, or VMM, is a piece of software that allows you to
 run another operating system “virtually,” inside your base operating system.
@@ -110,3 +109,5 @@ git clone https://github.com/Harvard-CS145/projectX-YYY.git
 
 where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
 2
+
+<p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
