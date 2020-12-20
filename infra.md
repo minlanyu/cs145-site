@@ -88,16 +88,10 @@ We run all our programs in a virtual machine. The VM has the P4 and Mininet envi
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
  
-- **Login to the VM.** Usually it is hard to use the virtual machine directly through your hypervisor. We have installed OpenSSH server in this virtual machine so that you can use it through ssh command. 
-
-	- VirtualBox: You can connect to your virtual machine by typing:  `ssh p4@localhost -p 1338`
-	- VMWare: right click on the VM in your VM library and select "Connect to SSH".
+- **Login to the VM.** right click on the VM in your VM library and select "Connect to SSH".
 
 ### Machine guidelines
 There are some optional tasks throughout the projects in this course which we will mark as "High-end machine only" tasks. These tasks work as expected only if the machine you are running the VM on has a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and if you have at least 8 GB of RAM. You will not be penalized in any way if you do not complete these tasks due to machine constraints. These are purely optional.
-
-### Saving disk space
-As you work on your VM for extended periods of time, you might notice a disk overhead larger than the files you added to your VM. We encourage taking steps to reduce virtual disk size after completing each project in case you are on a machine that does not have a lot of disk space. You can use [this post](https://superuser.com/a/529183) as a helpful guideline for reducing your virtual disk size.
 
 ### Clone Project Contents
 
@@ -111,3 +105,10 @@ where X (1-8) is the project number, and YYY is your Github username. The descri
 2
 
 <p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
+
+### Addendum: using Virtualbox
+While the recommended virtual achine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. Here are some helpful notes in case you prefer Virtual Box.
+
+- For SSH access: Usually it is hard to use the virtual machine directly through your hypervisor. We have installed OpenSSH server in this virtual machine so that you can use it through ssh command. You can connect to your virtual machine by typing:  `ssh p4@localhost -p 1338`
+
+- Saving disk space: as you work on your VM for extended periods of time, you might notice a disk overhead larger than the files you added to your VM. We encourage taking steps to reduce virtual disk size after completing each project in case you are on a machine that does not have a lot of disk space. You can use [this post](https://superuser.com/a/529183) as a helpful guideline for reducing your virtual disk size.
