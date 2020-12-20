@@ -83,7 +83,7 @@ got from the VMware store. Then click Finish.</li>
 
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you.
 
-- **Download the virtual machine we prepared**. The virtual machine files for VMWare and Virtualbox can be downloaded at this [link](<https://www.dropbox.com/sh/ijh8833uu3gfc8o/AADr-4ZcxSHXFCdU-8A1PRjga?dl=0>).
+- **Download the virtual machine we prepared**. The virtual machine files for VMWare can be downloaded at this [link](<https://www.dropbox.com/sh/ijh8833uu3gfc8o/AADr-4ZcxSHXFCdU-8A1PRjga?dl=0>).
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
@@ -106,8 +106,8 @@ where X (1-8) is the project number, and YYY is your Github username. The descri
 
 <p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
 
-### Addendum: using Virtualbox
-While the recommended virtual achine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. Here are some helpful notes in case you prefer Virtual Box.
+### Addendum: using Virtual box
+While the recommended virtual achine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. We can provide a Virtual Box VM on request. Here are some helpful notes in case you prefer Virtual Box.
 
 - For SSH access: Usually it is hard to use the virtual machine directly through your hypervisor. We have installed OpenSSH server in this virtual machine so that you can use it through ssh command. You can connect to your virtual machine by typing:  `ssh p4@localhost -p 1338`
 
