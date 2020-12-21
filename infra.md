@@ -1,7 +1,13 @@
 # Infrastructure
+This page contains helpful information pertaining to setting up, completing and submtting problem sets required for CS-145. We have divided it into the following sections for your convenience:
+
+- [Installing a virtual machine monitor](#install-a-virtual-machine-monitor)
+- [Setting up the VM environment](#setting-up-the-vm-environment)
+- [Using github classroom](#using-github-classroom)
+
 We *strongly recommend* you do all problem sets using the virtual machine environment we provide. Before loading our environment, you will need to install a virtual machine monitor.
 
-<h3 id="install-a-virtual-machine-monitor">Install a virtual machine monitor</h3>
+## Installing a virtual machine monitor
 
 <p>A virtual machine monitor, or VMM, is a piece of software that allows you to
 run another operating system “virtually,” inside your base operating system.
@@ -79,7 +85,7 @@ got from the VMware store. Then click Finish.</li>
 </ol>
 
 
-### Set up the environment
+## Setting up the VM environment
 
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you.
 
@@ -93,17 +99,6 @@ We run all our programs in a virtual machine. The VM has the P4 and Mininet envi
 ### Machine guidelines
 There are some optional tasks throughout the projects in this course which we will mark as "High-end machine only" tasks. These tasks work as expected only if the machine you are running the VM on has a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and if you have at least 8 GB of RAM. You will not be penalized in any way if you do not complete these tasks due to machine constraints. These are purely optional.
 
-### Clone Project Contents
-
-After booting your virtual machine, you need to clone this project repository in your virtual machine
-
-```
-git clone https://github.com/Harvard-CS145/projectX-YYY.git
-```
-
-where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
-2
-
 <p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
 
 ### Addendum: using Virtual box
@@ -112,3 +107,15 @@ While the recommended virtual achine monitor for our course is VMWare, our proje
 - For SSH access: Usually it is hard to use the virtual machine directly through your hypervisor. We have installed OpenSSH server in this virtual machine so that you can use it through ssh command. You can connect to your virtual machine by typing:  `ssh p4@localhost -p 1338`
 
 - Saving disk space: as you work on your VM for extended periods of time, you might notice a disk overhead larger than the files you added to your VM. We encourage taking steps to reduce virtual disk size after completing each project in case you are on a machine that does not have a lot of disk space. You can use [this post](https://superuser.com/a/529183) as a helpful guideline for reducing your virtual disk size.
+
+## Using github classroom
+
+### Clone project contents
+
+After booting your virtual machine, you need to clone this project repository in your virtual machine
+
+```
+git clone https://github.com/Harvard-CS145/projectX-YYY.git
+```
+
+where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
