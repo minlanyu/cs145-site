@@ -87,7 +87,7 @@ got from the VMware store. Then click Finish.</li>
 
 ## Setting up the VM environment
 
-We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you.
+We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you. For project2 and project4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM. 
 
 - **Download the virtual machine we prepared**. The virtual machine files for VMWare can be downloaded at this [link](https://drive.google.com/file/d/1xhWsiz8qtd_DCvzDLDRegE1nQfxsXW4t/view?usp=sharing).
 
@@ -126,4 +126,4 @@ git clone https://github.com/Harvard-CS145/projectX-YYY.git
 where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
 
 ### Submitting the project
-Simply commiting and pushing all changes to the main branch of your cloned project repository counts as a submission. We will consider the most recent commit prior to the project deadline as your final submission. In the case of extensions, we will consider the most recent commit prior to the extended deadline as your final submission.
+Simply commiting and pushing all changes to the main branch of your cloned project repository counts as a submission. We will consider the *most recent commit prior to the project deadline* as your final submission. In the case of extensions, we will consider the most recent commit prior to the extended deadline as your final submission. (You can send emails to the TFs to request a deadline extension. )
