@@ -110,7 +110,10 @@ While the recommended virtual achine monitor for our course is VMWare, our proje
 
 ## Using github classroom
 
+This course uses git and github classroom for all its projects. The [Harvard SEAS git introduction](https://wiki.harvard.edu/confluence/display/USERDOCS/Introduction+To+GIT) is a good way to get set up with git quickly. Please take a look at [git notes](http://cs61.seas.harvard.edu/site/ref/git) for the CS 61 Fall 2020 offering for a more interesting introduction. We discuss using github classroom for our projects here.
 
+### Requesting your project clone
+Each project has or will have a github classroom link posted on our course website. Please click the link *after* you are signed into your github account. This will begin the process of creating a project clone repository for you. You will get an email notification when your cloned repository is accessible.
 
 ### Clone project contents
 
@@ -121,3 +124,6 @@ git clone https://github.com/Harvard-CS145/projectX-YYY.git
 ```
 
 where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
+
+### Submitting the project
+Simply commiting and pushing all changes to the main branch of your cloned project repository counts as a submission. We will consider the most recent commit prior to the project deadline as your final submission. In the case of extensions, we will consider the most recent commit prior to the extended deadline as your final submission.
