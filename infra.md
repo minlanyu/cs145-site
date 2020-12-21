@@ -97,7 +97,7 @@ We run all our programs in a virtual machine. The VM has the P4 and Mininet envi
 - **Login to the VM.** right click on the VM in your VM library and select "Connect to SSH".
 
 ### Machine guidelines
-There are some optional tasks throughout the projects in this course which we will mark as "High-end machine only" tasks. These tasks work as expected only if the machine you are running the VM on has a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and if you have at least 8 GB of RAM. You will not be penalized in any way if you do not complete these tasks due to machine constraints. These are purely optional.
+There are some optional tasks throughout the projects in this course which we will mark as "High-end machine only" tasks. These tasks work as expected only if the machine you are running the VM on has a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and if you have at least 8 GB of RAM. We recommend allowing your VM usage of at least two CPU cores and at least 8 GB of RAM (the higher the better, for both). You will not be penalized in any way if you do not complete these tasks due to machine constraints. These are purely optional.
 
 <p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
 
@@ -109,6 +109,8 @@ While the recommended virtual achine monitor for our course is VMWare, our proje
 - Saving disk space: as you work on your VM for extended periods of time, you might notice a disk overhead larger than the files you added to your VM. We encourage taking steps to reduce virtual disk size after completing each project in case you are on a machine that does not have a lot of disk space. You can use [this post](https://superuser.com/a/529183) as a helpful guideline for reducing your virtual disk size.
 
 ## Using github classroom
+
+
 
 ### Clone project contents
 
