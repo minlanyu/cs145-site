@@ -99,8 +99,6 @@ We run all our programs in a virtual machine. The VM has the P4 and Mininet envi
 ### Machine guidelines
 There are some optional tasks throughout the projects in this course which we will mark as "High-end machine only" tasks. These tasks work as expected only if the machine you are running the VM on has a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and if you have at least 8 GB of RAM. We recommend allowing your VM usage of at least two CPU cores and at least 8 GB of RAM (the higher the better, for both). You will not be penalized in any way if you do not complete these tasks due to machine constraints. These are purely optional.
 
-<p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
-
 ### Addendum: using Virtual box
 While the recommended virtual achine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. We can provide a Virtual Box VM on request. Here are some helpful notes in case you prefer Virtual Box.
 
@@ -127,3 +125,5 @@ where X (1-8) is the project number, and YYY is your Github username. The descri
 
 ### Submitting the project
 Simply commiting and pushing all changes to the main branch of your cloned project repository counts as a submission. We will consider the *most recent commit prior to the project deadline* as your final submission. In the case of extensions, we will consider the most recent commit prior to the extended deadline as your final submission. (You can send emails to the TFs to request a deadline extension. )
+
+<p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
