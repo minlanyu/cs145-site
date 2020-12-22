@@ -124,6 +124,6 @@ git clone https://github.com/Harvard-CS145/projectX-YYY.git
 where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
 
 ### Submitting the project
-Simply commiting and pushing all changes to the main branch of your cloned project repository counts as a submission. We will consider the *most recent commit prior to the project deadline* as your final submission. In the case of extensions, we will consider the most recent commit prior to the extended deadline as your final submission. (You can send emails to the TFs to request a deadline extension. )
+Simply commiting and pushing all changes to the main branch of your cloned project repository counts as a submission. We will consider the *most recent commit prior to the project deadline* as your final submission. In the case of extensions, please leave a note *Not ready for grading* on your commited repo, and mark your final submission as *Ready for grading*. We will count late hours accordingly.
 
 <p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
