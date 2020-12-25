@@ -95,11 +95,11 @@ Several projects depend on earlier projects. *So even if you miss a deadline of 
 ### Collaboration policy
 Programming, like composition, is an individual creative process. Individuals must reach their own understanding of the problem and discover a path to its solution. During this time, you are encouraged to discuss your project with other students at the conceptual level. However, when the time comes to write the code that solves the problem, the program must be your own work.
 
-Do not, under any circumstances, copy another person's program, comments, README description, or any part of the submitted assignment. This includes character-by-character transliteration of another works (whether inspected visually or copied digitally), but it also includes derivative works (i.e., by renaming variable names or subtly shifting around statements in order to try to hide that copying has occurred). You are also not allowed to use other people's code, comments, or results. This includes work done by other students this or past semesters, as well as any other code you find online.
+Do not, under any circumstances, copy another person's program, comments, README/Report description, or any part of the submitted assignment. This includes character-by-character transliteration of another works (whether inspected visually or copied digitally), but it also includes derivative works (i.e., by renaming variable names or subtly shifting around statements in order to try to hide that copying has occurred). You are also not allowed to use other people's code, comments, or results. This includes work done by other students this or past semesters, as well as any other code you find online.
 
 You are also responsible for ensuring that the code you write for the assignments is not readable by others, which includes sharing with students in future years or posting publicly on websites like github.
 
-You may possibly reuse functions from libraries, but you must check any packages/libraries that you plan to use with the TA’s. You should also mark on all the places where you reuse functions/libraries from other places. 
+You may possibly reuse functions from libraries, but you must check any packages/libraries that you plan to use with the TF’s. You should also mark on all the places where you reuse functions/libraries from other places. 
 
 All programs will be subject to automated checking for similarity. Any cases of plagiarism will result in an F for the entire course. If you have any questions about policies about academic integrity, please talk to the professor.
 
