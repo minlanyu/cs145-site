@@ -64,7 +64,7 @@ This course project runs throughout the semester. Through this project you will 
 ### [Infrastructure notes](infra.md) 
 
 ### Project Zero
-You are supposed to finish [Project Zero](https://classroom.github.com/a/jY5VUBFb) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You are supposed to finish [Project Zero](https://classroom.github.com/a/HjUvyCHX) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Late policy
 You should submit your work on an assignment (electronically) before its due time. All assignments will be due at `11:59pm ET` on the deadline date. 
