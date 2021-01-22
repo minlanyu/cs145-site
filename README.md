@@ -1,14 +1,5 @@
 # CS 145, Spring 2021: Networking at Scale
 
-## Annoucement
-
-I'll hold an office hour at 1:30-2:30pm ET Jan 20 on our [class zoom link:](https://harvard.zoom.us/j/91753544315?pwd=ZHpZRmJOcVhVRFdJTGtQTTJ1SU5FQT09)
-There won't be example lectures at that time. Please just bring your questions and I'll answer them during the office hour.
-
-Our class TF, Mason Watson <masonwatson@college.harvard.edu> will also join the WiCS shopping week event at January 20 at 5-6 pm ET. Please feel free to go there and ask him questions too.
-
-
-
 ## Overview
 
 Modern networks have grown to extremely large scale (connecting millions of servers) and high speed (with Terabits per second) to meet the needs of a variety of cloud applications in business and society (e.g., social media, public health, and entertainment). In this course, we will study not only basic concepts in networking but also how these concepts get applied and extended for networking at scale. We will discuss the recent technology trends and design choices of performance, scalability, manageability, and cost faced by companies who own large-scale networks such as Amazon, Google, Microsoft, and Facebook. This course includes lectures and system programming projects.
