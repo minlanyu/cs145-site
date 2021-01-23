@@ -1,0 +1,5 @@
+setuptools
+networkx
+ipaddress
+scapy
+psutil
