@@ -8,6 +8,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Lecture time: MW 1:30pm-2:45pm
 - Location: Check out Canvas zoom link
 - Office hour: MW 2:45-3:30, class zoom link
+- TF: Yang Zhou yangzhou@g.harvard.edu Fri 8:00pm-9:30pm ET On Congregate
+- TF: Mason Watson masonwatson@college.harvard.edu Wed 3-4:30pm ET On Congregate
 - Discussion list: We are switching to [Ed](https://us.edstem.org/join/dBDbPe) this year
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
