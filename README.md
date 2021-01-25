@@ -26,7 +26,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Programming projects: 75%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
 - Midterm exam: 15%
-- In-class and in-piazza participation 10%
+- In-class and Ed participation 10%
   - including a networking news presentation.
 - Please refer to the first lecture slides for details.
 
