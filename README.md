@@ -22,7 +22,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
    
 ## Coursework
 - Class and biweekly section participation is mandatory.
-- Extra credits given based on your contributions to in-class and piazza discussions.
+- Extra credits given based on your contributions to in-class and Ed forum discussions.
 - Programming projects: 75%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
 - Midterm exam: 15%
