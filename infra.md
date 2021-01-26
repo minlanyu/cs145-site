@@ -89,7 +89,7 @@ got from the VMware store. Then click Finish.</li>
 
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you. For project2 and project4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM. 
 
-- **Download the virtual machine we prepared**. The virtual machine files for VMWare can be downloaded at this [link](https://drive.google.com/file/d/192XIhiegvmyP5azb5pNxRjcgIqTNj0w2/view?usp=sharing).
+- **Download the virtual machine we prepared**. The virtual machine files for VMWare can be downloaded at this [link](https://drive.google.com/file/d/1ty0b8_T0fwTqsS6BFuL8BanyBnwdo6-z/view?usp=sharing).
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
