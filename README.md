@@ -33,10 +33,10 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 ## Syllabus
 
-| Weeks| Mon | Tue| Wed | Thu | Fri | Sat  | Sun |
+| Weeks| Mon | Tue| Wed | Thu | Fri (Sections) | Sat  | Sun |
 |:-----------| :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
 | **Jan 25-Jan 31** | Course Overview | | L2/L3 (K&R 4.1-4.3, 6.1-6.3) | Project 1 (Topology) released | | | Project 0 checkin|
-| **Feb 1-7**      | Data center topology (K&R 6.6)  | |  Discovery (K&R 6.4, 6.7)   |    |    Mininet tutorial | | 
+| **Feb 1-7**      | Data center topology (K&R 6.6)  | |  Discovery (K&R 6.4, 6.7)   |  Mininet tutorial  |     | | 
 | **Feb 8-14**    |     Routing basics (K&R 5.2, 5.3, 6.4)                  |     | Data Center routing  |   Project 2 (intradomain routing) released          |                      | | Project 1 due
 | **Feb 15-21**    | No class <br> (President's Day) |      |    BGP Routing <br> data center BGP routing (K&R 5.4)  |                  | Routing tutorial|      |  |
 | **Feb 22-Feb 28** | Networked Apps I (scalability, low latency)|      |     Networked Apps II (bandwidth, reliability)       |      Project 3 (ECMP)Released                 |  |    |     Project 2 Due 
