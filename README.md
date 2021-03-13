@@ -1,114 +1,76 @@
-# CS 145, Spring 2021: Networking at Scale
+# Project 7: Final Project
 
-## Overview
+You are supposed to design and implement an open-ended project. You can choose between three directions. Check with us about your project ideas to make sure they’re in scope. Think big!
 
-Modern networks have grown to extremely large scale (connecting millions of servers) and high speed (with Terabits per second) to meet the needs of a variety of cloud applications in business and society (e.g., social media, public health, and entertainment). In this course, we will study not only basic concepts in networking but also how these concepts get applied and extended for networking at scale. We will discuss the recent technology trends and design choices of performance, scalability, manageability, and cost faced by companies who own large-scale networks such as Amazon, Google, Microsoft, and Facebook. This course includes lectures and system programming projects.
+## Direction 1:
+We have built a data center network in the past projects. Now you are supposed to add a new feature to it. Interesting projects may become course projects for future semesters. One example is the [P4 Network Visualizer](https://github.com/Danieltech99/P4-Network-Visualizer). 
 
-- Instructor: Minlan Yu 
-- Lecture time: MW 1:30pm-2:45pm
-- Location: Check out Canvas zoom link
-- Office hour: MW 2:45-3:30, class zoom link
-- TF: Yang Zhou yangzhou@g.harvard.edu Fri 8:00pm-9:30pm ET On Congregate
-- TF: Mason Watson masonwatson@college.harvard.edu Wed 3-4:30pm ET On Congregate
-- Discussion list: We are switching to [Ed](https://us.edstem.org/join/dBDbPe) this year
-- Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
+In general, you can look for project ideas by revisiting the key ideas discussed in lectures and pick one idea to implement. 
+Here are a few suggested topics. 
 
+### Add new features to your FatTree topology
+In project 1, we implemented a static FatTree. You can think about how to support more practical features in the topology such as:
+- Expansion: How do you move links when we add a new rack
+- Failure recovery: how do you detect failure and identify alternative routing? Can you try out the striping idea we talked in class and compare the performance of different striping solutions?
 
-## Textbook
-- This course covers both basic networking concepts and advanced cloud networking concepts.
-- For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith Ross. Earlier editions are fine. 
-- An alternative book is Computer Networks: A Systems Approach (5th edition), by Larry Peterson and Bruce Davie. You can find [an online version](https://proquest-safaribooksonline-com.ezp-prod1.hul.harvard.edu/9780123850591) in Harvard library.
-- There are no good textbook for cloud related concepts. You have to refer to my slides and class notes. We would love your contributions to the class notes too. Please feel free to add comments or suggest changes there.
-   
-## Coursework
-- Class and biweekly section participation is mandatory.
-- Extra credits given based on your contributions to in-class and Ed forum discussions.
-- Programming projects: 75%
-  - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
-- Midterm exam: 15%
-- In-class and Ed participation 10%
-  - including a networking news presentation.
-- Please refer to the first lecture slides for details.
+### Running spanning tree protocol and learning switches in Mininet
 
+### Porting link-state or distance vector protocols to FatTree setting in Mininet
+Our link-state and distance vector implementation in project 2 is a standalone program. Can you try porting it to the Mininet setting so that we can run it in the data center networks we construct?
 
-## Syllabus
+### Running BGP in Mininet
+[Quagga](https://www.quagga.net/) would be a useful starting point. 
 
-| Weeks| Mon | Tue| Wed | Thu | Fri (Sections) | Sat  | Sun |
-|:-----------| :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
-| **Jan 25-Jan 31** | Course Overview | | L2/L3 (K&R 4.1-4.3, 6.1-6.3) | Project 1 (Topology) released | | | Project 0 checkin|
-| **Feb 1-7**      | Data center topology (K&R 6.6)  | |  Discovery (K&R 6.4, 6.7)   |  Mininet tutorial  |     | | 
-| **Feb 8-14**    |     Routing basics (K&R 5.2, 5.3, 6.4)                  |     | Data Center routing  |   Project 2 (intradomain routing) released          |                      | | Project 1 due
-| **Feb 15-21**    | No class <br> (President's Day) |      |    BGP Routing <br> data center BGP routing (K&R 5.4)  |                  | Routing tutorial|      |  |
-| **Feb 22-Feb 28** | Networked Apps I (scalability, low latency)|      |     Networked Apps II (bandwidth, reliability)       |      Project 3 (ECMP)Released                 |  |    |     Project 2 Due 
-| **Mar 1- Mar 7**      |   No class <br> (Wellness day)                                  |      |   Transport layer and TCP basics <br> *K&R 3.1-3.5*                     |   | P4 tutorial  |      |       
-| **Mar 8-14**     |    Congestion control and fairness  <br> *K&R 3.6, 3.7.1*        |      |              Data Center TCP (K&R 3.7.2)                                                      |  Project 4 (reliable transport) released                  |                                             |      |       Project 3 due
-| **Mar 15-21**    |     Traffic engineering basics, WCMP |      | CONGA |       |      Transport tutorial                                       |      |                           |
-| **Mar 22-28**    |      Course Review for exams                                                                   |      |            network function                                                |      Project 5 (Flowlet) released              |                                           |      |   Project 4 due 
-| **Mar 29-Apr 4** | Guest lecture by Amin Vahdat (Google) |      |        No class <br> (Wellness day)                                       |                    |                     Flowlet and CONGA tutorial                        |        |        |  
-| **Apr 5-11**     |   Exam                          |      |       Load balancing                                   |   Project 6 (CONGA) released |                                        |   | project 5  due 
-| **Apr 12-18**    |      Switches and P4                                                                                                                                                                 |      | Software defined networking(K&R4.4, 5.5)                                    |                                      |            Final project suggestions                                  |    |  | 
-| **Apr 19-25**    |       WAN (wide-area networking)                                                                                                                                                                                            |      | Performance Isolation across tenants                                        |                          Project 7 released            |                                             | | project 6  due
-| **Apr 26-May 2** | Security and Ethics  |      |        Course Summary                                                       |                          |             Final project proposal due                                 |     |      |
-| **May 3-9**     |                                                                                                                                                                                                    |      |                                                               |                                        |                                             |      |                      |
-| **May 10-16**    |                                                                                                                                                                                                    |      |                                                               |                                        | Final project due                           |      |                       |
+### Running DCTCP in Mininet and compare its performance with TCP
 
+### Implement MPLS or WCMP in Mininet 
 
+### Add P4 debugging tools
+Build an innovative and useful tool that can help P4 developers visualize, identify or better understand their program's behavior and more conveniently debug it.
 
-## Project
+### Add more testing cases 
+Many of our course projects can be improved with better automatic testing cases. Propose some testing scripts that would automatically catch problems in students' codes.
 
-### Objectives
+## Direction 2:
+Another option is to read papers in networking and try to reproduce some results (see the [Stanford course blog](https://reproducingnetworkresearch.wordpress.com/) for examples).
 
-This course project runs throughout the semester. Through this project you will reach two objectives
+## Direction 3: Software load balancing
+If you prefer projects with detailed instructions, you can also try out the [Software load balancing project](LoadBalancing.md). In addition to following the instructions, you should be creative in adding new features to the projects or compare the tradeoffs for different implementation alternatives. 
 
-* Build a full stack data center network on your own laptop ranging from topology, routing, to applications.
-* You will get hands-on experiences of the major concepts learnt in lectures and understand the tradeoffs of different design decisions
+For example, you may consider migrate software load balancers to part of P4 switches. See the [reference paper](http://minlanyu.seas.harvard.edu/writeup/sigcomm17.pdf). 
 
-### [Infrastructure notes](infra.md) 
+## Direction 4: Test network usage of an application in the cloud
 
-### Project Zero
-You are supposed to finish [Project Zero](https://classroom.github.com/a/oWARRAGX) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You can choose one application and one cloud platform, run your applications there, measure the network usage (delay, throughput, changes, etc.), and use the knowledge you learnt from this class to explore new observations and discuss potential improvements.
 
-### Late policy
-You should submit your work on an assignment (electronically) before its due time. All assignments will be due at `11:59pm ET` on the deadline date. 
+Note that, for better or worse, this is an interesting time to measure cloud network usage considering the public health situation has lead to unparalleled network traffic for remote work and communication.
 
-If you submit your work late, we will award you a fraction of the score you would have earned on the assignments had it been turned in on time, according to this sliding scale:
+### Example applications
+In the past, students have chosen applications such as machine learning, web services, video streaming, or simply iperf. 
 
-* 90% for work submitted up to 24 hours late
-* 80% for work submitted up to 2 days late
-* 70% for work submitted up to 3 days late
-* 60% for work submitted up to 5 days late
-* 50% for work submitted after 5 days late
+### Example platforms
+In the past, students have chosen GPU/TPU, serverless (lambdas), various cloud instances, across data center regions, etc in Google cloud, Microsoft Azure, and Amazon EC2.
 
-For example, if you should have earned 8/10 points but submitted 36 hours late, you will instead earn 6.4 points.
+## Submission requirements 
+In addition to the code, write up your project in a file that you add to your repository. Your writeup should answer these questions:
 
-That said, you are allowed **TEN free late days** during the semester. The final project is due based on the final grade submission date and cannot be turned in late. You do not need to tell us that you are applying your *late day* -- we'll remove the late penalty at the end of the semester from the assignment(s) that benefits you the most.
-
-Please plan your work on the assignments so that travel, interviews, athletics, touring, student clubs, extracurricular activities, religious holidays, etc. do not cause you to submit it late. None of the above reasons nor a heavy academic workload constitute an extraordinary circumstance.
-
-Several projects depend on earlier projects. *So even if you miss a deadline of a previous project, it is still important to finish it so you can build future projects on top of it.* Here are the project dependencies:
-
-```
-  Project 0 (Setup) --> Project 1 (Topology) --> Project 3 (ECMP) --> Project 5 (Flowlet) --> Project 6 (CONGA)
-  Project 2 (Intradomain routing)
-  Project 4 (Reliable transport)
-  Project 7 (Final project)
-```
-
-### Collaboration policy
-Programming, like composition, is an individual creative process. Individuals must reach their own understanding of the problem and discover a path to its solution. During this time, you are encouraged to discuss your project with other students at the conceptual level. However, when the time comes to write the code that solves the problem, the program must be your own work.
-
-Do not, under any circumstances, copy another person's program, comments, README/Report description, or any part of the submitted assignment. This includes character-by-character transliteration of another works (whether inspected visually or copied digitally), but it also includes derivative works (i.e., by renaming variable names or subtly shifting around statements in order to try to hide that copying has occurred). You are also not allowed to use other people's code, comments, or results. This includes work done by other students this or past semesters, as well as any other code you find online.
-
-You are also responsible for ensuring that the code you write for the assignments is not readable by others, which includes sharing with students in future years or posting publicly on websites like github.
-
-You may possibly reuse functions from libraries, but you must check any packages/libraries that you plan to use with the TF’s. You should also mark on all the places where you reuse functions/libraries from other places. 
-
-All programs will be subject to automated checking for similarity. Any cases of plagiarism will result in an F for the entire course. If you have any questions about policies about academic integrity, please talk to the professor.
+- What was your goal?
+- What’s your design?
+- What code did you write (what files and functions)?
+- What challenges did you encounter?
+- How can we test your work?
+- Provide evaluation results or performance analysis of your work
+- The writeup need not be very long; 300 words can do it if you use the words well.
 
 
-## Diversity and Inclusion
-I would like to create a learning environment in our class that supports a diversity of thoughts, perspectives and experiences, and honors your identities (including race, gender, class, sexuality, socioeconomic status, religion, ability, etc.). I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it. If you feel like your performance in the class is being impacted by your experiences outside of class, please don’t hesitate to come and talk with me. As a participant in course discussions, you should also strive to honor the diversity of your classmates. (Statement extracted from one by Dr. Monica Linden at Brown University.)
-
-
-## Accommodations for Disabilities
-If you have a health condition that affects your learning or classroom experience, please let me know as soon as possible. I will, of course, provide all the accommodations listed in your AEO letter (if you have one), but sometimes we can do even better if a student helps me understand what really matters to them. (Statement adapted from one by Prof. Krzysztof Gajos.)
+<!--
+### Inband Network Telemetry (INT)
+Telemetry we used in this course so far usually is based off of transfering data to the control plane in some way, for example, writing to registers and having controllers read the registers. This often has a large overhead and is slow.
+Inbad Network Telemetry(INT) is a way to monitor and observe network events. INT operates entirely in the dataplane, allowing data to be transfered faster and at a higher granularity.
+INT works by writing data that needs to be monitored into the packet header in the p4 code. The receiver host then parses the data out of the packet header, allowing for more visualization or analysis. Parsing the packet header can be done through something like [scapy](https://scapy.readthedocs.io/en/latest/).
+#### Resources
+[INT p4 video](https://www.youtube.com/watch?v=FOOL5BeHNVY)
+[INT spec](https://p4.org/assets/INT-current-spec.pdf)
+[Multi-Hop Route Inspection (MRI)](https://github.com/p4lang/tutorials/tree/master/exercises/mri)
+This is a scaled down version of INT. Does not work for larger amounts of hops, as ipv4 headers have a max length because of the ihl field.
+-->
