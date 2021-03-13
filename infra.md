@@ -89,7 +89,7 @@ got from the VMware store. Then click Finish.</li>
 
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you. For project2 and project4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM. 
 
-- **Download the virtual machine we prepared**. The virtual machine files for VMWare can be downloaded at this [link](https://drive.google.com/file/d/1xhWsiz8qtd_DCvzDLDRegE1nQfxsXW4t/view?usp=sharing).
+- **Download the virtual machine we prepared**. The virtual machine files for VMWare can be downloaded at this [link](https://drive.google.com/file/d/1ty0b8_T0fwTqsS6BFuL8BanyBnwdo6-z/view?usp=sharing).
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
@@ -98,6 +98,14 @@ We run all our programs in a virtual machine. The VM has the P4 and Mininet envi
 
 ### Machine guidelines
 There are some optional tasks throughout the projects in this course which we will mark as "High-end machine only" tasks. These tasks work as expected only if the machine you are running the VM on has a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and if you have at least 8 GB of RAM. We recommend allowing your VM usage of at least two CPU cores and at least 8 GB of RAM (the higher the better, for both). You will not be penalized in any way if you do not complete these tasks due to machine constraints. These are purely optional.
+
+### Addendum: Visual Studio Code Plugin
+
+Just a quick tip if you use Visual Studio Code as a text editor. If you haven't already, you might think about installing the extension: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh. It allows you to open files/directories on your virtual machine in VSCode.
+
+To set it up, you'll need the IP address of your virtual machine which you should be able to find by following the examples here: https://linuxize.com/post/how-to-enable-ssh-on-ubuntu-20-04/.
+
+Combining this with the terminal functionality of VSCode (which will also automatically log into the VM while you're using the plugin above) gives you a great development environment to use for the course!
 
 ### Addendum: using Virtual box
 While the recommended virtual achine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. We can provide a Virtual Box VM on request. Here are some helpful notes in case you prefer Virtual Box.

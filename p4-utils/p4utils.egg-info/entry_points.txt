@@ -1,0 +1,3 @@
+[console_scripts]
+p4run = p4utils.p4run:main
+

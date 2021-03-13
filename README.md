@@ -8,6 +8,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Lecture time: MW 1:30pm-2:45pm
 - Location: Check out Canvas zoom link
 - Office hour: MW 2:45-3:30, class zoom link
+- TF: Yang Zhou yangzhou@g.harvard.edu Fri 8:00pm-9:30pm ET On Congregate
+- TF: Mason Watson masonwatson@college.harvard.edu Wed 3-4:30pm ET On Congregate
 - Discussion list: We are switching to [Ed](https://us.edstem.org/join/dBDbPe) this year
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
@@ -20,29 +22,29 @@ Modern networks have grown to extremely large scale (connecting millions of serv
    
 ## Coursework
 - Class and biweekly section participation is mandatory.
-- Extra credits given based on your contributions to in-class and piazza discussions.
+- Extra credits given based on your contributions to in-class and Ed forum discussions.
 - Programming projects: 75%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
 - Midterm exam: 15%
-- In-class and in-piazza participation 10%
+- In-class and Ed participation 10%
   - including a networking news presentation.
 - Please refer to the first lecture slides for details.
 
 
 ## Syllabus
 
-| Weeks| Mon | Tue| Wed | Thu | Fri | Sat  | Sun |
+| Weeks| Mon | Tue| Wed | Thu | Fri (Sections) | Sat  | Sun |
 |:-----------| :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
-| **Jan 25-Jan 31** | Course Overview | | L2/L3 (K&R 4.1-4.3, 6.1-6.3) | Project 1 (Topology) released | | | Project 0 due|
-| **Feb 1-7**      | Data center topology (K&R 6.6)  | |  Discovery (K&R 6.4, 6.7)   |    |    Mininet tutorial | | 
+| **Jan 25-Jan 31** | Course Overview | | L2/L3 (K&R 4.1-4.3, 6.1-6.3) | Project 1 (Topology) released | | | Project 0 checkin|
+| **Feb 1-7**      | Data center topology (K&R 6.6)  | |  Discovery (K&R 6.4, 6.7)   |  Mininet tutorial  |     | | 
 | **Feb 8-14**    |     Routing basics (K&R 5.2, 5.3, 6.4)                  |     | Data Center routing  |   Project 2 (intradomain routing) released          |                      | | Project 1 due
 | **Feb 15-21**    | No class <br> (President's Day) |      |    BGP Routing <br> data center BGP routing (K&R 5.4)  |                  | Routing tutorial|      |  |
 | **Feb 22-Feb 28** | Networked Apps I (scalability, low latency)|      |     Networked Apps II (bandwidth, reliability)       |      Project 3 (ECMP)Released                 |  |    |     Project 2 Due 
 | **Mar 1- Mar 7**      |   No class <br> (Wellness day)                                  |      |   Transport layer and TCP basics <br> *K&R 3.1-3.5*                     |   | P4 tutorial  |      |       
 | **Mar 8-14**     |    Congestion control and fairness  <br> *K&R 3.6, 3.7.1*        |      |              Data Center TCP (K&R 3.7.2)                                                      |  Project 4 (reliable transport) released                  |                                             |      |       Project 3 due
 | **Mar 15-21**    |     Traffic engineering basics, WCMP |      | CONGA |       |      Transport tutorial                                       |      |                           |
-| **Mar 22-28**    |      Course Review for exams                                                                   |      |             Guest Lecture                                                 |      Project 5 (Flowlet) released              |                                           |      |   Project 4 due 
-| **Mar 29-Apr 4** |network function  |      |        No class <br> (Wellness day)                                       |                    |                     Flowlet and CONGA tutorial                        |        |        |  
+| **Mar 22-28**    |      Course Review for exams                                                                   |      |            network function                                                |      Project 5 (Flowlet) released              |                                           |      |   Project 4 due 
+| **Mar 29-Apr 4** | Guest lecture by Amin Vahdat (Google) |      |        No class <br> (Wellness day)                                       |                    |                     Flowlet and CONGA tutorial                        |        |        |  
 | **Apr 5-11**     |   Exam                          |      |       Load balancing                                   |   Project 6 (CONGA) released |                                        |   | project 5  due 
 | **Apr 12-18**    |      Switches and P4                                                                                                                                                                 |      | Software defined networking(K&R4.4, 5.5)                                    |                                      |            Final project suggestions                                  |    |  | 
 | **Apr 19-25**    |       WAN (wide-area networking)                                                                                                                                                                                            |      | Performance Isolation across tenants                                        |                          Project 7 released            |                                             | | project 6  due
@@ -64,7 +66,7 @@ This course project runs throughout the semester. Through this project you will 
 ### [Infrastructure notes](infra.md) 
 
 ### Project Zero
-You are supposed to finish [Project Zero](https://classroom.github.com/a/lhMcPJNy) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You are supposed to finish [Project Zero](https://classroom.github.com/a/oWARRAGX) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Late policy
 You should submit your work on an assignment (electronically) before its due time. All assignments will be due at `11:59pm ET` on the deadline date. 
@@ -95,11 +97,11 @@ Several projects depend on earlier projects. *So even if you miss a deadline of 
 ### Collaboration policy
 Programming, like composition, is an individual creative process. Individuals must reach their own understanding of the problem and discover a path to its solution. During this time, you are encouraged to discuss your project with other students at the conceptual level. However, when the time comes to write the code that solves the problem, the program must be your own work.
 
-Do not, under any circumstances, copy another person's program, comments, README description, or any part of the submitted assignment. This includes character-by-character transliteration of another works (whether inspected visually or copied digitally), but it also includes derivative works (i.e., by renaming variable names or subtly shifting around statements in order to try to hide that copying has occurred). You are also not allowed to use other people's code, comments, or results. This includes work done by other students this or past semesters, as well as any other code you find online.
+Do not, under any circumstances, copy another person's program, comments, README/Report description, or any part of the submitted assignment. This includes character-by-character transliteration of another works (whether inspected visually or copied digitally), but it also includes derivative works (i.e., by renaming variable names or subtly shifting around statements in order to try to hide that copying has occurred). You are also not allowed to use other people's code, comments, or results. This includes work done by other students this or past semesters, as well as any other code you find online.
 
 You are also responsible for ensuring that the code you write for the assignments is not readable by others, which includes sharing with students in future years or posting publicly on websites like github.
 
-You may possibly reuse functions from libraries, but you must check any packages/libraries that you plan to use with the TA’s. You should also mark on all the places where you reuse functions/libraries from other places. 
+You may possibly reuse functions from libraries, but you must check any packages/libraries that you plan to use with the TF’s. You should also mark on all the places where you reuse functions/libraries from other places. 
 
 All programs will be subject to automated checking for similarity. Any cases of plagiarism will result in an F for the entire course. If you have any questions about policies about academic integrity, please talk to the professor.
 
