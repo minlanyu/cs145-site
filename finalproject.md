@@ -8,6 +8,11 @@ We have built a data center network in the past projects. Now you are supposed t
 In general, you can look for project ideas by revisiting the key ideas discussed in lectures and pick one idea to implement. 
 Here are a few suggested topics. 
 
+### Add new features to your FatTree topology
+In project 1, we implemented a static FatTree. You can think about how to support more practical features in the topology such as:
+- Expansion: How do you move links when we add a new rack
+- Failure recovery: how do you detect failure and identify alternative routing? Can you try out the striping idea we talked in class and compare the performance of different striping solutions?
+
 ### Running spanning tree protocol and learning switches in Mininet
 
 ### Porting link-state or distance vector protocols to FatTree setting in Mininet
@@ -18,7 +23,7 @@ Our link-state and distance vector implementation in project 2 is a standalone p
 
 ### Running DCTCP in Mininet and compare its performance with TCP
 
-### Implement MPLS or WCMP in Mininet
+### Implement MPLS or WCMP in Mininet 
 
 ### Add P4 debugging tools
 Build an innovative and useful tool that can help P4 developers visualize, identify or better understand their program's behavior and more conveniently debug it.
@@ -54,6 +59,7 @@ In addition to the code, write up your project in a file that you add to your re
 - What code did you write (what files and functions)?
 - What challenges did you encounter?
 - How can we test your work?
+- Provide evaluation results or performance analysis of your work
 - The writeup need not be very long; 300 words can do it if you use the words well.
 
 
