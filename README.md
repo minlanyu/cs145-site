@@ -1,4 +1,4 @@
-# CS 145, Spring 2021: Networking at Scale
+# CS 145, Spring 2023: Networking at Scale
 
 ## Overview
 
