@@ -6,11 +6,10 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 - Instructor: Minlan Yu 
 - Lecture time: MW 1:30pm-2:45pm
-- Location: Check out Canvas zoom link
-- Office hour: MW 2:45-3:30, class zoom link
-- TF: Yang Zhou yangzhou@g.harvard.edu Fri 8:00pm-9:30pm ET On Congregate
-- TF: Mason Watson masonwatson@college.harvard.edu Wed 3-4:30pm ET On Congregate
-- Discussion list: We are switching to [Ed](https://us.edstem.org/join/dBDbPe) this year
+- Location: TBD
+- Office hour: MW 2:45-3:30
+- TF: TBD
+- Discussion forum on [Ed](https://us.edstem.org/TBD)
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
 
@@ -18,14 +17,15 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - This course covers both basic networking concepts and advanced cloud networking concepts.
 - For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith Ross. Earlier editions are fine. 
 - An alternative book is Computer Networks: A Systems Approach (5th edition), by Larry Peterson and Bruce Davie. You can find [an online version](https://proquest-safaribooksonline-com.ezp-prod1.hul.harvard.edu/9780123850591) in Harvard library.
-- There are no good textbook for cloud related concepts. You have to refer to my slides and class notes. We would love your contributions to the class notes too. Please feel free to add comments or suggest changes there.
+- For advanced topics of networking, please check out lecture notes and class slides.
    
 ## Coursework
 - Class and biweekly section participation is mandatory.
 - Extra credits given based on your contributions to in-class and Ed forum discussions.
-- Programming projects: 75%
+- Programming projects: 70%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
-- Midterm exam: 15%
+- Homework: 10%
+- Midterm exam: 10%
 - In-class and Ed participation 10%
   - including a networking news presentation.
 - Please refer to the first lecture slides for details.
