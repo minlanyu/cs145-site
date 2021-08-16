@@ -97,9 +97,11 @@ We run all our programs in a virtual machine. The VM has the P4 and Mininet envi
 - **Login to the VM.** right click on the VM in your VM library and select "Connect to SSH".
 
 ### Machine guidelines
-There are some optional tasks throughout the projects in this course which we will mark as "High-end machine only" tasks. These tasks work as expected only if the machine you are running the VM on has a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and if you have at least 8 GB of RAM. We recommend allowing your VM usage of at least two CPU cores and at least 8 GB of RAM (the higher the better, for both). You will not be penalized in any way if you do not complete these tasks due to machine constraints. These are purely optional.
+There are some tasks throughout the projects in this course where you will observe differnet behaviors depending on your machines. In general, if you run the VM on a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and at least 8 GB of RAM, you will observe expected behaviors. However, if you get a low-end machine and observe a different behavior for these tasks, it's completely ok. You just need to explain your observations in the report. 
 
-### Addendum: Visual Studio Code Plugin
+We recommend allowing your VM usage of at least two CPU cores and at least 8 GB of RAM (the higher the better, for both). Also, try to turn off the other unnecessary applications in your machines to avoid interrupting the VM. 
+
+### Optional: Visual Studio Code Plugin
 
 Just a quick tip if you use Visual Studio Code as a text editor. If you haven't already, you might think about installing the extension: https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh. It allows you to open files/directories on your virtual machine in VSCode.
 
@@ -107,7 +109,7 @@ To set it up, you'll need the IP address of your virtual machine which you shoul
 
 Combining this with the terminal functionality of VSCode (which will also automatically log into the VM while you're using the plugin above) gives you a great development environment to use for the course!
 
-### Addendum: using Virtual box
+### Alternative: Virtual box
 While the recommended virtual achine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. We can provide a Virtual Box VM on request. Here are some helpful notes in case you prefer Virtual Box.
 
 - For SSH access: Usually it is hard to use the virtual machine directly through your hypervisor. We have installed OpenSSH server in this virtual machine so that you can use it through ssh command. You can connect to your virtual machine by typing:  `ssh p4@localhost -p 1338`
