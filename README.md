@@ -5,9 +5,9 @@
 Modern networks have grown to extremely large scale (connecting millions of servers) and high speed (with Terabits per second) to meet the needs of a variety of cloud applications in business and society (e.g., social media, public health, and entertainment). In this course, we will study not only basic concepts in networking but also how these concepts get applied and extended for networking at scale. We will discuss the recent technology trends and design choices of performance, scalability, manageability, and cost faced by companies who own large-scale networks such as Amazon, Google, Microsoft, and Facebook. This course includes lectures and system programming projects.
 
 - Instructor: Minlan Yu 
-- Lecture time: MW 1:30pm-2:45pm
+- Lecture time: T/TH 9:45-11
 - Location: TBD
-- Office hour: MW 2:45-3:30
+- Office hour: T/TH 11-12
 - TF: TBD
 - Discussion forum on [Ed](https://us.edstem.org/TBD)
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
