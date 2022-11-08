@@ -70,29 +70,31 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 ### Week 6 (Feb 27-Mar 3)
 - Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
 - Thu class: Data Center TCP (K&R 3.7.2)
+- Thu: Homework released
 - Fri section: P4 tutorial
 
 ### Session 4: Traffic engineering
 
 ### Week 7 (Mar 6-Mar 10)
 - Tue class: Traffic engineering basics, WCMP
-- Thu class:  Conga
+- Thu class:  Course Review for exams
 - Thu: Project 4 (reliable transport) released
 - Sun: Project 3 Due
 
 ### Week 8 (Mar 13-Mar 17) Spring recess. No class
-
-### Session 5: Network devices
+- Sun: Homework due
 
 ### Week 9 (Mar 20-Mar 24)
-- Tue class: Course Review for exams
-- Thu class:  network function
+- Tue class:  Exam
+- Thu class:  Conga
 - Thur: Project 5 (Flowlet) released
 - Fri: Transport tutorial
 - Sun: Project 4 due
 
+### Session 5: Network devices
+
 ### Week 10 (Mar 27-Mar 31)
-- Tue class: Exam
+- Tue class: Network functions
 - Thu class: Load balancing
 
 ### Week 11 (Apr 3-Apr 7)
