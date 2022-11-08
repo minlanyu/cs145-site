@@ -32,6 +32,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 ## Syllabus
 
+--- Network topology ---
+
 ### Week 1 (Jan 23-Jan 27)
 - Tue class: Course Overview
 - Thu class: L2/L3 (K&R 4.1-4.3, 6.1-6.3)
@@ -43,6 +45,9 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Thu class: Discovery (K&R 6.4, 6.7)
 - Fri section: Mininet tutorial 
 
+
+--- Network routing ---
+
 ### Week 3 (Feb 6-Feb 10)
 - Tue class: Routing basics (K&R 5.2, 5.3, 6.4)
 - Thu class: Data Center routing
@@ -53,6 +58,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Tue class: BGP Routing; data center BGP routing (K&R 5.4)
 - Thu class: Networked Apps I (scalability, low latency)
 - Fri section: Routing tutorial
+
+--- Network Transport ---
 
 ### Week 5 (Feb 20-Feb 24)
 - Tue class: Networked Apps II (bandwidth, reliability)
