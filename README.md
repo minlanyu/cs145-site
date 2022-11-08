@@ -7,7 +7,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11
 - Location: TBD
-- Office hour: T/TH 11-12
+- Office hour: Tue 11-12
 - TF: TBD
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
