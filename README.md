@@ -83,31 +83,30 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 ### Week 10 (Mar 27-Mar 31)
 - Tue class: Exam
 - Thu class:  network function
-- Thur: Project 5 (Flowlet) released
-- Sun: Project 4 due
 
 ### Week 11 (Apr 3-Apr 7)
 - Tue class: Guest lecture
 - Thu class: Load balancing
 - Fri: Flowlet and CONGA tutorial
+- Thur: Project 6 (CONGA) released
+- Sun: Project 5 due
 
 ### Week 12 (Apr 10-Apr 14)
 - Tue class: Switches and P4
 - Thur class: Software defined networking(K&R4.4, 5.5)
-- Thur: Project 6 (CONGA) released
-- Sun: Project 5 due
 
 ### Week 13 (Apr 17-Apr 21)
 - Tue class: WAN (wide-area networking)
 - Thur class: Performance Isolation across tenants
-- Fri: Final project suggestions
-
-### Week 14 (Apr 24-Apr 28)
-- Tue class: Security and Ethics
 - Thur: Project 7 released
+- Fri: Final project suggestions
 - Sun: Project 6 due
 
-Project summary
+### Week 14 (Apr 24-Apr 28)
+- Tue class: Security and Ethics; Project summary
+
+### final weeks
+- Project 7 due
 
 ## Project
 
