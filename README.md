@@ -32,7 +32,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 ## Syllabus
 
---- Network topology ---
+### Session 1: Network topology
 
 ### Week 1 (Jan 23-Jan 27)
 - Tue class: Course Overview
@@ -46,7 +46,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Fri section: Mininet tutorial 
 
 
---- Network routing ---
+### Session 2: Network routing
 
 ### Week 3 (Feb 6-Feb 10)
 - Tue class: Routing basics (K&R 5.2, 5.3, 6.4)
@@ -59,7 +59,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Thu class: Networked Apps I (scalability, low latency)
 - Fri section: Routing tutorial
 
---- Network Transport ---
+### Session 3: Network transport
 
 ### Week 5 (Feb 20-Feb 24)
 - Tue class: Networked Apps II (bandwidth, reliability)
@@ -72,6 +72,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Thu class: Data Center TCP (K&R 3.7.2)
 - Fri section: P4 tutorial
 
+### Session 4: Traffic engineering
+
 ### Week 7 (Mar 6-Mar 10)
 - Tue class: Traffic engineering basics, WCMP
 - Thu class:  Conga
@@ -79,6 +81,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Sun: Project 3 Due
 
 ### Week 8 (Mar 13-Mar 17) Spring recess. No class
+
+### Session 5: Network devices
 
 ### Week 9 (Mar 20-Mar 24)
 - Tue class: Course Review for exams
@@ -89,28 +93,30 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 ### Week 10 (Mar 27-Mar 31)
 - Tue class: Exam
-- Thu class:  network function
+- Thu class: Load balancing
 
 ### Week 11 (Apr 3-Apr 7)
 - Tue class: Guest lecture
-- Thu class: Load balancing
+- Thu class: Switches and P4
 - Fri: Flowlet and CONGA tutorial
 - Thur: Project 6 (CONGA) released
 - Sun: Project 5 due
 
+### Session 5: Software-defined networking
+
 ### Week 12 (Apr 10-Apr 14)
-- Tue class: Switches and P4
-- Thur class: Software defined networking(K&R4.4, 5.5)
+- Tue class: Software defined networking(K&R4.4, 5.5)
+- Thur class: WAN (wide-area networking)
 
 ### Week 13 (Apr 17-Apr 21)
-- Tue class: WAN (wide-area networking)
-- Thur class: Performance Isolation across tenants
+- Tue class: Performance Isolation across tenants
+- Thur class: Security and Ethics
 - Thur: Project 7 released
 - Fri: Final project suggestions
 - Sun: Project 6 due
 
 ### Week 14 (Apr 24-Apr 28)
-- Tue class: Security and Ethics; Project summary
+- Tue class: Course summary
 
 ### final weeks
 - Project 7 due
