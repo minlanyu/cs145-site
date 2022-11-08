@@ -32,77 +32,77 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 ## Syllabus
 
-# Week 1 (Jan 23-Jan 27)
+### Week 1 (Jan 23-Jan 27)
 - Tue class: Course Overview
 - Thu class: L2/L3 (K&R 4.1-4.3, 6.1-6.3)
 - Thu: Project 1 (Topology) released
 - Sun: Project 0 checkin 
 
-# Week 2 (Jan 30-Feb 3)
+### Week 2 (Jan 30-Feb 3)
 - Tue class: Data center topology (K&R 6.6)
 - Thu class: Discovery (K&R 6.4, 6.7)
 - Fri section: Mininet tutorial 
 
-# Week 3 (Feb 6-Feb 10)
+### Week 3 (Feb 6-Feb 10)
 - Tue class: Routing basics (K&R 5.2, 5.3, 6.4)
 - Thu class: Data Center routing
 - Thu: Project 2 (intradomain routing) released
 - Sun: Project 1 due
 
-# Week 4 (Feb 13-Feb 17)
+### Week 4 (Feb 13-Feb 17)
 - Tue class: BGP Routing; data center BGP routing (K&R 5.4)
 - Thu class: Networked Apps I (scalability, low latency)
 - Fri section: Routing tutorial
 
-# Week 5 (Feb 20-Feb 24)
+### Week 5 (Feb 20-Feb 24)
 - Tue class: Networked Apps II (bandwidth, reliability)
 - Thu class:  Transport layer and TCP basics *K&R 3.1-3.5*
 - Thu: Project 3 (ECMP) Released
 - Sun: Project 2 Due
 
-# Week 6 (Feb 27-Mar 3)
+### Week 6 (Feb 27-Mar 3)
 - Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
 - Thu class: Data Center TCP (K&R 3.7.2)
 - Fri section: P4 tutorial
 
-# Week 7 (Mar 6-Mar 10)
+### Week 7 (Mar 6-Mar 10)
 - Tue class: Traffic engineering basics, WCMP
 - Thu class:  Conga
 - Thu: Project 4 (reliable transport) released
 - Sun: Project 3 Due
 
-# Week 8 (Mar 13-Mar 17) Spring recess. No class
+### Week 8 (Mar 13-Mar 17) Spring recess. No class
 
-# Week 9 (Mar 20-Mar 24)
+### Week 9 (Mar 20-Mar 24)
 - Tue class: Course Review for exams
 - Thu class:  network function
 - Thur: Project 5 (Flowlet) released
 - Fri: Transport tutorial
 - Sun: Project 4 due
 
-# Week 10 (Mar 27-Mar 31)
+### Week 10 (Mar 27-Mar 31)
 - Tue class: Exam
 - Thu class:  network function
 - Thur: Project 5 (Flowlet) released
 - Sun: Project 4 due
 
-# Week 11 (Apr 3-Apr 7)
+### Week 11 (Apr 3-Apr 7)
 - Tue class: Guest lecture
 - Thu class: Load balancing
 - Fri: Flowlet and CONGA tutorial
 
-# Week 12 (Apr 10-Apr 14)
+### Week 12 (Apr 10-Apr 14)
 - Tue class: Switches and P4
 - Thur class: Software defined networking(K&R4.4, 5.5)
 - Thur: Project 6 (CONGA) released
 - Sun: Project 5 due
 
-# Week 13 (Apr 17-Apr 21)
+### Week 13 (Apr 17-Apr 21)
 - Tue class: WAN (wide-area networking)
 - Thur class: Performance Isolation across tenants
 - Fri: Final project suggestions
 
-# Week 14 (Apr 24-Apr 28)
+### Week 14 (Apr 24-Apr 28)
 - Tue class: Security and Ethics
 - Thur: Project 7 released
 - Sun: Project 6 due
