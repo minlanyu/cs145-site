@@ -9,7 +9,6 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Location: TBD
 - Office hour: T/TH 11-12
 - TF: TBD
-- Discussion forum on [Ed](https://us.edstem.org/TBD)
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
 
@@ -24,8 +23,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Extra credits given based on your contributions to in-class and Ed forum discussions.
 - Programming projects: 70%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
-- Homework: 10%
-- Midterm exam: 10%
+- Homework: 5%
+- Midterm exam: 15%
 - In-class and Ed participation 10%
   - including a networking news presentation.
 - Please refer to the first lecture slides for details.
@@ -33,26 +32,82 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 ## Syllabus
 
-| Weeks| Mon | Tue| Wed | Thu | Fri (Sections) | Sat  | Sun |
-|:-----------| :-----------|:-----------|:-----------|:-----------|:-----------|:-----------|:-----------|
-| **Jan 25-Jan 31** | Course Overview | | L2/L3 (K&R 4.1-4.3, 6.1-6.3) | Project 1 (Topology) released | | | Project 0 checkin|
-| **Feb 1-7**      | Data center topology (K&R 6.6)  | |  Discovery (K&R 6.4, 6.7)   |  Mininet tutorial  |     | | 
-| **Feb 8-14**    |     Routing basics (K&R 5.2, 5.3, 6.4)                  |     | Data Center routing  |   Project 2 (intradomain routing) released          |                      | | Project 1 due
-| **Feb 15-21**    | No class <br> (President's Day) |      |    BGP Routing <br> data center BGP routing (K&R 5.4)  |                  | Routing tutorial|      |  |
-| **Feb 22-Feb 28** | Networked Apps I (scalability, low latency)|      |     Networked Apps II (bandwidth, reliability)       |      Project 3 (ECMP)Released                 |  |    |     Project 2 Due 
-| **Mar 1- Mar 7**      |   No class <br> (Wellness day)                                  |      |   Transport layer and TCP basics <br> *K&R 3.1-3.5*                     |   | P4 tutorial  |      |       
-| **Mar 8-14**     |    Congestion control and fairness  <br> *K&R 3.6, 3.7.1*        |      |              Data Center TCP (K&R 3.7.2)                                                      |  Project 4 (reliable transport) released                  |                                             |      |       Project 3 due
-| **Mar 15-21**    |     Traffic engineering basics, WCMP |      | CONGA |       |      Transport tutorial                                       |      |                           |
-| **Mar 22-28**    |      Course Review for exams                                                                   |      |            network function                                                |      Project 5 (Flowlet) released              |                                           |      |   Project 4 due 
-| **Mar 29-Apr 4** | Guest lecture by Amin Vahdat (Google) |      |        No class <br> (Wellness day)                                       |                    |                     Flowlet and CONGA tutorial                        |        |        |  
-| **Apr 5-11**     |   Exam                          |      |       Load balancing                                   |   Project 6 (CONGA) released |                                        |   | project 5  due 
-| **Apr 12-18**    |      Switches and P4                                                                                                                                                                 |      | Software defined networking(K&R4.4, 5.5)                                    |                                      |            Final project suggestions                                  |    |  | 
-| **Apr 19-25**    |       WAN (wide-area networking)                                                                                                                                                                                            |      | Performance Isolation across tenants                                        |                          Project 7 released            |                                             | | project 6  due
-| **Apr 26-May 2** | Security and Ethics  |      |        Course Summary                                                       |                          |             Final project proposal due                                 |     |      |
-| **May 3-9**     |                                                                                                                                                                                                    |      |                                                               |                                        |                                             |      |                      |
-| **May 10-16**    |                                                                                                                                                                                                    |      |                                                               |                                        | Final project due                           |      |                       |
+# Week 1 (Jan 23-Jan 27)
+- Tue class: Course Overview
+- Thu class: L2/L3 (K&R 4.1-4.3, 6.1-6.3)
+- Thu: Project 1 (Topology) released
+- Sun: Project 0 checkin 
 
+# Week 2 (Jan 30-Feb 3)
+- Tue class: Data center topology (K&R 6.6)
+- Thu class: Discovery (K&R 6.4, 6.7)
+- Fri section: Mininet tutorial 
 
+# Week 3 (Feb 6-Feb 10)
+- Tue class: Routing basics (K&R 5.2, 5.3, 6.4)
+- Thu class: Data Center routing
+- Thu: Project 2 (intradomain routing) released
+- Sun: Project 1 due
+
+# Week 4 (Feb 13-Feb 17)
+- Tue class: BGP Routing; data center BGP routing (K&R 5.4)
+- Thu class: Networked Apps I (scalability, low latency)
+- Fri section: Routing tutorial
+
+# Week 5 (Feb 20-Feb 24)
+- Tue class: Networked Apps II (bandwidth, reliability)
+- Thu class:  Transport layer and TCP basics *K&R 3.1-3.5*
+- Thu: Project 3 (ECMP) Released
+- Sun: Project 2 Due
+
+# Week 6 (Feb 27-Mar 3)
+- Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
+- Thu class: Data Center TCP (K&R 3.7.2)
+- Fri section: P4 tutorial
+
+# Week 7 (Mar 6-Mar 10)
+- Tue class: Traffic engineering basics, WCMP
+- Thu class:  Conga
+- Thu: Project 4 (reliable transport) released
+- Sun: Project 3 Due
+
+# Week 8 (Mar 13-Mar 17) Spring recess. No class
+
+# Week 9 (Mar 20-Mar 24)
+- Tue class: Course Review for exams
+- Thu class:  network function
+- Thur: Project 5 (Flowlet) released
+- Fri: Transport tutorial
+- Sun: Project 4 due
+
+# Week 10 (Mar 27-Mar 31)
+- Tue class: Exam
+- Thu class:  network function
+- Thur: Project 5 (Flowlet) released
+- Sun: Project 4 due
+
+# Week 11 (Apr 3-Apr 7)
+- Tue class: Guest lecture
+- Thu class: Load balancing
+- Fri: Flowlet and CONGA tutorial
+
+# Week 12 (Apr 10-Apr 14)
+- Tue class: Switches and P4
+- Thur class: Software defined networking(K&R4.4, 5.5)
+- Thur: Project 6 (CONGA) released
+- Sun: Project 5 due
+
+# Week 13 (Apr 17-Apr 21)
+- Tue class: WAN (wide-area networking)
+- Thur class: Performance Isolation across tenants
+- Fri: Final project suggestions
+
+# Week 14 (Apr 24-Apr 28)
+- Tue class: Security and Ethics
+- Thur: Project 7 released
+- Sun: Project 6 due
+
+Project summary
 
 ## Project
 
