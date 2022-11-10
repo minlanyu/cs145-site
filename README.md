@@ -181,3 +181,17 @@ I would like to create a learning environment in our class that supports a diver
 
 ## Accommodations for Disabilities
 If you have a health condition that affects your learning or classroom experience, please let me know as soon as possible. I will, of course, provide all the accommodations listed in your AEO letter (if you have one), but sometimes we can do even better if a student helps me understand what really matters to them. (Statement adapted from one by Prof. Krzysztof Gajos.)
+
+# Policies for Extension School Students
+
+## Academic Integrity Policy
+You are responsible for understanding Harvard Extension School policies on?Academic Integrity?and how to use sources responsibly. Violations of academic integrity are taken very seriously. Visit?Using Sources Effectively and Responsibly?and the?Harvard Guide to Using Sources?to review important information on academic citation rules. 
+
+## Accessibility Services Policy
+The Division of Continuing Education (DCE) is committed to providing an accessible academic community. The?Accessibility Services Office (ASO)?is responsible for providing accommodations to students with disabilities. Students must request accommodations or adjustments through the ASO. Instructors cannot grant accommodation requests without prior ASO approval. It is imperative to be in touch with the ASO as soon as possible to avoid delays in the provision of accommodation. 
+DCE takes student privacy seriously. Any medical documentation should be provided directly to the ASO if a substantial accommodation is required. If you miss class due to a short-term illness, notify your instructor and/or TA but do not include a doctor's note. Course staff will not request, accept, or review doctor's notes or other medical documentation. For more information, email?accessibility@extension.harvard.edu. 
+
+## Publishing or Distributing Course Materials Policy
+Students may not post, publish, sell, or otherwise publicly distribute course materials without the written permission of the course instructor. Such materials include, but are not limited to, the following: lecture notes, lecture slides, video, or audio recordings, assignments, problem sets, examinations, other students’ work, and answer keys. Students who sell, post, publish, or distribute course materials without written permission, whether for the purposes of soliciting answers or otherwise, may be subject to disciplinary action, up to and including requirement to withdraw. Further, students may not make video or audio recordings of class sessions for their own use without written permission of the instructor. 
+
+
