@@ -98,8 +98,8 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 - Thu class: Load balancing
 
 ### Week 11 (Apr 3-Apr 7)
-- Tue class: Guest lecture
-- Thu class: Switches and P4
+- Tue class: Switches and P4
+- Thu class: Guest lecture by Ying Zhang (Meta)
 - Fri: Flowlet and CONGA tutorial
 - Thur: Project 6 (CONGA) released
 - Sun: Project 5 due
