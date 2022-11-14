@@ -86,7 +86,7 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 
 ### Week 9 (Mar 20-Mar 24)
 - Tue class:  Exam
-- Thu class:  Conga
+- Thu class:  Guest lecture by Ying Zhang (Meta)
 - Thur: Project 5 (Flowlet) released
 - Fri: Transport tutorial
 - Sun: Project 4 due
@@ -94,12 +94,12 @@ Modern networks have grown to extremely large scale (connecting millions of serv
 ### Session 5: Network devices
 
 ### Week 10 (Mar 27-Mar 31)
-- Tue class: Network functions
-- Thu class: Load balancing
+- Tue class: Conga
+- Thu class: Network functions
 
 ### Week 11 (Apr 3-Apr 7)
-- Tue class: Switches and P4
-- Thu class: Guest lecture by Ying Zhang (Meta)
+- Tue class: Load balancing
+- Thu class: Switches and P4
 - Fri: Flowlet and CONGA tutorial
 - Thur: Project 6 (CONGA) released
 - Sun: Project 5 due
