@@ -2,8 +2,7 @@
 
 ## Overview
 
-This course studies computer network topics including Layer 2/Layer 3 topology, routing, transport protocols, traffic engineering, network functions, and software-defined networking. In addition to learning the basic concepts of these topics, we will also discuss how to extend these concepts to networking at scale. Modern networks have grown to large scale (connecting millions of servers) and high speed (Terabits per second) to meet the needs of cloud applications in business and society. In this class, we will discuss how to adapt conventional network concepts to new environments, which will help deepen our understanding of networking technologies.
-This course includes lectures and system programming projects.
+This course studies computer network topics including Layer 2/Layer 3 topology, routing, transport protocols, traffic engineering, network functions, and software-defined networking. Modern networks have grown to large scale (connecting millions of servers) and high speed (Terabits per second) to meet the needs of cloud applications in business and society. Thus, In addition to learning the conventional concepts in networking, we will also discuss how to adapt these concepts to large-scale networks. These discussions will hopefully help deepen our understanding of networking technologies. This course includes lectures and system programming projects. 
 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11
