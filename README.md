@@ -34,96 +34,124 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Session 1: Network topology
 
+
 ### Week 1 (Jan 23-Jan 27)
-- Tue class: Course Overview
-- Thu class: L2/L3 (K&R 4.1-4.3, 6.1-6.3)
 ```diff
+* Tue class: Course Overview
+* Thu class: L2/L3 (K&R 4.1-4.3, 6.1-6.3)
 - Thu: Project 1 (Topology) released
-- Sun: Project 0 checkin 
+- Sun: Project 0 checkin
 ```
 
 ### Week 2 (Jan 30-Feb 3)
-- Tue class: Data center topology (K&R 6.6)
-- Thu class: Discovery (K&R 6.4, 6.7)
-- Fri section: Mininet tutorial 
-
+```diff
+* Tue class: Data center topology (K&R 6.6)
+* Thu class: Discovery (K&R 6.4, 6.7)
++ Fri section: Mininet tutorial 
+```
 
 ### Session 2: Network routing
 
 ### Week 3 (Feb 6-Feb 10)
-- Tue class: Routing basics (K&R 5.2, 5.3, 6.4)
-- Thu class: Data Center routing
+```diff
+* Tue class: Routing basics (K&R 5.2, 5.3, 6.4)
+* Thu class: Data Center routing
 - Thu: Project 2 (intradomain routing) released
 - Sun: Project 1 due
+```
 
 ### Week 4 (Feb 13-Feb 17)
-- Tue class: BGP Routing; data center BGP routing (K&R 5.4)
-- Thu class: Networked Apps I (scalability, low latency)
-- Fri section: Routing tutorial
+```diff
+* Tue class: BGP Routing; data center BGP routing (K&R 5.4)
+* Thu class: Networked Apps I (scalability, low latency)
++ Fri section: Routing tutorial
+```
 
 ### Session 3: Network transport
 
 ### Week 5 (Feb 20-Feb 24)
-- Tue class: Networked Apps II (bandwidth, reliability)
-- Thu class:  Transport layer and TCP basics *K&R 3.1-3.5*
+```diff
+* Tue class: Networked Apps II (bandwidth, reliability)
+* Thu class:  Transport layer and TCP basics *K&R 3.1-3.5*
 - Thu: Project 3 (ECMP) Released
 - Sun: Project 2 Due
+```
 
 ### Week 6 (Feb 27-Mar 3)
-- Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
-- Thu class: Data Center TCP (K&R 3.7.2)
+```diff
+* Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
+* Thu class: Data Center TCP (K&R 3.7.2)
 - Thu: Homework released
-- Fri section: P4 tutorial
++ Fri section: P4 tutorial
+```
 
 ### Session 4: Traffic engineering
 
 ### Week 7 (Mar 6-Mar 10)
-- Tue class: Traffic engineering basics, WCMP
-- Thu class:  Course Review for exams
+```diff
+* Tue class: Traffic engineering basics, WCMP
+* Thu class:  Course Review for exams
 - Thu: Project 4 (reliable transport) released
 - Sun: Project 3 Due
+```
 
 ### Week 8 (Mar 13-Mar 17) Spring recess. No class
+```diff
 - Sun: Homework due
+```
 
 ### Week 9 (Mar 20-Mar 24)
-- Tue class:  Exam
-- Thu class:  Guest lecture by Ying Zhang (Meta)
+```diff
+* Tue class:  Exam
+* Thu class:  Guest lecture by Ying Zhang (Meta)
 - Thur: Project 5 (Flowlet) released
 - Fri: Transport tutorial
 - Sun: Project 4 due
+```
 
 ### Session 5: Network devices
 
 ### Week 10 (Mar 27-Mar 31)
-- Tue class: Conga
-- Thu class: Network functions
+```diff
+* Tue class: Conga
+* Thu class: Network functions
+```
 
 ### Week 11 (Apr 3-Apr 7)
-- Tue class: Load balancing
-- Thu class: Switches and P4
-- Fri: Flowlet and CONGA tutorial
+```diff
+* Tue class: Load balancing
+* Thu class: Switches and P4
 - Thur: Project 6 (CONGA) released
++ Fri: Flowlet and CONGA tutorial
 - Sun: Project 5 due
+```
 
 ### Session 5: Software-defined networking
 
 ### Week 12 (Apr 10-Apr 14)
-- Tue class: Software defined networking(K&R4.4, 5.5)
-- Thur class: WAN (wide-area networking)
+```diff
+* Tue class: Software defined networking(K&R4.4, 5.5)
+* Thur class: WAN (wide-area networking)
+```
 
 ### Week 13 (Apr 17-Apr 21)
-- Tue class: Performance Isolation across tenants
-- Thur class: Security and Ethics
+```diff
+* Tue class: Performance Isolation across tenants
+* Thur class: Security and Ethics
 - Thur: Project 7 released
-- Fri: Final project suggestions
++ Fri: Final project suggestions
 - Sun: Project 6 due
+```
 
 ### Week 14 (Apr 24-Apr 28)
-- Tue class: Course summary
+```diff
+* Tue class: Course summary
+```
 
 ### final weeks
+```diff
 - Project 7 due
+```
 
 ## Project
 
