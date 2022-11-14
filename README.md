@@ -2,7 +2,8 @@
 
 ## Overview
 
-Modern networks have grown to extremely large scale (connecting millions of servers) and high speed (with Terabits per second) to meet the needs of a variety of cloud applications in business and society (e.g., social media, public health, and entertainment). In this course, we will study not only basic concepts in networking but also how these concepts get applied and extended for networking at scale. We will discuss the recent technology trends and design choices of performance, scalability, manageability, and cost faced by companies who own large-scale networks such as Amazon, Google, Microsoft, and Facebook. This course includes lectures and system programming projects.
+This course studies computer network topics including Layer 2/Layer 3 topology, routing, transport protocols, traffic engineering, network functions, and software-defined networking. In addition to learning the basic concepts of these topics, we will also discuss how to extend these concepts to networking at scale. Modern networks have grown to large scale (connecting millions of servers) and high speed (Terabits per second) to meet the needs of cloud applications in business and society. In this class, we will discuss how to adapt conventional network concepts to new environments, which will help deepen our understanding of networking technologies.
+This course includes lectures and system programming projects.
 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11
