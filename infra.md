@@ -1,9 +1,16 @@
 # Infrastructure
 This page contains helpful information pertaining to setting up, completing and submtting problem sets required for CS-145. We have divided it into the following sections for your convenience:
 
-- [Installing a virtual machine monitor](#install-a-virtual-machine-monitor)
-- [Setting up the VM environment](#setting-up-the-vm-environment)
-- [Using github classroom](#using-github-classroom)
+- [Infrastructure](#infrastructure)
+  - [Installing a virtual machine monitor](#installing-a-virtual-machine-monitor)
+  - [Setting up the VM environment](#setting-up-the-vm-environment)
+    - [Machine guidelines](#machine-guidelines)
+    - [Optional: Visual Studio Code Plugin](#optional-visual-studio-code-plugin)
+    - [Alternative: Virtual box](#alternative-virtual-box)
+  - [Using github classroom](#using-github-classroom)
+    - [Requesting your project clone](#requesting-your-project-clone)
+    - [Clone project contents](#clone-project-contents)
+    - [Submitting the project](#submitting-the-project)
 
 We *strongly recommend* you do all problem sets using the virtual machine environment we provide. Before loading our environment, you will need to install a virtual machine monitor.
 
@@ -18,6 +25,8 @@ Mac OS X product is called <a href="https://www.vmware.com/products/fusion.html"
 called <a href="https://www.vmware.com/products/workstation-player.html">VMware Workstation</a>. These products are not free, but you can get an
 academic license to use one for the duration of the class. You can also use a
 freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">VirtualBox</a>.</p>
+
+For M-series Mac users, unfortunately the solutions above do not support your M-series due to the difference in architecture. We recommend [UTM](https://mac.getutm.app/), an open-source free VMM that supports M-series. 
 
 <p>To obtain VMware:</p>
 
@@ -89,12 +98,12 @@ got from the VMware store. Then click Finish.</li>
 
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you. For project2 and project4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM. 
 
-- **Download the virtual machine we prepared**. The virtual machine files for VMWare can be downloaded at this [link](https://drive.google.com/file/d/1ty0b8_T0fwTqsS6BFuL8BanyBnwdo6-z/view?usp=sharing).
+- **Download the virtual machine we prepared**. The virtual machine files for VMWare and UTM can be downloaded at [VMWare VM](https://drive.google.com/file/d/1ty0b8_T0fwTqsS6BFuL8BanyBnwdo6-z/view?usp=sharing) and [UTM VM](https://drive.google.com/file/d/1V4n9jpY9PeCH9dGljyGbKQP8Iy-0FZZL/view?usp=share_link). 
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
  
-- **Login to the VM.** right click on the VM in your VM library and select "Connect to SSH".
+- **Login to the VM (VMWare).** right click on the VM in your VM library and select "Connect to SSH".
 
 ### Machine guidelines
 There are some tasks throughout the projects in this course where you will observe differnet behaviors depending on your machines. In general, if you run the VM on a processor that is equivalent to or better than an i7 with a clockrate higher than 2.8 GHz and at least 8 GB of RAM, you will observe expected behaviors. However, if you get a low-end machine and observe a different behavior for these tasks, it's completely ok. You just need to explain your observations in the report. 
@@ -116,6 +125,7 @@ While the recommended virtual achine monitor for our course is VMWare, our proje
 
 - Saving disk space: as you work on your VM for extended periods of time, you might notice a disk overhead larger than the files you added to your VM. We encourage taking steps to reduce virtual disk size after completing each project in case you are on a machine that does not have a lot of disk space. You can use [this post](https://superuser.com/a/529183) as a helpful guideline for reducing your virtual disk size.
 
+Note that VirtualBox currently does not support M-series Macbook.
 ## Using github classroom
 
 This course uses git and github classroom for all its projects. The [Harvard SEAS git introduction](https://wiki.harvard.edu/confluence/display/USERDOCS/Introduction+To+GIT) is a good way to get set up with git quickly. Please take a look at [git notes](http://cs61.seas.harvard.edu/site/ref/git) for the CS 61 Fall 2020 offering for a more interesting introduction. We discuss using github classroom for our projects here.
