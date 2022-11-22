@@ -110,7 +110,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 9 (Mar 20-Mar 24)
 ```diff
-* Tue class:  Exam
+* Tue class:  Exam (Extension school students will take the exam on canvas on Mar 21-22)
 * Thu class:  Guest lecture by Ying Zhang (Meta)
 - Thur: Project 5 (Flowlet) released
 - Fri: Transport tutorial
