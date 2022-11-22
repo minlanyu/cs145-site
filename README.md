@@ -5,7 +5,8 @@
 This course studies computer network topics including Layer 2/Layer 3 topology, routing, transport protocols, traffic engineering, network functions, programmable switches, and software-defined networking. Modern networks have grown to large scale (connecting millions of servers) and high speed (Terabits per second) to meet the needs of cloud applications in business and society. Thus, In addition to learning the conventional concepts in networking, we will also discuss how to adapt these concepts to large-scale networks. These discussions will hopefully help deepen our understanding of networking technologies. This course includes lectures and system programming projects. 
 
 - Instructor: Minlan Yu 
-- Lecture time: T/TH 9:45-11
+- Lecture time: T/TH 9:45-11am
+- Section time: Fridays 2-3pm every other week
 - Location: TBD
 - Office hour: Tue 11-12
 - TF: TBD
@@ -30,7 +31,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Please refer to the first lecture slides for details.
 
 ### Extension school version
-- Classes and biweekly sections are videostreamed.
+- Classes and sections are can be attended by via live stream or on demand.
 - Extra credits given based on your contributions to Ed forum discussions.
 - Programming projects: 70%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
@@ -110,7 +111,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 9 (Mar 20-Mar 24)
 ```diff
-* Tue class:  Exam (Extension school students will take the exam on canvas on Mar 21-22)
+* Tue class:  Exam
+   * Extension school students will take the exam on canvas on Mar 21-22. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
 * Thu class:  Guest lecture by Ying Zhang (Meta)
 - Thur: Project 5 (Flowlet) released
 - Fri: Transport tutorial
