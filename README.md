@@ -11,7 +11,6 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - TF: TBD
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
-
 ## Textbook
 - This course covers both basic networking concepts and advanced cloud networking concepts.
 - For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith Ross. Earlier editions are fine. 
@@ -19,6 +18,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - For advanced topics of networking, please check out lecture notes and class slides.
    
 ## Coursework
+### FAS version
 - Class and biweekly section participation is mandatory.
 - Extra credits given based on your contributions to in-class and Ed forum discussions.
 - Programming projects: 70%
@@ -29,11 +29,19 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
   - including a networking news presentation.
 - Please refer to the first lecture slides for details.
 
+### Extension school version
+- Classes and biweekly sections are videostreamed.
+- Extra credits given based on your contributions to Ed forum discussions.
+- Programming projects: 70%
+  - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
+- Homework: 10%
+- Midterm exam: 15%
+- Ed participation 10%
+- Note that the lecture slide version is for FAS class not extension school.
 
 ## Syllabus
 
 ### Session 1: Network topology
-
 
 ### Week 1 (Jan 23-Jan 27)
 ```diff
@@ -165,7 +173,7 @@ This course project runs throughout the semester. Through this project you will 
 ### [Infrastructure notes](infra.md) 
 
 ### Project Zero
-You are supposed to finish [Project Zero](https://classroom.github.com/a/oWARRAGX) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You are required to finish [Project Zero](https://classroom.github.com/a/oWARRAGX) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Late policy
 You should submit your work on an assignment (electronically) before its due time. All assignments will be due at `11:59pm ET` on the deadline date. 
