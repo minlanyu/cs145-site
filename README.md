@@ -21,7 +21,6 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ## Coursework
 ### FAS version
 - Class and biweekly section participation is mandatory.
-- Extra credits given based on your contributions to in-class and Ed forum discussions.
 - Programming projects: 70%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
 - Homework: 5%
@@ -32,7 +31,6 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Extension school version
 - Classes and sections are can be attended by via live stream or on demand.
-- Extra credits given based on your contributions to Ed forum discussions.
 - Programming projects: 70%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
 - Homework: 10%
