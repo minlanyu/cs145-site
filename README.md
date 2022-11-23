@@ -6,7 +6,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11am
-- Section time: Fridays 2-3pm every other week
+- Section time: Fridays 2-3pm every other week (available on demand for extension students)
 - Location: TBD
 - Office hour: Tue 11-12
 - TF: TBD
