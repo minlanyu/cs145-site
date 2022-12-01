@@ -43,9 +43,11 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Session 1: Network topology
 
 ### Week 1 (Jan 23-Jan 27)
-```diff
 * Tue class: Course Overview
-* Thu class: L2/L3 (K&R 4.1-4.3, 6.1-6.3)
+   - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s)
+* Thu class: L2/L3
+   - Supplemental readings: K&R 4.1-4.3, 6.1-6.3
+```diff
 - Thu: Project 1 (Topology) released
 - Sun: Project 0 checkin
 ```
