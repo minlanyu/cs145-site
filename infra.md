@@ -16,6 +16,8 @@ We *strongly recommend* you do all problem sets using the virtual machine enviro
 
 ## Installing a virtual machine monitor
 
+### MacOS (x86), Linux and Windows users
+
 <p>A virtual machine monitor, or VMM, is a piece of software that allows you to
 run another operating system “virtually,” inside your base operating system.
 For example, you can run Linux inside Windows.</p>
@@ -25,6 +27,8 @@ Mac OS X product is called <a href="https://www.vmware.com/products/fusion.html"
 called <a href="https://www.vmware.com/products/workstation-player.html">VMware Workstation</a>. These products are not free, but you can get an
 academic license to use one for the duration of the class. You can also use a
 freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">VirtualBox</a>.</p>
+
+### M-series Mac users
 
 For M-series Mac users, unfortunately the solutions above do not support your M-series due to the difference in architecture. We recommend [UTM](https://mac.getutm.app/), an open-source free VMM that supports M-series. 
 
@@ -98,7 +102,9 @@ got from the VMware store. Then click Finish.</li>
 
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you. For project2 and project4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM. 
 
-- **Download the virtual machine we prepared**. The virtual machine files for VMWare and UTM can be downloaded at [VMWare VM](https://drive.google.com/file/d/1ty0b8_T0fwTqsS6BFuL8BanyBnwdo6-z/view?usp=sharing) and [UTM VM](https://drive.google.com/file/d/1V4n9jpY9PeCH9dGljyGbKQP8Iy-0FZZL/view?usp=share_link). 
+- **Download the virtual machine we prepared**. 
+  - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded at [VMWare VM](https://drive.google.com/file/d/1ty0b8_T0fwTqsS6BFuL8BanyBnwdo6-z/view?usp=sharing). 
+  - For M-series Mac users, the virtual machine files for UTM can be downloaded at [UTM VM](https://drive.google.com/file/d/1V4n9jpY9PeCH9dGljyGbKQP8Iy-0FZZL/view?usp=share_link). 
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
