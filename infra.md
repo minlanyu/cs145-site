@@ -26,11 +26,7 @@ For example, you can run Linux inside Windows.</p>
 Mac OS X product is called <a href="https://www.vmware.com/products/fusion.html">VMware Fusion</a>, and its Windows product is
 called <a href="https://www.vmware.com/products/workstation-player.html">VMware Workstation</a>. These products are not free, but you can get an
 academic license to use one for the duration of the class. You can also use a
-freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">VirtualBox</a>.</p>
-
-### M-series Mac users
-
-For M-series Mac users, unfortunately the solutions above do not support your M-series due to the difference in architecture. We recommend [UTM](https://mac.getutm.app/), an open-source free VMM that supports M-series. 
+freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">VirtualBox</a>.</p> 
 
 <p>To obtain VMware:</p>
 
@@ -96,6 +92,10 @@ Wizard screen, click on License, and paste the license key that you
 got from the VMware store. Then click Finish.</li>
 </ol></li>
 </ol>
+
+### M-series Mac users
+
+For M-series Mac users, unfortunately the solutions above do not support your M-series due to the difference in architecture. We recommend [UTM](https://mac.getutm.app/), an open-source free VMM that supports M-series.
 
 
 ## Setting up the VM environment
