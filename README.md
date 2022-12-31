@@ -1,5 +1,9 @@
 # CS 145, Spring 2023: Networking at Scale
 
+## ***Announcement***
+- **[2022/12/30] [Project 0](https://classroom.github.com/a/i8-2KYy6) and [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md) for spring 2023 is released. Please replace your VM with the latest version we provided if you download the 2021 version VM before today; otherwise, you might fail in running other projects this year with the old VM.**
+---
+
 ## Overview
 
 This course studies computer network topics including Layer 2/Layer 3 topology, routing, transport protocols, traffic engineering, network functions, programmable switches, and software-defined networking. Modern networks have grown to large scale (connecting millions of servers) and high speed (Terabits per second) to meet the needs of cloud applications in business and society. Thus, In addition to learning the conventional concepts in networking, we will also discuss how to adapt these concepts to large-scale networks. These discussions will hopefully help deepen our understanding of networking technologies. This course includes lectures and system programming projects. 
@@ -173,7 +177,7 @@ This course project runs throughout the semester. Through this project you will 
 ### [Infrastructure notes](infra.md) 
 
 ### Project Zero
-You are required to finish [Project Zero](https://classroom.github.com/a/oWARRAGX) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy6) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Late policy
 You should submit your work on an assignment (electronically) before its due time. All assignments will be due at `11:59pm ET` on the deadline date. 

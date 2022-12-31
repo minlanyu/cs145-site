@@ -3,6 +3,8 @@ This page contains helpful information pertaining to setting up, completing and 
 
 - [Infrastructure](#infrastructure)
   - [Installing a virtual machine monitor](#installing-a-virtual-machine-monitor)
+    - [MacOS (x86), Linux and Windows users](#macos-x86-linux-and-windows-users)
+    - [M-series Mac users](#m-series-mac-users)
   - [Setting up the VM environment](#setting-up-the-vm-environment)
     - [Machine guidelines](#machine-guidelines)
     - [Optional: Visual Studio Code Plugin](#optional-visual-studio-code-plugin)
@@ -103,8 +105,8 @@ For M-series Mac users, unfortunately the solutions above do not support your M-
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you. For project2 and project4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM. 
 
 - **Download the virtual machine we prepared**. 
-  - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded at [VMWare VM](https://drive.google.com/file/d/1ty0b8_T0fwTqsS6BFuL8BanyBnwdo6-z/view?usp=sharing). 
-  - For M-series Mac users, the virtual machine files for UTM can be downloaded at [UTM VM](https://drive.google.com/file/d/1kJTKHDqw49RY5r7JOsYSTWuqY0Ugf5mZ/view?usp=share_link). 
+  - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded at [VMWare VM](https://drive.google.com/file/d/1ed-EArBHGze3v-8OllzXlY7az03jt4yo/view?usp=sharing). 
+  - For M-series Mac users, the virtual machine files for UTM can be downloaded at [UTM VM](https://drive.google.com/file/d/16ZIQztUSUFaPVi9vZf9QycPnIDWfoKOZ/view?usp=sharing). 
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
