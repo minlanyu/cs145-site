@@ -48,8 +48,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 1 (Jan 23-Jan 27)
 * Tue class: Course Overview
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose
-* Thu class: L2/L3
-   - Textbook: K&R 4.1-4.3, 6.1-6.3
+* Thu class: Link Layer and Network layer
+   - Textbook: K&R 6.1-6.3, 4.1-4.3
 * Thu: `Project 1 (Topology) released`
 * Sun: `Project 0 checkin`
 
@@ -104,10 +104,10 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Fri: Transport tutorial
 * Sun: `Project 4 due`
 
-### Session 5: Network devices
-
 ### Week 10 (Mar 27-Mar 31)
 * Tue class: Conga
+
+### Session 5: Advanced network functions
 * Thu class: Network functions
 
 ### Week 11 (Apr 3-Apr 7)
