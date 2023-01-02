@@ -1,7 +1,7 @@
 # CS 145, Spring 2023: Networking at Scale
 
 ## ***Announcement***
-- **[2022/12/30] [Project 0](https://classroom.github.com/a/i8-2KYy6) and [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md) for spring 2023 is released. Please replace your VM with the latest version we provided if you download the 2021 version VM before today; otherwise, you might fail in running other projects this year with the old VM.**
+- **[2022/12/30] [Project 0](https://classroom.github.com/a/i8-2KYy6) and [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md) for spring 2023 are released! Please replace your VM with the latest version we provided if you download the 2021 version VM before 2022/12/30; otherwise, you might fail in running other CS-145 projects this year with the old VM.**
 ---
 
 ## Overview
