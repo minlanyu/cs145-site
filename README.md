@@ -11,7 +11,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11am
 - Section time: Fridays 2-3pm every other week (available on demand for extension students)
-- Location: SEC 1.316
+- Location for both class and sections: SEC 1.316
 - Office hour: Tue 11-12
 - TF: TBD
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
