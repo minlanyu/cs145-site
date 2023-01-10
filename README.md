@@ -56,7 +56,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 2 (Jan 30-Feb 3)
 * Tue class: Data center topology (K&R 6.6)
 * Thu class: Discovery (K&R 6.4, 6.7)
-* Fri section: Mininet tutorial 
+* Fri section: Mininet tutorial
 
 ### Session 2: Network routing
 
@@ -91,6 +91,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Tue class: Traffic engineering basics, WCMP
 * Thu class:  Course Review for exams
 * Thu: `Project 4 (reliable transport) released`
+* Fri section: Transport tutorial
 * Sun: Project 3 Due
 
 ### Week 8 (Mar 13-Mar 17) Spring recess. No class
@@ -101,7 +102,6 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
    * Extension school students will take the exam on canvas on Mar 21-22. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
 * Thu class:  Guest lecture by Ying Zhang (Meta)
 * Thur: `Project 5 (Flowlet) released`
-* Fri: Transport tutorial
 * Sun: `Project 4 due`
 
 ### Week 10 (Mar 27-Mar 31)
@@ -109,12 +109,12 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Session 5: Advanced network functions
 * Thu class: Network functions
+* Fri section: Flowlet and CONGA tutorial
 
 ### Week 11 (Apr 3-Apr 7)
 * Tue class: Load balancing
 * Thu class: Switches and P4
 * Thur: Project 6 (CONGA) released
-* Fri: Flowlet and CONGA tutorial
 * Sun: Project 5 due
 
 ### Session 5: Software-defined networking
@@ -123,12 +123,12 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Tue class: Software defined networking (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Thur class: WAN (wide-area networking)
+* Fri section: Final project suggestions
 
 ### Week 13 (Apr 17-Apr 21)
 * Tue class: Performance Isolation across tenants
 * Thur class: Security and Ethics
 * Thur: `Project 7 released`
-* Fri: Final project suggestions
 * Sun: `Project 6 due`
 
 ### Week 14 (Apr 24-Apr 28)
