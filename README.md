@@ -21,7 +21,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ## Textbook
 - This course covers both basic networking concepts and advanced cloud networking concepts.
 - For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith Ross. Earlier editions are fine. 
-- An alternative book is Computer Networks: A Systems Approach (5th edition), by Larry Peterson and Bruce Davie. You can find [an online version](https://proquest-safaribooksonline-com.ezp-prod1.hul.harvard.edu/9780123850591) in Harvard library.
+- An alternative book is Computer Networks: A Systems Approach (5th edition), by Larry Peterson and Bruce Davie. You can find an online version [here](https://book.systemsapproach.org/).
 - For advanced topics of networking, please check out lecture notes and class slides.
    
 ## Coursework
