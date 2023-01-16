@@ -2,7 +2,7 @@
 
 ## ***Announcement***
 - **_[NEW]_ [2022/01/14] New x86 VM link is updated in [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md). This solves the problem that the previous VM cannot be run in VMware and also some libraries are fixed.**
-- **_[NEW]_ [2022/01/14] [Project 0](https://classroom.github.com/a/i8-2KYy6) README (project description) is updated. Please check the new requirement for Project 0. You might need to re-clone the Github Classroom to retrieve the up-to-date README. Please make sure you save your current progress before doing this. Sorry for the inconvenience!**
+- **_[NEW]_ [2022/01/14] [Project 0](https://classroom.github.com/a/i8-2KYy6) README (project description) is updated. Please run `./pull_update.sh` in your repository to update the project description.**
 - **[2022/12/30] [Project 0](https://classroom.github.com/a/i8-2KYy6) and [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md) for spring 2023 are released! Please replace your VM with the latest version we provided if you download the 2021 version VM before 2022/12/30; otherwise, you might fail in running other CS-145 projects this year with the old VM.**
 ---
 
