@@ -127,7 +127,7 @@ To set it up, you'll need the IP address of your virtual machine which you shoul
 Combining this with the terminal functionality of VSCode (which will also automatically log into the VM while you're using the plugin above) gives you a great development environment to use for the course!
 
 ### Alternative: Virtual box
-While the recommended virtual achine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. We can provide a Virtual Box VM on request. Here are some helpful notes in case you prefer Virtual Box.
+While the recommended virtual machine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. We can provide a Virtual Box VM on request. Here are some helpful notes in case you prefer Virtual Box.
 
 - For SSH access: Usually it is hard to use the virtual machine directly through your hypervisor. We have installed OpenSSH server in this virtual machine so that you can use it through ssh command. You can connect to your virtual machine by typing:  `ssh p4@localhost -p 1338`
 
