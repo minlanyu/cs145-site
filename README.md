@@ -13,9 +13,9 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11am
 - Section time: Fridays 2-3pm every other week (available on demand for extension students)
-- Location for both class and sections: SEC 1.316
+- Location for both class and sections: TBD
 - Office hour: Tue 11-12
-- TF: TBD
+- TF: Vic Feng wfeng@g.harvard.edu, Alexander Pedersen pedersen@college.harvard.edu, Minghao Li minghaoli@g.harvard.edu 
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
 ## Textbook
@@ -50,14 +50,14 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 1 (Jan 23-Jan 27)
 * Tue class: Course Overview
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose
-* Thu class: Link Layer and Network layer
-   - Textbook: K&R 6.1-6.3, 4.1-4.3
+* Thu class: Link Layer
+   - Textbook: K&R 6.1-6.4
 * Thu: `Project 1 (Topology) released`
 * Sun: `Project 0 checkin`
 
 ### Week 2 (Jan 30-Feb 3)
 * Tue class: Data center topology (K&R 6.6)
-* Thu class: Discovery (K&R 6.4, 6.7)
+* Thu class: Network layer (K&R 4.1-4.3, 6.7)
 * Fri section: Mininet tutorial
 
 ### Session 2: Network routing
