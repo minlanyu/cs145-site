@@ -35,6 +35,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Midterm exam: 15%
 - In-class and Ed participation 10%
 - Please refer to the first lecture slides for details.
+- All assignments will be due at 11:59pm ET on the deadline date.
 
 ### Extension school version
 - Classes and sections are can be attended by via live stream or on demand.
@@ -44,6 +45,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Midterm exam: 15%
 - Ed participation 10%
 - Note that the lecture slide version is for FAS class not extension school.
+- All assignments will be due at 11:59pm ET on the deadline date.
 
 ## Syllabus
 
