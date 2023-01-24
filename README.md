@@ -1,6 +1,7 @@
 # CS 145, Spring 2023: Networking at Scale
 
 ## ***Announcement***
+- All future annoucements will happen at Ed. Please go to canvas-->Ed to join the forum there.
 - **_[NEW]_ [2022/01/14] New x86 VM link is updated in [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md). This solves the problem that the previous VM cannot be run in VMware and also some libraries are fixed.**
 - **_[NEW]_ [2022/01/14] [Project 0](https://classroom.github.com/a/i8-2KYy6) README (project description) is updated. Please run `./pull_update.sh` in your repository to update the project description.**
 - **[2022/12/30] [Project 0](https://classroom.github.com/a/i8-2KYy6) and [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md) for spring 2023 are released! Please replace your VM with the latest version we provided if you download the 2021 version VM before 2022/12/30; otherwise, you might fail in running other CS-145 projects this year with the old VM.**
@@ -12,9 +13,10 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11am
-- Section time: Fridays 2-3pm every other week (available on demand for extension students)
-- Location for both class and sections: TBD
-- Office hour: Tue 11-12
+- Section time: Fridays 2-3pm every other week (available on demand for extension students). Please see the syllabus below on the actual dates for sections.
+- Location for class: TBD
+- Location for sections: TBD
+- Office hour: Tue 11-12, SEC 4.415
 - TF: Vic Feng wfeng@g.harvard.edu, Alexander Pedersen pedersen@college.harvard.edu, Minghao Li minghaoli@g.harvard.edu 
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
