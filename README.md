@@ -98,7 +98,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Thu class:  Course Review for exams
 * Thu: `Project 4 (reliable transport) released`
 * Fri section: Transport tutorial (Vic)
-* Sun: Project 3 Due
+* Sun: `Project 3 Due`
 
 ### Week 8 (Mar 13-Mar 17) Spring recess. No class
 - Sun: `Homework due`
@@ -120,8 +120,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 11 (Apr 3-Apr 7)
 * Tue class: Load balancing
 * Thu class: Switches and P4
-* Thur: Project 6 (CONGA) released
-* Sun: Project 5 due
+* Thur: `Project 6 (CONGA) released`
+* Sun: `Project 5 due`
 
 ### Session 5: Software-defined networking
 
