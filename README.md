@@ -60,7 +60,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 2 (Jan 30-Feb 3)
 * Tue class: Data center topology (K&R 6.6)
 * Thu class: Network layer (K&R 4.1-4.3, 6.7)
-* Fri section: Mininet tutorial
+* Fri section: Mininet tutorial (Alex)
 
 ### Session 2: Network routing
 
@@ -73,7 +73,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 4 (Feb 13-Feb 17)
 * Tue class: BGP Routing; data center BGP routing (K&R 5.4)
 * Thu class: Networked Apps I (scalability, low latency)
-* Fri section: Routing tutorial
+* Fri section: Routing tutorial (Minghao)
 
 ### Session 3: Network transport
 
@@ -87,7 +87,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
 * Thu class: Data Center TCP (K&R 3.7.2)
 * Thu: `Homework released`
-* Fri section: P4 tutorial
+* Fri section: P4 tutorial (Alex)
 
 ### Session 4: Traffic engineering
 
@@ -95,7 +95,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Tue class: Traffic engineering basics, WCMP
 * Thu class:  Course Review for exams
 * Thu: `Project 4 (reliable transport) released`
-* Fri section: Transport tutorial
+* Fri section: Transport tutorial (Vic)
 * Sun: Project 3 Due
 
 ### Week 8 (Mar 13-Mar 17) Spring recess. No class
@@ -113,7 +113,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Session 5: Advanced network functions
 * Thu class: Network functions
-* Fri section: Flowlet and CONGA tutorial
+* Fri section: Flowlet and CONGA tutorial (Vic)
 
 ### Week 11 (Apr 3-Apr 7)
 * Tue class: Load balancing
@@ -127,7 +127,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Tue class: Software defined networking (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Thur class: WAN (wide-area networking)
-* Fri section: Final project suggestions
+* Fri section: Final project suggestions (Minghao)
 
 ### Week 13 (Apr 17-Apr 21)
 * Tue class: Performance Isolation across tenants
