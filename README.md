@@ -17,6 +17,10 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Location for class: TBD
 - Location for sections: TBD
 - Office hour: Tue 11-12, SEC 4.415
+- TF Office Hours (click [here](https://calendar.google.com/calendar/u/0?cid=Y180OTE0MzVlN2QyOGZhNDVhNzE1MzkyZWFhZjBjYWYxNzE1N2RmYWIwM2U0NmQxNWNkMzgxMTgxMjQ3YzQ3MmVjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to access the OH Google Calendar):
+   - Mon 7-8:30 pm, online at [zoom](https://harvard.zoom.us/j/98554819683?pwd=eGxLWWcwSXphTUhCY1ZBSm5reVpkUT09)
+   - Wed 8-9:30 pm, CS night in Winthrop Dining Hall
+   - Fri 3-4:30 pm, hybrid: in-person in SEC 3.302 + 3.303, online at [zoom](https://harvard.zoom.us/j/93088044871?pwd=VlBGNXB0S3pXU29tV1d6d2dDT1QxQT09)
 - TF: Vic Feng wfeng@g.harvard.edu, Alexander Pedersen pedersen@college.harvard.edu, Minghao Li minghaoli@g.harvard.edu 
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
