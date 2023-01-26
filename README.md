@@ -135,8 +135,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Fri section: Final project suggestions (Minghao)
 
 ### Week 13 (Apr 17-Apr 21)
-* Tue class: Performance Isolation across tenants
-* Thur class: Security and Ethics
+* Tue class: Security and Ethics
+* Thur class: Performance Isolation across tenants
 * Thur: `Project 7 released`
 * Sun: `Project 6 due`
 
