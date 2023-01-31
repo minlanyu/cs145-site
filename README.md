@@ -64,8 +64,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Sun: `Project 0 checkin`
 
 ### Week 2 (Jan 30-Feb 3)
-* Tue class: Data center topology, Ethernet routing (K&R 6.6)
-* Thu class: Network layer (K&R 4.1-4.3, 6.7)
+* Tue class: Data center topology, Spanning tree (K&R 6.6)
+* Thu class: Ethernet routing, Network layer (K&R 4.1-4.3, 6.7)
 * Fri section: Mininet tutorial (Alex)
 
 ### Session 2: Network routing
