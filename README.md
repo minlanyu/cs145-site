@@ -71,8 +71,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Session 2: Network routing
 
 ### Week 3 (Feb 6-Feb 10)
-* Tue class: Routing basics (K&R 5.2, 5.3, 6.4)
-* Thu class: Data Center routing
+* Tue class: Network layer; Discovery protocols
+* Thu class: Routing basics (K&R 5.2, 5.3, 6.4), Data Center routing
 * Thu: `Project 2 (intradomain routing) released`
 * Sun: `Project 1 due`
 
