@@ -144,8 +144,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 14 (Apr 24-Apr 28)
 * Tue class: Course summary
 
-### final weeks
-- `Project 7 due`
+### Week 15
+- May 5 Friday: `Project 7 due`
 
 ## Project
 
