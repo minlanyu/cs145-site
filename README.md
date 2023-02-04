@@ -79,7 +79,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 4 (Feb 13-Feb 17)
 * Tue class: BGP Routing; data center BGP routing (K&R 5.4)
 * Thu class: Networked Apps I (scalability, low latency)
-* Fri section: Routing tutorial (Minghao)
+* Fri section: Routing tutorial (Vic)
 
 ### Session 3: Network transport
 
@@ -101,7 +101,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Tue class: Traffic engineering basics, WCMP
 * Thu class:  Course Review for exams
 * Thu: `Project 4 (reliable transport) released`
-* Fri section: Transport tutorial (Vic)
+* Fri section: Transport tutorial (Minghao)
 * Sun: Project 3 Due
 
 ### Week 8 (Mar 13-Mar 17) Spring recess. No class
