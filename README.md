@@ -55,7 +55,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Session 1: Network topology
 
-### Week 1 (Jan 23-Jan 27)
+### Week 1 (Jan 23-Jan 29)
 * Tue class: Course Overview
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose
 * Thu class: Link Layer
@@ -63,33 +63,33 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Thu: `Project 1 (Topology) released`
 * Sun: `Project 0 checkin`
 
-### Week 2 (Jan 30-Feb 3)
+### Week 2 (Jan 30-Feb 5)
 * Tue class: Data center topology, Spanning tree (K&R 6.6)
 * Thu class: Ethernet routing, Network layer (K&R 4.1-4.3, 6.7)
 * Fri section: Mininet tutorial (Alex)
 
 ### Session 2: Network routing
 
-### Week 3 (Feb 6-Feb 10)
+### Week 3 (Feb 6-Feb 12)
 * Tue class: Network layer; Discovery protocols
 * Thu class: Routing basics (K&R 5.2, 5.3, 6.4), Data Center routing
 * Thu: `Project 2 (intradomain routing) released`
-* Sun: `Project 1 due`
+* Sun Feb 12: `Project 1 due`
 
-### Week 4 (Feb 13-Feb 17)
+### Week 4 (Feb 13-Feb 19)
 * Tue class: BGP Routing; data center BGP routing (K&R 5.4)
 * Thu class: Networked Apps I (scalability, low latency)
 * Fri section: Routing tutorial (Vic)
 
 ### Session 3: Network transport
 
-### Week 5 (Feb 20-Feb 24)
+### Week 5 (Feb 20-Feb 26)
 * Tue class: Networked Apps II (bandwidth, reliability)
 * Thu class:  Transport layer and TCP basics *K&R 3.1-3.5*
 * Thu: `Project 3 (ECMP) Released`
-* Sun: `Project 2 Due`
+* Sun Feb 26: `Project 2 Due`
 
-### Week 6 (Feb 27-Mar 3)
+### Week 6 (Feb 27-Mar 5)
 * Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
 * Thu class: Data Center TCP (K&R 3.7.2)
 * Thu: `Homework released`
@@ -97,51 +97,51 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Session 4: Traffic engineering
 
-### Week 7 (Mar 6-Mar 10)
+### Week 7 (Mar 6-Mar 12)
 * Tue class: Traffic engineering basics, WCMP
 * Thu class:  Course Review for exams
 * Thu: `Project 4 (reliable transport) released`
 * Fri section: Transport tutorial (Minghao)
-* Sun: Project 3 Due
+* Sun Mar 12: Project 3 Due
 
-### Week 8 (Mar 13-Mar 17) Spring recess. No class
+### Week 8 (Mar 13-Mar 19) Spring recess. No class
 - Sun: `Homework due`
 
-### Week 9 (Mar 20-Mar 24)
+### Week 9 (Mar 20-Mar 26)
 * Tue class:  Exam
    * Extension school students will take the exam on canvas on Mar 21-22. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
 * Thu class:  Guest lecture by Ying Zhang (Meta)
 * Thur: `Project 5 (Flowlet) released`
-* Sun: `Project 4 due`
+* Sun Mar 26: `Project 4 due`
 
-### Week 10 (Mar 27-Mar 31)
+### Week 10 (Mar 27-Apr 2)
 * Tue class: Conga
 
 ### Session 5: Advanced network functions
 * Thu class: Network functions
 * Fri section: Flowlet and CONGA tutorial (Vic)
 
-### Week 11 (Apr 3-Apr 7)
+### Week 11 (Apr 3-Apr 9)
 * Tue class: Load balancing
 * Thu class: Switches and P4
 * Thur: Project 6 (CONGA) released
-* Sun: Project 5 due
+* Sun Apr 9: Project 5 due
 
 ### Session 5: Software-defined networking
 
-### Week 12 (Apr 10-Apr 14)
+### Week 12 (Apr 10-Apr 16)
 * Tue class: Software defined networking (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Thur class: WAN (wide-area networking)
 * Fri section: Final project suggestions (Minghao)
 
-### Week 13 (Apr 17-Apr 21)
+### Week 13 (Apr 17-Apr 23)
 * Tue class: Security and Ethics
 * Thur class: Performance Isolation across tenants
 * Thur: `Project 7 released`
-* Sun: `Project 6 due`
+* Sun Apr 23: `Project 6 due`
 
-### Week 14 (Apr 24-Apr 28)
+### Week 14 (Apr 24-Apr 30)
 * Tue class: Course summary
 
 ### Week 15
