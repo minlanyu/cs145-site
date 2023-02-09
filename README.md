@@ -72,12 +72,12 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 3 (Feb 6-Feb 12)
 * Tue class: Network layer; Discovery protocols
-* Thu class: Routing basics (K&R 5.2, 5.3, 6.4), Data Center routing
+* Thu class: Routing basics: linkstate (K&R 5.2, 5.3, 6.4) 
 * Thu: `Project 2 (intradomain routing) released`
 * Sun Feb 12: `Project 1 due`
 
 ### Week 4 (Feb 13-Feb 19)
-* Tue class: BGP Routing; data center BGP routing (K&R 5.4)
+* Tue class: Distance vector; Data Center routing; BGP Routing; data center BGP routing (K&R 5.4)
 * Thu class: Networked Apps I (scalability, low latency)
 * Fri section: Routing tutorial (Vic)
 
