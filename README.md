@@ -77,14 +77,14 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Sun Feb 12: `Project 1 due`
 
 ### Week 4 (Feb 13-Feb 19)
-* Tue class: Distance vector; Data Center routing; BGP Routing; data center BGP routing (K&R 5.4)
-* Thu class: Networked Apps I (scalability, low latency)
+* Tue class: Distance vector; Data Center routing;  (K&R 5.4)
+* Thu class: BGP Routing; data center BGP routing
 * Fri section: Routing tutorial (Vic)
 
 ### Session 3: Network transport
 
 ### Week 5 (Feb 20-Feb 26)
-* Tue class: Networked Apps II (bandwidth, reliability)
+* Tue class: Networked Apps I (scalability, low latency); Networked Apps II (bandwidth, reliability)
 * Thu class:  Transport layer and TCP basics *K&R 3.1-3.5*
 * Thu: `Project 3 (ECMP) Released`
 * Sun Feb 26: `Project 2 Due`
