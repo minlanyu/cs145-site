@@ -78,7 +78,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 4 (Feb 13-Feb 19)
 * Tue class: Distance vector; Data Center routing;  (K&R 5.4)
-* Thu class: BGP Routing; data center BGP routing
+* Thu class: Data center routing; BGP
 * Fri section: Routing tutorial (Vic)
 
 ### Session 3: Network transport
