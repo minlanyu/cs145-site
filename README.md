@@ -84,14 +84,14 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Session 3: Network transport
 
 ### Week 5 (Feb 20-Feb 26)
-* Tue class: Networked Apps I (scalability, low latency); Networked Apps II (bandwidth, reliability)
-* Thu class:  Transport layer and TCP basics *K&R 3.1-3.5*
+* Tue class: BGP
+* Thu class: Networked Applications
 * Thu: `Project 3 (ECMP) Released`
 * Sun Feb 26: `Project 2 Due`
 
 ### Week 6 (Feb 27-Mar 5)
-* Tue class: Congestion control and fairness *K&R 3.6, 3.7.1*
-* Thu class: Data Center TCP (K&R 3.7.2)
+* Tue class: Networked Applications
+* Thu class: Transport layer and TCP basics *K&R 3.1-3.5*; Congestion control and fairness *K&R 3.6, 3.7.1*; Data Center TCP (K&R 3.7.2)
 * Thu: `Homework released`
 * Fri section: P4 tutorial (Alex)
 
