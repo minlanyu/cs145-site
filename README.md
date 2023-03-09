@@ -81,25 +81,23 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Thu class: Data center routing; BGP
 * Fri section: Routing tutorial (Vic)
 
-### Session 3: Network transport
-
 ### Week 5 (Feb 20-Feb 26)
 * Tue class: BGP
 * Thu class: Networked Applications
 * Thu: `Project 3 (ECMP) Released`
 * Sun Feb 26: `Project 2 Due`
 
+### Session 3: Network transport
+
 ### Week 6 (Feb 27-Mar 5)
 * Tue class: Networked Applications
-* Thu class: Transport layer and TCP basics *K&R 3.1-3.5*; Congestion control and fairness *K&R 3.6, 3.7.1*; Data Center TCP (K&R 3.7.2)
+* Thu class: Transport layer and TCP basics (K&R 3.1-3.5) 
 * Thu: `Homework released`
 * Fri section: P4 tutorial (Alex)
 
-### Session 4: Traffic engineering
-
 ### Week 7 (Mar 6-Mar 12)
-* Tue class: Traffic engineering basics, WCMP
-* Thu class:  Course Review for exams
+* Tue class: TCP basics (cont.) 
+* Thu class:  Congestion control *K&R 3.6*; Course Review for exams
 * Thu: `Project 4 (reliable transport) released`
 * Fri section: Transport tutorial (Minghao)
 * Sun Mar 12: Project 3 Due
@@ -115,34 +113,32 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Sun Mar 26: `Project 4 due`
 
 ### Week 10 (Mar 27-Apr 2)
-* Tue class: Conga
-
-### Session 5: Advanced network functions
-* Thu class: Network functions
+* Tue class: TCP fairness *K&R 3.7.1*; Data Center TCP (K&R 3.7.2)
+* Thu class: Data center load balancing (CONGA)
 * Fri section: Flowlet and CONGA tutorial (Vic)
 
+### Session 4: Software-defined networking
+
 ### Week 11 (Apr 3-Apr 9)
-* Tue class: Load balancing
-* Thu class: Switches and P4
+* Tue class: Software defined networking (K&R4.4, 5.5)
+   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
+* Thu class: Traffic engineering basics, WCMP
 * Thur: Project 6 (CONGA) released
 * Sun Apr 9: Project 5 due
 
-### Session 5: Software-defined networking
-
 ### Week 12 (Apr 10-Apr 16)
-* Tue class: Software defined networking (K&R4.4, 5.5)
-   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Thur class: WAN (wide-area networking)
+* Tue class: Traffic engineering in WAN (wide-area networking)
+* Thur class: Switches and P4; Network functions; Performance Isolation across tenants
 * Fri section: Final project suggestions (Minghao)
 
 ### Week 13 (Apr 17-Apr 23)
 * Tue class: Security and Ethics
-* Thur class: Performance Isolation across tenants
+* Thur class: Course summary
 * Thur: `Project 7 released`
 * Sun Apr 23: `Project 6 due`
 
 ### Week 14 (Apr 24-Apr 30)
-* Tue class: Course summary
+* Tue class: Programmable networks and their applications
 
 ### Week 15
 - May 5 Friday: `Project 7 due`
