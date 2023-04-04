@@ -113,14 +113,14 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Sun Mar 26: `Project 4 due`
 
 ### Week 10 (Mar 27-Apr 2)
-* Tue class: TCP fairness *K&R 3.7.1*; Data Center TCP (K&R 3.7.2)
-* Thu class: Data center load balancing (CONGA)
+* Tue class: TCP fairness *K&R 3.7.1*; 
+* Thu class: Data Center TCP (K&R 3.7.2)
 * Fri section: Flowlet and CONGA tutorial (Vic)
 
 ### Session 4: Software-defined networking
 
 ### Week 11 (Apr 3-Apr 9)
-* Tue class: Software defined networking (K&R4.4, 5.5)
+* Tue class: Data center load balancing (CONGA); Software defined networking (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Thu class: Network virtualization
 * Thur: Project 6 (CONGA) released
