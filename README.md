@@ -121,19 +121,19 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 11 (Apr 3-Apr 9)
 * Tue class: Data center load balancing (CONGA)
-* Thu class: Software defined networking (K&R4.4, 5.5)
+* Thu class: Software defined networking: The Top-down view (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Thur: Project 6 (CONGA) released
 * Sun Apr 9: Project 5 due
 
 ### Week 12 (Apr 10-Apr 16)
-* Tue class: Traffic engineering in WAN (wide-area networking)
-* Thur class: Switches and P4; Network functions; Network virtualization
+* Tue class: Software-defined networking: the bottom-up view (Switches and P4)
+* Thur class: Traffic engineering in WAN (wide-area networking) 
 * Fri section: Final project suggestions (Minghao)
 
 ### Week 13 (Apr 17-Apr 23)
 * Tue class: Security and Ethics
-* Thur class: Course summary
+* Thur class: Network virtualization; Network function virtulization; Course summary
 * Thur: `Project 7 released`
 * Sun Apr 23: `Project 6 due`
 
