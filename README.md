@@ -1,11 +1,4 @@
-# CS 145, Spring 2023: Networking at Scale
-
-## ***Announcement***
-- All future annoucements will happen at Ed. Please go to canvas-->Ed to join the forum there.
-- **_[NEW]_ [2022/01/14] New x86 VM link is updated in [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md). This solves the problem that the previous VM cannot be run in VMware and also some libraries are fixed.**
-- **_[NEW]_ [2022/01/14] [Project 0](https://classroom.github.com/a/i8-2KYy6) README (project description) is updated. Please run `./pull_update.sh` in your repository to update the project description.**
-- **[2022/12/30] [Project 0](https://classroom.github.com/a/i8-2KYy6) and [intrastructure setup](https://github.com/minlanyu/cs145-site/blob/spring2023/infra.md) for spring 2023 are released! Please replace your VM with the latest version we provided if you download the 2021 version VM before 2022/12/30; otherwise, you might fail in running other CS-145 projects this year with the old VM.**
----
+# CS 145, Spring 2024: Networking at Scale
 
 ## Overview
 
@@ -13,21 +6,18 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11am
-- Lecture location: 114 Western Ave 2112
+- Lecture location: TBD
 - Section time: Fridays 2-3pm every other week (available on demand for extension students). Please see the syllabus below on the actual dates for sections.
-- Section location: SEC 3.302 + 3.303
+- Section location: TBD
 - Minlan Office hour: Tue 11-12, SEC 4.415
-- TF Office Hours (click [here](https://calendar.google.com/calendar/u/0?cid=Y180OTE0MzVlN2QyOGZhNDVhNzE1MzkyZWFhZjBjYWYxNzE1N2RmYWIwM2U0NmQxNWNkMzgxMTgxMjQ3YzQ3MmVjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) to access the OH Google Calendar):
-   - Mon 7-8:30 pm, online at [zoom](https://harvard.zoom.us/j/98554819683?pwd=eGxLWWcwSXphTUhCY1ZBSm5reVpkUT09)
-   - Wed 8-9:30 pm, CS night in Winthrop Dining Hall
-   - Fri 3-4:30 pm, hybrid: in-person in SEC 3.302 + 3.303, online at [zoom](https://harvard.zoom.us/j/93088044871?pwd=VlBGNXB0S3pXU29tV1d6d2dDT1QxQT09)
-- TF: Vic Feng wfeng@g.harvard.edu, Alexander Pedersen pedersen@college.harvard.edu, Minghao Li minghaoli@g.harvard.edu 
+- TF:  
+- TF Office Hours:
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
 ## Textbook
 - This course covers both basic networking concepts and advanced cloud networking concepts.
-- For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach (7th edition), by Jim Kurose and Keith Ross. Earlier editions are fine. 
-- An alternative book is Computer Networks: A Systems Approach (5th edition), by Larry Peterson and Bruce Davie. You can find an online version [here](https://book.systemsapproach.org/).
+- For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach (7th edition or 8th edition), by Jim Kurose and Keith Ross. Earlier editions are fine. 
+- An alternative book is Computer Networks: A Systems Approach, by Larry Peterson and Bruce Davie. You can find an online version [here](https://book.systemsapproach.org/).
 - For advanced topics of networking, please check out lecture notes and class slides.
    
 ## Coursework
@@ -35,9 +25,9 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Class and biweekly section participation is mandatory.
 - Programming projects: 70%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
-- Homework: 5%
+- Homework: 10%
 - Midterm exam: 15%
-- In-class and Ed participation 10%
+- In-class and Ed participation 5%
 - Please refer to the first lecture slides for details.
 - All assignments will be due at 11:59pm ET on the deadline date.
 
@@ -45,9 +35,9 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Classes and sections are can be attended by via live stream or on demand.
 - Programming projects: 70%
   - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
-- Homework: 5%
+- Homework: 10%
 - Midterm exam: 15%
-- Ed participation 10%
+- Ed participation 5%
 - Note that the lecture slide version is for FAS class not extension school.
 - All assignments will be due at 11:59pm ET on the deadline date.
 
