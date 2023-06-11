@@ -16,7 +16,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ## Textbook
 - This course covers both basic networking concepts and advanced cloud networking concepts.
-- For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach (7th edition or 8th edition), by Jim Kurose and Keith Ross. Earlier editions are fine. 
+- For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach, by Jim Kurose and Keith Ross. The latest edition is the 8th edition. Earlier editions are fine. The numbers in the syllabus are based on the 7th edition.
 - An alternative book is Computer Networks: A Systems Approach, by Larry Peterson and Bruce Davie. You can find an online version [here](https://book.systemsapproach.org/).
 - For advanced topics of networking, please check out lecture notes and class slides.
    
@@ -43,22 +43,18 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ## Syllabus
 
-### Session 1: Network topology
-
 ### Week 1 (Jan 23-Jan 29)
 * Tue class: Course Overview
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose
-* Thu class: Link Layer
-   - Textbook: K&R 6.1-6.4
+* Thu class: Packet switching and Network topology 
+   - Textbook: K&R 1.3, 6.6
 * Thu: `Project 1 (Topology) released`
+* Fri section: Mininet tutorial
 * Sun: `Project 0 checkin`
 
 ### Week 2 (Jan 30-Feb 5)
-* Tue class: Data center topology, Spanning tree (K&R 6.6)
-* Thu class: Ethernet routing, Network layer (K&R 4.1-4.3, 6.7)
-* Fri section: Mininet tutorial (Alex)
-
-### Session 2: Network routing
+* Tue class: Link layer: Ethernet (K&R 6.1-6.4)
+* Thu class: Network layer data plane: IP, DHCP (K&R 4.1-4.3, 6.7)
 
 ### Week 3 (Feb 6-Feb 12)
 * Tue class: Network layer; Discovery protocols
@@ -76,8 +72,6 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Thu class: Networked Applications
 * Thu: `Project 3 (ECMP) Released`
 * Sun Feb 26: `Project 2 Due`
-
-### Session 3: Network transport
 
 ### Week 6 (Feb 27-Mar 5)
 * Tue class: Networked Applications
@@ -106,8 +100,6 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Tue class: TCP fairness *K&R 3.7.1*; 
 * Thu class: Data Center TCP (K&R 3.7.2)
 * Fri section: Flowlet and CONGA tutorial (Vic)
-
-### Session 4: Software-defined networking
 
 ### Week 11 (Apr 3-Apr 9)
 * Tue class: Data center load balancing (CONGA)
