@@ -43,84 +43,82 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ## Syllabus
 
-### Week 1 (Jan 23-Jan 29)
-* Tue class: Course Overview
-   - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose
-* Thu class: Packet switching and Network topology 
-   - Textbook: K&R 1.3, 6.6
+### Week 1 
+* Tue class: Course Overview (K&R 1.3)
+   - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose 
+* Thu class: Network topology (K&R 6.6)
 * Thu: `Project 1 (Topology) released`
 * Fri section: Mininet tutorial
 * Sun: `Project 0 checkin`
 
-### Week 2 (Jan 30-Feb 5)
+### Week 2 
 * Tue class: Link layer: Ethernet (K&R 6.1-6.4)
 * Thu class: Network layer data plane: IP, DHCP (K&R 4.1-4.3, 6.7)
 
-### Week 3 (Feb 6-Feb 12)
-* Tue class: Network layer; Discovery protocols
-* Thu class: Routing basics: linkstate (K&R 5.2, 5.3, 6.4) 
+### Week 3 
+* Tue class: Network layer: Data plane
+* Thu class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3, 6.4) 
 * Thu: `Project 2 (intradomain routing) released`
+* Fri section: Routing tutorial
 * Sun Feb 12: `Project 1 due`
 
-### Week 4 (Feb 13-Feb 19)
-* Tue class: Distance vector; Data Center routing;  (K&R 5.4)
-* Thu class: Data center routing; BGP
-* Fri section: Routing tutorial (Vic)
+### Week 4 
+* Tue class: Network layer: data center routing (K&R 5.4)
+* Thu class: Network layer: Control plane: BGP; BGP in data centers
 
-### Week 5 (Feb 20-Feb 26)
-* Tue class: BGP
-* Thu class: Networked Applications
+### Week 5 
+* Tue class: Network layer: SDN in the control plane (K&R4.4, 5.5)
+   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
+* Thu class: Network layer: SDN in the data plane
 * Thu: `Project 3 (ECMP) Released`
+* Fri section: P4 tutorial
 * Sun Feb 26: `Project 2 Due`
 
-### Week 6 (Feb 27-Mar 5)
-* Tue class: Networked Applications
-* Thu class: Transport layer and TCP basics (K&R 3.1-3.5) 
-* Thu: `Homework released`
-* Fri section: P4 tutorial (Alex)
+### Week 6 
+* Tue class: Transport layer: TCP basics (K&R 3.1-3.5)
+* Thu class: Transport layer: TCP basics (cont.) 
 
-### Week 7 (Mar 6-Mar 12)
-* Tue class: TCP basics (cont.) 
-* Thu class:  Congestion control *K&R 3.6*; Course Review for exams
+### Week 7 
+* Tue class: Transport layer: Congestion control (K&R 3.6)
+* Thu class: Transport layer: TCP fairness (K&R 3.7.1) 
 * Thu: `Project 4 (reliable transport) released`
-* Fri section: Transport tutorial (Minghao)
+* Fri section: Transport tutorial 
 * Sun Mar 12: Project 3 Due
 
-### Week 8 (Mar 13-Mar 19) Spring recess. No class
-- Sun: `Homework due`
+### Week 8  Spring recess. No class
 
-### Week 9 (Mar 20-Mar 26)
-* Tue class:  Exam
+### Week 9 
+* Tue class:  Transport layer: Data center TCP
+* Thu class:  Data center load balancing 
+
+### Week 10 
+* Tue class: Exam
    * Extension school students will take the exam on canvas on Mar 21-22. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
-* Thu class:  Guest lecture by Ying Zhang (Meta)
-* Thur: `Project 5 (Flowlet) released`
+* Thu class: Guest lecture
+* Thur: `Project 5 (bufferbloat) released`
+* Fri section: data center load balancing tutorial 
 * Sun Mar 26: `Project 4 due`
 
-### Week 10 (Mar 27-Apr 2)
-* Tue class: TCP fairness *K&R 3.7.1*; 
-* Thu class: Data Center TCP (K&R 3.7.2)
-* Fri section: Flowlet and CONGA tutorial (Vic)
-
-### Week 11 (Apr 3-Apr 9)
-* Tue class: Data center load balancing (CONGA)
-* Thu class: Software defined networking: The Top-down view (K&R4.4, 5.5)
-   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Thur: Project 6 (CONGA) released
+### Week 11 
+* Tue class: Wide area: Traffic engineering
+* Thu class: Application: Internet application HTTP and DNS
+   
+* Thur: Project 6 (traffic balancing) released
 * Sun Apr 9: Project 5 due
 
-### Week 12 (Apr 10-Apr 16)
-* Tue class: Software-defined networking: the bottom-up view (Switches and P4)
-* Thur class: Traffic engineering in WAN (wide-area networking) 
+### Week 12 
+* Tue class: Application: Data center applications
+* Thur class:  Application: Data center applications
 * Fri section: Final project suggestions (Minghao)
 
-### Week 13 (Apr 17-Apr 23)
-* Tue class: Security and Ethics
-* Thur class: Network virtualization; Network function virtulization; Course summary
+### Week 13 
+* Tue class: Ethics
+* Thur class:  
 * Thur: `Project 7 released`
 * Sun Apr 23: `Project 6 due`
 
-### Week 14 (Apr 24-Apr 30)
-* Tue class: Programmable networks and their applications
+### Week 14 
+* Tue class: Course summary
 
 ### Week 15
 - May 5 Friday: `Project 7 due`
@@ -159,9 +157,10 @@ Please plan your work on the assignments so that travel, interviews, athletics, 
 Several projects depend on earlier projects. *So even if you miss a deadline of a previous project, it is still important to finish it so you can build future projects on top of it.* Here are the project dependencies:
 
 ```
-  Project 0 (Setup) --> Project 1 (Topology) --> Project 3 (ECMP) --> Project 5 (Flowlet) --> Project 6 (CONGA)
+  Project 0 (Setup) --> Project 1 (Topology) --> Project 3 (ECMP) --> Project 6 (Traffic balancing)
   Project 2 (Intradomain routing)
   Project 4 (Reliable transport)
+  Project 5 (Bufferbloat)
   Project 7 (Final project)
 ```
 
