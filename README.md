@@ -43,85 +43,92 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ## Syllabus
 
+** Every week, there will be one or two homework questions which are released on Thursday and due the next Monday. It will just take a short time to finish but will serve as a way for you to get a recap of what we learnt last week to prepare for the new week. **
+
 ### Week 1 
-* Tue class: Course Overview (K&R 1.3)
+* Jan 23 Tue class: Course Overview (K&R 1.3)
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose 
-* Thu class: Network topology (K&R 6.6)
-* Thu: `Project 1 (Topology) released`
-* Fri section: Mininet tutorial
-* Sun: `Project 0 checkin`
+* Jan 25 Thu class: Network topology (K&R 6.6)
+* Jan 25 Thu: `Project 1 (Topology) released`
+* Jan 26 Fri section: Mininet tutorial
+* Jan 28 Sun: `Project 0 checkin`
 
 ### Week 2 
-* Tue class: Link layer: Ethernet (K&R 6.1-6.4)
-* Thu class: Network layer data plane: IP, DHCP (K&R 4.1-4.3, 6.7)
+* Jan 30 Tue class: Link layer: Ethernet (K&R 6.1-6.4)
+* Feb 1 Thu class: Network layer data plane: IP, DHCP (K&R 4.1-4.3, 6.7)
 
 ### Week 3 
-* Tue class: Network layer: Data plane
-* Thu class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3, 6.4) 
-* Thu: `Project 2 (intradomain routing) released`
-* Fri section: Routing tutorial
-* Sun Feb 12: `Project 1 due`
+* Feb 6 Tue class: Network layer: Data plane
+* Feb 8 Thu class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3, 6.4) 
+* Feb 8 Thu: `Project 2 (intradomain routing) released`
+* Feb 9 Fri section: Routing tutorial
+* Feb 11 Sun: `Project 1 due`
 
 ### Week 4 
-* Tue class: Network layer: data center routing (K&R 5.4)
-* Thu class: Network layer: Control plane: BGP; BGP in data centers
+* Feb 13 Tue class: Network layer: data center routing (K&R 5.4)
+* Feb 15 Thu class: Network layer: Control plane: BGP; BGP in data centers
+* Feb 18 Sun: `Project 1 grading out`
 
 ### Week 5 
-* Tue class: Network layer: SDN in the control plane (K&R4.4, 5.5)
+* Feb 20 Tue class: Network layer: SDN in the control plane (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Thu class: Network layer: SDN in the data plane
-* Thu: `Project 3 (ECMP) Released`
-* Fri section: P4 tutorial
-* Sun Feb 26: `Project 2 Due`
+* Feb 22 Thu class: Network layer: SDN in the data plane
+* Feb 22 Thu: `Project 3 (ECMP) Released`
+* Feb 23 Fri section: P4 tutorial
+* Feb 25 Sun: `Project 2 Due`
 
 ### Week 6 
-* Tue class: Transport layer: TCP basics (K&R 3.1-3.5)
-* Thu class: Transport layer: TCP basics (cont.) 
+* Feb 27 Tue class: Transport layer: TCP basics (K&R 3.1-3.5)
+* Feb 29 Thu class: Transport layer: TCP basics (cont.) 
+* Mar 3 Sun: `Project 2 grading out`
 
 ### Week 7 
-* Tue class: Transport layer: Congestion control (K&R 3.6)
-* Thu class: Transport layer: TCP fairness (K&R 3.7.1) 
-* Thu: `Project 4 (reliable transport) released`
-* Fri section: Transport tutorial 
-* Sun Mar 12: Project 3 Due
+* Mar 5 Tue class: Transport layer: Congestion control (K&R 3.6)
+* Mar 7 Thu class: Transport layer: TCP fairness (K&R 3.7.1) 
+* Mar 7 Thu: `Project 4 (reliable transport) released`
+* Mar 8 Fri section: Transport tutorial 
+* Mar 10 Sun: Project 3 Due
 
 ### Week 8  Spring recess. No class
 
 ### Week 9 
-* Tue class:  Transport layer: Data center TCP
-* Thu class:  Data center load balancing 
+* Mar 19 Tue class:  Transport layer: Data center TCP
+* Mar 21 Thu class:  Data center load balancing 
+* Mar 24 Sun: `Project 3 grading out`
 
 ### Week 10 
-* Tue class: Exam
+* Mar 26 Tue class: **Exam**
    * Extension school students will take the exam on canvas on Mar 21-22. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
-* Thu class: Guest lecture
-* Thur: `Project 5 (bufferbloat) released`
-* Fri section: data center load balancing tutorial 
-* Sun Mar 26: `Project 4 due`
+* Mar 28 Thu class: Guest lecture
+* Mar 28 Thu: `Project 5 (bufferbloat) released` *Note project 5 is due in a week*
+* Mar 29 Fri section: data center load balancing tutorial 
+* Mar 31 Sun: `Project 4 due`
 
 ### Week 11 
-* Tue class: Wide area: Traffic engineering
-* Thu class: Application: Internet application HTTP and DNS
-   
-* Thur: Project 6 (traffic balancing) released
-* Sun Apr 9: Project 5 due
+* Apr 2 Tue class: Wide area: Traffic engineering
+* Apr 4 Thu class: Application: Internet application HTTP and DNS   
+* Apr 4 Thu: `Project 6 (traffic balancing) released`
+* Apr 7 Sun: `Project 5 due`
+* Apr 7 Sun: `Project 4 grading out`
 
 ### Week 12 
-* Tue class: Application: Data center applications
-* Thur class:  Application: Data center applications
-* Fri section: Final project suggestions (Minghao)
+* Apr 9 Tue class: Application: Data center applications
+* Apr 11 Thu class:  Application: Data center applications
+* Apr 12 Fri section: Final project suggestions (Minghao)
+* Apr 14 Sun: `Project 5 grading out` 
 
 ### Week 13 
-* Tue class: Ethics
-* Thur class:  
-* Thur: `Project 7 released`
-* Sun Apr 23: `Project 6 due`
+* Apr 16 Tue class: Ethics
+* Apr 18 Thu class:  
+* Apr 18 Thu: `Project 7 released`
+* Apr 21 Sun: `Project 6 due`
 
 ### Week 14 
-* Tue class: Course summary
+* Apr 23 Tue class: Course summary
+* April 28 Sun: `Project 6 grading out`
 
 ### Week 15
-- May 5 Friday: `Project 7 due`
+- May 5 Fri: `Project 7 due` (Tentative)
 
 ## Project
 
@@ -196,3 +203,4 @@ DCE takes student privacy seriously. Any medical documentation should be provide
 Students may not post, publish, sell, or otherwise publicly distribute course materials without the written permission of the course instructor. Such materials include, but are not limited to, the following: lecture notes, lecture slides, video, or audio recordings, assignments, problem sets, examinations, other students’ work, and answer keys. Students who sell, post, publish, or distribute course materials without written permission, whether for the purposes of soliciting answers or otherwise, may be subject to disciplinary action, up to and including requirement to withdraw. Further, students may not make video or audio recordings of class sessions for their own use without written permission of the instructor. 
 
 
+![image](https://github.com/minlanyu/cs145-site/assets/1844406/d59d5a42-35c4-4504-99fd-e6b47cbe8a55)
