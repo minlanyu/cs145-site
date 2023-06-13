@@ -46,7 +46,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ** Every week, there will be one or two homework questions which are released on Thursday and due the next Monday. It will just take a short time to finish but will serve as a way for you to get a recap of what we learnt last week to prepare for the new week. **
 
 ### Week 1 
-* Jan 23 Tue class: Course Overview (K&R 1.3)
+* Jan 23 Tue class: Course Overview 
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose 
 * Jan 25 Thu class: Network topology (K&R 6.6)
 * Jan 25 Thu: `Project 1 (Topology) released`
@@ -55,36 +55,36 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 2 
 * Jan 30 Tue class: Link layer: Ethernet (K&R 6.1-6.4)
-* Feb 1 Thu class: Network layer data plane: IP, DHCP (K&R 4.1-4.3, 6.7)
+* Feb 1 Thu class: Network layer: data plane: packet switching vs circuit switching (K&R 1.3)
 
 ### Week 3 
-* Feb 6 Tue class: Network layer: Data plane
-* Feb 8 Thu class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3, 6.4) 
+* Feb 6 Tue class: Network layer: Data plane: IP, ARP, DHCP (K&R 4.1-4.3, 6.4)
+* Feb 8 Thu class:  
 * Feb 8 Thu: `Project 2 (intradomain routing) released`
 * Feb 9 Fri section: Routing tutorial
 * Feb 11 Sun: `Project 1 due`
 
 ### Week 4 
-* Feb 13 Tue class: Network layer: data center routing (K&R 5.4)
-* Feb 15 Thu class: Network layer: Control plane: BGP; BGP in data centers
+* Feb 13 Tue class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3)
+* Feb 15 Thu class: Network layer: data center routing (K&R 5.4)
 * Feb 18 Sun: `Project 1 grading out`
 
 ### Week 5 
-* Feb 20 Tue class: Network layer: SDN in the control plane (K&R4.4, 5.5)
+* Feb 20 Tue class: Network layer: Control plane: BGP; BGP in data centers
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Feb 22 Thu class: Network layer: SDN in the data plane
+* Feb 22 Thu class: Network layer: SDN in the control plane (K&R4.4, 5.5)
 * Feb 22 Thu: `Project 3 (ECMP) Released`
 * Feb 23 Fri section: P4 tutorial
 * Feb 25 Sun: `Project 2 Due`
 
 ### Week 6 
-* Feb 27 Tue class: Transport layer: TCP basics (K&R 3.1-3.5)
-* Feb 29 Thu class: Transport layer: TCP basics (cont.) 
+* Feb 27 Tue class: Network layer: SDN in the data plane
+* Feb 29 Thu class: Transport layer: TCP basics (K&R 3.1-3.5)
 * Mar 3 Sun: `Project 2 grading out`
 
 ### Week 7 
-* Mar 5 Tue class: Transport layer: Congestion control (K&R 3.6)
-* Mar 7 Thu class: Transport layer: TCP fairness (K&R 3.7.1) 
+* Mar 5 Tue class: Transport layer: TCP basics (cont.) 
+* Mar 7 Thu class: Transport layer: Congestion control (K&R 3.6) 
 * Mar 7 Thu: `Project 4 (reliable transport) released`
 * Mar 8 Fri section: Transport tutorial 
 * Mar 10 Sun: Project 3 Due
@@ -92,8 +92,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### Week 8  Spring recess. No class
 
 ### Week 9 
-* Mar 19 Tue class:  Transport layer: Data center TCP
-* Mar 21 Thu class:  Data center load balancing 
+* Mar 19 Tue class:  Transport layer: TCP fairness (K&R 3.7.1)
+* Mar 21 Thu class:  Transport layer: Data center TCP
 * Mar 24 Sun: `Project 3 grading out`
 
 ### Week 10 
@@ -105,21 +105,21 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * Mar 31 Sun: `Project 4 due`
 
 ### Week 11 
-* Apr 2 Tue class: Wide area: Traffic engineering
-* Apr 4 Thu class: Application: Internet application HTTP and DNS   
+* Apr 2 Tue class: Data center load balancing 
+* Apr 4 Thu class: Wide area: Traffic engineering   
 * Apr 4 Thu: `Project 6 (traffic balancing) released`
 * Apr 7 Sun: `Project 5 due`
 * Apr 7 Sun: `Project 4 grading out`
 
 ### Week 12 
-* Apr 9 Tue class: Application: Data center applications
+* Apr 9 Tue class: Application: Internet application HTTP and DNS
 * Apr 11 Thu class:  Application: Data center applications
 * Apr 12 Fri section: Final project suggestions (Minghao)
 * Apr 14 Sun: `Project 5 grading out` 
 
 ### Week 13 
 * Apr 16 Tue class: Ethics
-* Apr 18 Thu class:  
+* Apr 18 Thu class: Application: Data center applications
 * Apr 18 Thu: `Project 7 released`
 * Apr 21 Sun: `Project 6 due`
 
