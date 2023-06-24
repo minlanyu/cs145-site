@@ -136,7 +136,7 @@ While the recommended virtual machine monitor for our course is VMWare, our proj
 Note that VirtualBox currently does not support M-series Macbook.
 ## Using github classroom
 
-This course uses git and github classroom for all its projects. The [Harvard SEAS git introduction](https://wiki.harvard.edu/confluence/display/USERDOCS/Introduction+To+GIT) is a good way to get set up with git quickly. Please take a look at [git notes](http://cs61.seas.harvard.edu/site/ref/git) for the CS 61 Fall 2020 offering for a more interesting introduction. We discuss using github classroom for our projects here.
+This course uses git and github classroom for all its projects. The [Harvard SEAS git introduction](https://wiki.harvard.edu/confluence/display/USERDOCS/Introduction+To+GIT) is a good way to get set up with git quickly. Please take a look at [git notes](http://cs61.seas.harvard.edu/site/ref/git) and [setup github notes](https://cs61.seas.harvard.edu/site/2021/SetupGitHub/) for the CS 61 Fall 2020 offering for a more interesting introduction. We discuss using github classroom for our projects here.
 
 ### Requesting your project clone
 Each project has or will have a github classroom link posted on our course website. Please click the link *after* you are signed into your github account. This will begin the process of creating a project clone repository for you. You will get an email notification when your cloned repository is accessible.
