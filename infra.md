@@ -165,9 +165,9 @@ When there are changes to the project (announced in Ed), you need to pull latest
 ./pull_update.sh
 ```
 
-### Submitting the project
+### Submit the project
 
-You are expected to tag the version you would like us to grade on using following commands and push it to your own repo. You can learn from this tutorial on how to use git tag command. This command will record the time of your submission for our grading purpose.
+You are expected to tag the version you would like us to grade on using following commands and push it to your own repo. You can learn from [this tutorial](https://git-scm.com/book/en/v2/Git-Basics-Tagging) on how to use git tag command. This command will record the time of your submission for our grading purpose.
 ```
 git tag -a submission -m "Final Submission"
 git push --tags
