@@ -138,6 +138,13 @@ Note that VirtualBox currently does not support M-series Macbook.
 
 This course uses git and github classroom for all its projects. The [Harvard SEAS git introduction](https://wiki.harvard.edu/confluence/display/USERDOCS/Introduction+To+GIT) is a good way to get set up with git quickly. Please take a look at [git notes](http://cs61.seas.harvard.edu/site/ref/git) for the CS 61 Fall 2020 offering for a more interesting introduction. We discuss using github classroom for our projects here.
 
+### Configure git username and email
+```
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+```
+
+
 ### Requesting your project clone
 Each project has or will have a github classroom link posted on our course website. Please click the link *after* you are signed into your github account. This will begin the process of creating a project clone repository for you. You will get an email notification when your cloned repository is accessible.
 
@@ -151,7 +158,19 @@ git clone https://github.com/Harvard-CS145/projectX-YYY.git
 
 where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
 
-### Submitting the project
-Simply commiting and pushing all changes to the main branch of your cloned project repository counts as a submission. We will consider the *most recent commit prior to the project deadline* as your final submission. In the case of extensions, please leave a note *Not ready for grading* on your commited repo, and mark your final submission as *Ready for grading*. We will count late hours accordingly.
+
+### Pull project updates
+When there are changes to the project (announced in Ed), you need to pull latest updates by executing `pull_upate.sh` script in the project directory.
+```
+./pull_update.sh
+```
+
+### Submit the project
+
+You are expected to tag the version you would like us to grade on using following commands and push it to your own repo. You can learn from [this tutorial](https://git-scm.com/book/en/v2/Git-Basics-Tagging) on how to use git tag command. This command will record the time of your submission for our grading purpose.
+```
+git tag -a submission -m "Final Submission"
+git push --tags
+```
 
 <p><i>Note: Some notes about VMWare were borrowed from the CS 61 offered by Eddie Kohler.</i></p>
