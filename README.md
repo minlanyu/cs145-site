@@ -14,7 +14,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - TF Office Hours:
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
-  ### Note: We are in the process of adjusting course projects (which significantly reduces the amount of P4 programming this year)
+### Note: We are in the process of adjusting course projects (which significantly reduces the amount of P4 programming this year)
 
 ## Textbook
 - This course covers both basic networking concepts and advanced cloud networking concepts.
