@@ -14,6 +14,8 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - TF Office Hours:
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
+  ### Note: We are in the process of adjusting course projects (which significantly reduces the amount of P4 programming this year)
+
 ## Textbook
 - This course covers both basic networking concepts and advanced cloud networking concepts.
 - For basic networking concepts, you can refer to the textbook (K&R): Computer Networking: A Top-Down Approach, by Jim Kurose and Keith Ross. The latest edition is the 8th edition. Earlier editions are fine. The numbers in the syllabus are based on the 7th edition.
