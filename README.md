@@ -7,14 +7,14 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Instructor: Minlan Yu 
 - Lecture time: T/TH 9:45-11am
 - Lecture location: TBD
-- Section time: Fridays 2-3pm every other week (available on demand for extension students). Please see the syllabus below on the actual dates for sections.
+- Section time: Fridays 2:15-3:15pm every other week (available on demand for extension students). Please see the syllabus below on the actual dates for sections.
 - Section location: TBD
 - Minlan Office hour: Tue 11-12, SEC 4.415
-- TF:  
+- TF:  ChonLam Lao (chonlamlao@g.harvard.edu)
 - TF Office Hours:
 - Prerequisite: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
-### Note: We are in the process of adjusting course projects (which significantly reduces the amount of P4 programming this year)
+**Note: This year we will significantly reduces the amount of P4 programming. Instead, we will add a few review questions as homeworks**
 
 ## Textbook
 - This course covers both basic networking concepts and advanced cloud networking concepts.
@@ -26,7 +26,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 ### FAS version
 - Class and biweekly section participation is mandatory.
 - Programming projects: 70%
-  - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
+  - You will build data center networks and network protocols on your laptop, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
 - Homework: 10%
 - Midterm exam: 15%
 - In-class and Ed participation 5%
@@ -47,6 +47,13 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ** Every week, there will be one or two homework questions which are released on Thursday and due the next Monday. It will just take a short time to finish but will serve as a way for you to get a recap of what we learnt last week to prepare for the new week. **
 
+### Prework
+
+* [Infrastructure notes](infra.md) 
+
+* Project 0
+You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy6) before the class or in the first week of the class. Project  0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+
 ### Week 1 
 * Jan 23 Tue class: Course Overview 
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose 
@@ -61,18 +68,18 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 3 
 * Feb 6 Tue class: Network layer: Data plane: IP, ARP, DHCP (K&R 4.1-4.3, 6.4)
-* Feb 8 Thu class:  
+* Feb 8 Thu class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3)
 * Feb 8 Thu: `Project 2 (intradomain routing) released`
 * Feb 9 Fri section: Routing tutorial
 * Feb 11 Sun: `Project 1 due`
 
 ### Week 4 
-* Feb 13 Tue class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3)
-* Feb 15 Thu class: Network layer: data center routing (K&R 5.4)
+* Feb 13 Tue class: Network layer: data center routing (K&R 5.4)
+* Feb 15 Thu class: Network layer: Control plane: BGP;
 * Feb 18 Sun: `Project 1 grading out`
 
 ### Week 5 
-* Feb 20 Tue class: Network layer: Control plane: BGP; BGP in data centers
+* Feb 20 Tue class: Network layer: BGP in data centers
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Feb 22 Thu class: Network layer: SDN in the control plane (K&R4.4, 5.5)
 * Feb 22 Thu: `Project 3 (ECMP) Released`
@@ -100,7 +107,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ### Week 10 
 * Mar 26 Tue class: **Exam**
-   * Extension school students will take the exam on canvas on Mar 21-22. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
+   * Extension school students will take the exam on canvas on Mar 26-27. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
 * Mar 28 Thu class: Guest lecture
 * Mar 28 Thu: `Project 5 (bufferbloat) released` *Note project 5 is due in a week*
 * Mar 29 Fri section: data center load balancing tutorial 
@@ -140,11 +147,6 @@ This course project runs throughout the semester. Through this project you will 
 
 * Build a full stack data center network on your own laptop ranging from topology, routing, to applications.
 * You will get hands-on experiences of the major concepts learnt in lectures and understand the tradeoffs of different design decisions
-
-### [Infrastructure notes](infra.md) 
-
-### Project Zero
-You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy6) before the class or in the first week of the class. Assignment 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Late policy
 You should submit your work on an assignment (electronically) before its due time. All assignments will be due at `11:59pm ET` on the deadline date. 
