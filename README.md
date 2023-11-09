@@ -23,24 +23,13 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - For advanced topics of networking, please check out lecture notes and class slides.
    
 ## Coursework
-### FAS version
-- Class and biweekly section participation is mandatory.
-- Programming projects: 70%
+- Class and biweekly section participation is mandatory. (Extension school: Classes and sections are can be attended by via live stream or on demand.)
+- Programming projects: 60%
   - You will build data center networks and network protocols on your laptop, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
-- Homework: 10%
-- Midterm exam: 15%
-- In-class and Ed participation 5%
+- Homework: 18%
+- Midterm exam: 17%
+- In-class and Ed participation 5% (Extension school: Ed participation and online questions in class)
 - Please refer to the first lecture slides for details.
-- All assignments will be due at 11:59pm ET on the deadline date.
-
-### Extension school version
-- Classes and sections are can be attended by via live stream or on demand.
-- Programming projects: 70%
-  - You will be building an example data center network on your laptop with seven projects, which include topology, routing, load balancing, failure recovery, measurement, and congestion control.
-- Homework: 10%
-- Midterm exam: 15%
-- Ed participation 5%
-- Note that the lecture slide version is for FAS class not extension school.
 - All assignments will be due at 11:59pm ET on the deadline date.
 
 ## Syllabus
@@ -83,7 +72,7 @@ You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Feb 22 Thu class: Network layer: SDN in the data plane
 * Feb 22 Thu: `Project 3 (ECMP) Released`
-* Feb 23 Fri section: P4 tutorial
+* Feb 23 Fri section: Project 3 ECMP tutorial
 * Feb 25 Sun: `Project 2 Due`
 
 ### Week 6 
