@@ -45,7 +45,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ## Syllabus
 
-** Every week, there will be one or two homework questions which are released on Thursday and due the next Monday. It will just take a short time to finish but will serve as a way for you to get a recap of what we learnt last week to prepare for the new week. **
+** Every week, there will be one or two homework questions which are released on Thursday and due by midnight of the following Monday. It will just take a short time to finish but will serve as a way for you to get a recap of what we learnt last week to prepare for the new week. **
 
 ### Prework
 
@@ -81,19 +81,19 @@ You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy
 ### Week 5 
 * Feb 20 Tue class: Network layer: SDN in the control plane (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Feb 22 Thu class: 
+* Feb 22 Thu class: Network layer: SDN in the data plane
 * Feb 22 Thu: `Project 3 (ECMP) Released`
 * Feb 23 Fri section: P4 tutorial
 * Feb 25 Sun: `Project 2 Due`
 
 ### Week 6 
-* Feb 27 Tue class: Network layer: SDN in the data plane
-* Feb 29 Thu class: Transport layer: TCP basics (K&R 3.1-3.5)
+* Feb 27 Tue class: Transport layer: TCP basics (K&R 3.1-3.5)
+* Feb 29 Thu class: Transport layer: TCP basics (cont.)
 * Mar 3 Sun: `Project 2 grading out`
 
 ### Week 7 
-* Mar 5 Tue class: Transport layer: TCP basics (cont.) 
-* Mar 7 Thu class: Transport layer: Congestion control (K&R 3.6) 
+* Mar 5 Tue class: Transport layer: Congestion control (K&R 3.6) 
+* Mar 7 Thu class: Transport layer: TCP fairness (K&R 3.7.1) 
 * Mar 7 Thu: `Project 4 (reliable transport) released`
 * Mar 8 Fri section: Transport tutorial 
 * Mar 10 Sun: Project 3 Due
@@ -101,8 +101,8 @@ You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy
 ### Week 8  Spring recess. No class
 
 ### Week 9 
-* Mar 19 Tue class:  Transport layer: TCP fairness (K&R 3.7.1)
-* Mar 21 Thu class:  Transport layer: Data center TCP
+* Mar 19 Tue class: Transport layer: Data center TCP 
+* Mar 21 Thu class: Course review 
 * Mar 24 Sun: `Project 3 grading out`
 
 ### Week 10 
