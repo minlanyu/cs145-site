@@ -45,7 +45,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 
 ## Syllabus
 
-** Every week, there will be one or two homework questions which are released on Thursday and due by midnight of the following Monday. It will just take a short time to finish but will serve as a way for you to get a recap of what we learnt last week to prepare for the new week. **
+**Every week, there will be one or two homework questions which are released on Thursday and due by midnight of the following Monday. It will just take a short time to finish but will serve as a way for you to get a recap of what we learnt last week to prepare for the new week.**
 
 ### Prework
 
