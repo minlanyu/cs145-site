@@ -75,13 +75,13 @@ You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy
 
 ### Week 4 
 * Feb 13 Tue class: Network layer: data center routing (K&R 5.4)
-* Feb 15 Thu class: Network layer: Control plane: BGP;
+* Feb 15 Thu class: Network layer: Control plane: BGP; BGP in data centers
 * Feb 18 Sun: `Project 1 grading out`
 
 ### Week 5 
-* Feb 20 Tue class: Network layer: BGP in data centers
+* Feb 20 Tue class: Network layer: SDN in the control plane (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Feb 22 Thu class: Network layer: SDN in the control plane (K&R4.4, 5.5)
+* Feb 22 Thu class: 
 * Feb 22 Thu: `Project 3 (ECMP) Released`
 * Feb 23 Fri section: P4 tutorial
 * Feb 25 Sun: `Project 2 Due`
@@ -109,35 +109,34 @@ You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy
 * Mar 26 Tue class: **Exam**
    * Extension school students will take the exam on canvas on Mar 26-27. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
 * Mar 28 Thu class: Guest lecture
-* Mar 28 Thu: `Project 5 (bufferbloat) released` *Note project 5 is due in a week*
+* Mar 28 Thu: `Project 5 (traffic balancing) released`
 * Mar 29 Fri section: data center load balancing tutorial 
 * Mar 31 Sun: `Project 4 due`
 
 ### Week 11 
 * Apr 2 Tue class: Data center load balancing 
 * Apr 4 Thu class: Wide area: Traffic engineering   
-* Apr 4 Thu: `Project 6 (traffic balancing) released`
-* Apr 7 Sun: `Project 5 due`
 * Apr 7 Sun: `Project 4 grading out`
 
 ### Week 12 
 * Apr 9 Tue class: Application: Internet application HTTP and DNS
 * Apr 11 Thu class:  Application: Data center applications
-* Apr 12 Fri section: Final project suggestions (Minghao)
-* Apr 14 Sun: `Project 5 grading out` 
+* Apr 12 Fri section: Final project suggestions 
+* Apr 18 Thu: `Project 6 released`
+* Apr 14 Sun: `Project 5 due`
+
 
 ### Week 13 
 * Apr 16 Tue class: Ethics
 * Apr 18 Thu class: Application: Data center applications
-* Apr 18 Thu: `Project 7 released`
-* Apr 21 Sun: `Project 6 due`
+* Apr 21 Sun: `Project 5 grading out` 
+
 
 ### Week 14 
 * Apr 23 Tue class: Course summary
-* April 28 Sun: `Project 6 grading out`
 
 ### Week 15
-- May 5 Fri: `Project 7 due` (Tentative)
+- May 5 Fri: `Project 6 due` (Tentative)
 
 ## Project
 
