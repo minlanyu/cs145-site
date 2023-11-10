@@ -110,8 +110,8 @@ You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy
 ### Week 12 
 * Apr 9 Tue class: Application: Internet application HTTP and DNS
 * Apr 11 Thu class:  Application: Data center applications
+* Apr 11 Thu: `Project 6 released`
 * Apr 12 Fri section: Final project suggestions 
-* Apr 18 Thu: `Project 6 released`
 * Apr 14 Sun: `Project 5 due`
 
 
