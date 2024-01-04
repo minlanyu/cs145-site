@@ -1,5 +1,9 @@
 # CS 145, Spring 2024: Networking at Scale
 
+## ***Announcement***
+- **_[NEW]_ [2024/01/04] The Spring 2024 Project Zero has been released, and the link to [Project Zero](https://classroom.github.com/a/E8YYO96_) in this site has been updated.**
+---
+
 ## Overview
 
 This course studies computer network topics including Layer 2/Layer 3 topology, routing, transport protocols, traffic engineering, network functions, programmable switches, and software-defined networking. Modern networks have grown to large scale (connecting millions of servers) and high speed (Terabits per second) to meet the needs of cloud applications in business and society. Thus, in addition to learning the conventional concepts in networking, we will also discuss how to adapt these concepts to large-scale networks. These discussions will hopefully help deepen our understanding of networking technologies. This course includes lectures and system programming projects. 
@@ -41,7 +45,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * [Infrastructure notes](infra.md) 
 
 * Project 0
-You are required to finish [Project Zero](https://classroom.github.com/a/i8-2KYy6) before the class or in the first week of the class. Project  0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You are required to finish [Project Zero](https://classroom.github.com/a/E8YYO96_) before the class or in the first week of the class. Project 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Week 1 
 * Jan 23 Tue class: Course Overview 
