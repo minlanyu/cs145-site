@@ -1,6 +1,7 @@
 # CS 145, Spring 2024: Networking at Scale
 
 ## ***Announcement***
+- **_[NEW]_ All future annoucements will happen at Ed. Please go to Canvas-->Ed to join the forum there.**
 - **_[NEW]_ [2024/01/04] The Spring 2024 Project Zero has been released, and the link to [Project Zero](https://classroom.github.com/a/E8YYO96_) in this site has been updated.**
 ---
 
