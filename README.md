@@ -46,7 +46,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * [Infrastructure notes](infra.md) 
 
 * Project 0
-You are required to finish [Project Zero](https://classroom.github.com/a/E8YYO96) before the class or in the first week of the class. Project 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You are required to finish [Project Zero](https://classroom.github.com/a/E8YYO96_) before the class or in the first week of the class. Project 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Week 1 
 * Jan 23 Tue class: Course Overview 
