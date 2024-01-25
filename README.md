@@ -2,7 +2,7 @@
 
 ## ***Announcement***
 - **_[NEW]_ All future annoucements will happen at Ed. Please go to Canvas-->Ed to join the forum there.**
-- **_[NEW]_ [2024/01/04] The Spring 2024 Project Zero has been released, and the link to [Project Zero](https://classroom.github.com/a/E8YYO96_) in this site has been updated.**
+- **_[NEW]_ [2024/01/04] The Spring 2024 Project 0 has been released, and the link to [Project 0](https://classroom.github.com/a/E8YYO96_) in this site has been updated.**
 ---
 
 ## Overview
@@ -48,7 +48,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 * [Infrastructure notes](infra.md) 
 
 * Project 0
-You are required to finish [Project Zero](https://classroom.github.com/a/E8YYO96_) before the class or in the first week of the class. Project 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
+You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) before the class or in the first week of the class. Project 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Week 1 
 * Jan 23 Tue class: Course Overview 
@@ -92,7 +92,7 @@ You are required to finish [Project Zero](https://classroom.github.com/a/E8YYO96
 * Mar 7 Thu class: Transport layer: TCP fairness (K&R 3.7.1) 
 * Mar 7 Thu: `Project 4 (reliable transport) released`
 * Mar 8 Fri section: Transport tutorial 
-* Mar 10 Sun: Project 3 Due
+* Mar 10 Sun: `Project 3 Due`
 
 ### Week 8  Spring recess. No class
 
