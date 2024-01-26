@@ -163,11 +163,9 @@ Please plan your work on the assignments so that travel, interviews, athletics, 
 Several projects depend on earlier projects. *So even if you miss a deadline of a previous project, it is still important to finish it so you can build future projects on top of it.* Here are the project dependencies:
 
 ```
-  Project 0 (Setup) --> Project 1 (Topology) --> Project 3 (ECMP) --> Project 6 (Traffic balancing)
+  Project 0 (Setup) --> Project 1 (Topology) --> Project 3 (ECMP) --> Project 5 (Traffic balancing)
   Project 2 (Intradomain routing)
   Project 4 (Reliable transport)
-  Project 5 (Bufferbloat)
-  Project 7 (Final project)
 ```
 
 ### Collaboration policy
