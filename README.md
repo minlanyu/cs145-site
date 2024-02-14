@@ -70,13 +70,13 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 * Feb 11 Sun: `Project 1 due`
 
 ### Week 4 
-* Feb 13 Tue class: Network layer: Data plane: IP, ARP, DHCP (K&R 4.1-4.3, 6.4) 
-* Feb 15 Thu class: Network layer: data center routing (K&R 5.4); Network layer: Control plane: BGP; BGP in data centers
+* Feb 13 Tue class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3) 
+* Feb 15 Thu class: Network layer: Data plane: IP, ARP, DHCP (K&R 4.1-4.3, 6.4) Network layer: data center routing (K&R 5.4); 
 * Feb 16 Fri section: Routing protocols
 * Feb 18 Sun: `Project 1 grading out`
 
 ### Week 5 
-* Feb 20 Tue class: Network layer: SDN in the control plane (K&R4.4, 5.5)
+* Feb 20 Tue class: Network layer: Control plane: BGP; BGP in data centers Network layer: SDN in the control plane (K&R4.4, 5.5)
    - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Feb 22 Thu class: Network layer: SDN in the data plane
 * Feb 22 Thu: `Project 3 (ECMP) Released`
