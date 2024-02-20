@@ -83,9 +83,9 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 * Feb 25 Sun: `Project 2 Due`
 
 ### Week 6 
-* Feb 27 Tue class: Network layer: Control plane: BGP; BGP in data centers; Network layer: SDN in the control plane (K&R4.4, 5.5)
+* Feb 27 Tue class: BGP; BGP in data centers; SDN in the control plane (K&R4.4, 5.5)
   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Feb 29 Thu class: Network layer: SDN in the data plane; Transport layer: TCP basics (K&R 3.1-3.5)
+* Feb 29 Thu class: SDN in the data plane; Transport layer: TCP basics (K&R 3.1-3.5)
 * Mar 3 Sun: `Project 2 grading out`
 
 ### Week 7 
