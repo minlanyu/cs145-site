@@ -105,14 +105,14 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 ### Week 10 
 * Mar 26 Tue class: **Exam**
    * Extension school students will take the exam on canvas on Mar 26-27. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
-* Mar 28 Thu class: Guest lecture
+* Mar 28 Thu class: Data center load balancing 
 * Mar 28 Thu: `Project 5 (traffic balancing) released`
 * Mar 29 Fri section: data center load balancing tutorial 
 * Mar 31 Sun: `Project 4 due`
 
 ### Week 11 
-* Apr 2 Tue class: Data center load balancing 
-* Apr 4 Thu class: Wide area: Traffic engineering   
+* Apr 2 Tue class: Wide area: Traffic engineering
+* Apr 4 Thu class: Guest lecture   
 * Apr 7 Sun: `Project 4 grading out`
 
 ### Week 12 
