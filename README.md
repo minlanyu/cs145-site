@@ -112,7 +112,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 
 ### Week 11 
 * Apr 2 Tue class: Wide area: Traffic engineering
-* Apr 4 Thu class: Guest lecture   
+* Apr 4 Thu class: Guest lecture by Changhoon Kim (Google)  
 * Apr 7 Sun: `Project 4 grading out`
 
 ### Week 12 
