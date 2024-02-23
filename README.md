@@ -73,19 +73,18 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 * Feb 13 Tue class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3) 
 * Feb 15 Thu class: Network layer: Data plane: IP forwarding (K&R 4.1-4.3, 6.4)  
 * Feb 16 Fri section: Routing protocols
-* Feb 18 Sun: `Project 1 grading out`
 
 ### Week 5 
 * Feb 20 Tue class: Discovery service
 * Feb 22 Thu class: Network layer: data center routing (K&R 5.4);  
-* Feb 22 Thu: `Project 3 (ECMP) Released`
+* Feb 23 Fri: `Project 3 (ECMP) Released`
 * Feb 23 Fri section: Project 3 ECMP tutorial
-* Feb 25 Sun: `Project 2 Due`
+* Feb 25 Sun: `Project 1 grading out`
 
 ### Week 6 
-* Feb 27 Tue class: BGP; BGP in data centers; 
+* Feb 27 Tue class: BGP; BGP in data centers;
+* Feb 27 Tue: `Project 2 Due` 
 * Feb 29 Thu class: Transport layer: TCP basics (K&R 3.1-3.5)
-* Mar 3 Sun: `Project 2 grading out`
 
 ### Week 7 
 * Mar 5 Tue class: Transport layer: Congestion control (K&R 3.6) 
@@ -93,6 +92,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 * Mar 7 Thu: `Project 4 (reliable transport) released`
 * Mar 8 Fri section: Transport tutorial 
 * Mar 10 Sun: `Project 3 Due`
+* Mar 10 Sun: `Project 2 grading out`
 
 ### Week 8  Spring recess. No class
 
