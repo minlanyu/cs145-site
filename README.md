@@ -82,13 +82,13 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 * Feb 25 Sun: `Project 1 grading out`
 
 ### Week 6 
-* Feb 27 Tue class: BGP; BGP in data centers;
+* Feb 27 Tue class: BGP; 
 * Feb 27 Tue: `Project 2 Due` 
-* Feb 29 Thu class: Transport layer: TCP basics (K&R 3.1-3.5)
+* Feb 29 Thu class: BGP in data centers;
 
 ### Week 7 
-* Mar 5 Tue class: Transport layer: Congestion control (K&R 3.6) 
-* Mar 7 Thu class: Transport layer: TCP fairness (K&R 3.7.1) 
+* Mar 5 Tue class: Transport layer: TCP basics (K&R 3.1-3.5) 
+* Mar 7 Thu class: Transport layer: Congestion control (K&R 3.6)  
 * Mar 7 Thu: `Project 4 (reliable transport) released`
 * Mar 8 Fri section: Transport tutorial 
 * Mar 10 Sun: `Project 3 Due`
@@ -97,7 +97,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 ### Week 8  Spring recess. No class
 
 ### Week 9 
-* Mar 19 Tue class: Transport layer: Data center TCP 
+* Mar 19 Tue class: Transport layer: TCP fairness (K&R 3.7.1); Transport layer: Data center TCP 
 * Mar 21 Thu class: Course review 
 * Mar 24 Sun: `Project 3 grading out`
 
