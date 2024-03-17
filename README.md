@@ -97,8 +97,8 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 ### Week 8  Spring recess. No class
 
 ### Week 9 
-* Mar 19 Tue class: Transport layer: TCP fairness (K&R 3.7.1); Transport layer: Data center TCP 
-* Mar 21 Thu class: Course review 
+* Mar 19 Tue class: Transport layer: Congestion control (K&R 3.6); Course review 
+* Mar 21 Thu class: course review. Transport layer: TCP fairness (K&R 3.7.1); Transport layer: Data center TCP
 * Mar 24 Sun: `Project 3 grading out`
 
 ### Week 10 
