@@ -97,26 +97,26 @@ You are required to finish [Project 0](https://classroom.github.com/a/E8YYO96_) 
 ### Week 8  Spring recess. No class
 
 ### Week 9 
-* Mar 19 Tue class: Transport layer: Congestion control (K&R 3.6); Course review 
-* Mar 21 Thu class: course review. Transport layer: TCP fairness (K&R 3.7.1); Transport layer: Data center TCP
+* Mar 19 Tue class: Transport layer: Congestion control (K&R 3.6); 
+* Mar 21 Thu class: course review. 
 * Mar 24 Sun: `Project 3 grading out`
 
 ### Week 10 
 * Mar 26 Tue class: **Exam**
    * Extension school students will take the exam on canvas on Mar 26-27. The exam will be available start at 9:45AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 min of starting the exam.
-* Mar 28 Thu class: Data center load balancing 
+* Mar 28 Thu class: Data center TCP; Data center load balancing 
 * Mar 28 Thu: `Project 5 (traffic balancing) released`
 * Mar 29 Fri section: data center load balancing tutorial 
 * Mar 31 Sun: `Project 4 due`
 
 ### Week 11 
-* Apr 2 Tue class: SDN in the control plane (K&R4.4, 5.5); SDN in the data plane; Wide area: Traffic engineering
+* Apr 2 Tue class: Data center TCP; TCP fairness (K&R 3.7.1); SDN in the control plane (K&R4.4, 5.5); 
   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
 * Apr 4 Thu class: Guest lecture by Changhoon Kim (Google)  
 * Apr 7 Sun: `Project 4 grading out`
 
 ### Week 12 
-* Apr 9 Tue class: Application: Internet application HTTP and DNS
+* Apr 9 Tue class: SDN in the data plane; Wide area: Traffic engineering; Application: Internet application HTTP and DNS
 * Apr 11 Thu class: Application: Data center applications
 * Apr 11 Thu: `Project 6 released`
 * Apr 12 Fri section: Final project suggestions 
