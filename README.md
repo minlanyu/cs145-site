@@ -12,7 +12,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - Section location: SEC 1.402
 - Minlan Office hours: Tue 10-11, SEC 4.415
 - TF and office hours:
-  * Howard Huang: howardhuang@college.harvard.edu
+  * Howard Huang: howardhuang@college.harvard.edu; Winthrop House at 8pm on Wednesdays
   * Raj Joshi: rajjoshi@g.harvard.edu
   * Xiao Yao: yaoxiao@g.harvard.edu
 - Prerequisites: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
