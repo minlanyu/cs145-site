@@ -27,10 +27,9 @@ For example, you can run Linux inside Windows.</p>
 <p>We have had good experiences with a commercial VMM called <a href="https://www.vmware.com/">VMware</a>. VMware’s
 Mac OS X product is called <a href="https://www.vmware.com/products/fusion.html">VMware Fusion</a>, and its Windows product is
 called <a href="https://www.vmware.com/products/workstation-player.html">VMware Workstation</a>. These products are not free, but you can get an
-academic/personal license to use one for the duration of the class. You can also use a
-freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">VirtualBox</a>.</p> 
+academic/personal license to use one for the duration of the class.
 
-<p>To obtain VMware: Follow the instructions <a =href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
+<p>To obtain VMware: Follow the instructions <a href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
 </p>
 
 
