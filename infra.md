@@ -3,22 +3,22 @@ This page contains helpful information about setting up, completing and submitti
 
 - [Infrastructure](#infrastructure)
   - [Installing a virtual machine monitor](#installing-a-virtual-machine-monitor)
-    - [MacOS (x86), Linux and Windows users](#macos-x86-linux-and-windows-users)
-    - [M-series Mac users](#m-series-mac-users)
+    - [MacOS (x86/ARM), Linux and Windows users](#macos-x86arm-linux-and-windows-users)
   - [Setting up the VM environment](#setting-up-the-vm-environment)
     - [Machine guidelines](#machine-guidelines)
     - [Optional: Visual Studio Code Plugin](#optional-visual-studio-code-plugin)
-    - [Alternative: Virtual box](#alternative-virtual-box)
   - [Using github classroom](#using-github-classroom)
+    - [Configure git username and email](#configure-git-username-and-email)
     - [Requesting your project clone](#requesting-your-project-clone)
     - [Clone project contents](#clone-project-contents)
-    - [Submitting the project](#submitting-the-project)
+    - [Pull project updates](#pull-project-updates)
+    - [Submit the project](#submit-the-project)
 
 We *strongly recommend* you do all problem sets using the virtual machine environment we provide. Before loading our environment, you will need to install a virtual machine monitor.
 
 ## Installing a virtual machine monitor
 
-### MacOS (x86), Linux and Windows users
+### MacOS (x86/ARM), Linux and Windows users
 
 <p>A virtual machine monitor, or VMM, is a piece of software that allows you to
 run another operating system “virtually,” inside your base operating system.
@@ -27,14 +27,14 @@ For example, you can run Linux inside Windows.</p>
 <p>We have had good experiences with a commercial VMM called <a href="https://www.vmware.com/">VMware</a>. VMware’s
 Mac OS X product is called <a href="https://www.vmware.com/products/fusion.html">VMware Fusion</a>, and its Windows product is
 called <a href="https://www.vmware.com/products/workstation-player.html">VMware Workstation</a>. These products are not free, but you can get an
-academic license to use one for the duration of the class. You can also use a
+academic/personal license to use one for the duration of the class. You can also use a
 freely-available VMM, such as Oracle’s <a href="https://www.virtualbox.org/">VirtualBox</a>.</p> 
 
-<p>To obtain VMware: Follow the instructions <a href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
+<p>To obtain VMware: Follow the instructions <a =href="https://www.mikeroysoft.com/post/download-fusion-ws/">here</a>
 </p>
 
 
-<li><p>If you’re installing Fusion:</p>
+<p>If you’re installing Fusion:</p>
 
 <ol>
 <li><p>Click on the file you downloaded to mount the VMware Fusion icon on
@@ -42,9 +42,7 @@ your desktop.</p></li>
 
 <li><p>Click on the VMware Fusion (or VMware Fusion.app) icon in the new
 window, click Open if prompted, and type your password if prompted.
-Follow the instructions to install Fusion. When prompted for a license
-key, use the serial number generated for you by the VMware Software
-Center.</p></li>
+Follow the instructions to install Fusion.</p></li>
 </ol>
 
 <p>If you’re installing Workstation for Windows:</p>
@@ -79,8 +77,8 @@ got from the VMware store. Then click Finish.</li>
 We run all our programs in a virtual machine. The VM has the P4 and Mininet environment already set up for you. For project2 and project4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM. 
 
 - **Download the virtual machine we prepared**. 
-  - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded at [VMWare VM](https://drive.google.com/file/d/1SUVYC1C38YDP9Zp67ktQvtRukWCd_9Sx/view?usp=sharing). 
-  - For M-series Mac users, the virtual machine files for UTM can be downloaded at [UTM VM](https://drive.google.com/file/d/16ZIQztUSUFaPVi9vZf9QycPnIDWfoKOZ/view?usp=sharing). 
+  - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded [here](https://drive.google.com/file/d/174J6b1yCkmDGW2LEHy5jQ4FvwO1fnRDq/view?usp=sharing). 
+  - For M-series (ARM) Mac users, the virtual machine files for VMWare can be downloaded [here](https://drive.google.com/file/d/1pRjdwObWoZTjkR0xEw0XbTfTHbdgUxyv/view?usp=sharing). 
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**.
   *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
@@ -100,14 +98,6 @@ To set it up, you'll need the IP address of your virtual machine which you shoul
 
 Combining this with the terminal functionality of VSCode (which will also automatically log into the VM while you're using the plugin above) gives you a great development environment to use for the course!
 
-### Alternative: Virtual box
-While the recommended virtual machine monitor for our course is VMWare, our projects work without issues on Virtual Box as well. We can provide a Virtual Box VM on request. Here are some helpful notes in case you prefer Virtual Box.
-
-- For SSH access: Usually it is hard to use the virtual machine directly through your hypervisor. We have installed OpenSSH server in this virtual machine so that you can use it through ssh command. You can connect to your virtual machine by typing:  `ssh p4@localhost -p 1338`
-
-- Saving disk space: as you work on your VM for extended periods of time, you might notice a disk overhead larger than the files you added to your VM. We encourage taking steps to reduce virtual disk size after completing each project in case you are on a machine that does not have a lot of disk space. You can use [this post](https://superuser.com/a/529183) as a helpful guideline for reducing your virtual disk size.
-
-Note that VirtualBox currently does not support M-series Macbook.
 ## Using github classroom
 
 This course uses git and github classroom for all its projects. The [Harvard SEAS git introduction](https://wiki.harvard.edu/confluence/display/USERDOCS/Introduction+To+GIT) is a good way to get set up with git quickly. Please take a look at [git notes](http://cs61.seas.harvard.edu/site/ref/git) for the CS 61 Fall 2020 offering for a more interesting introduction. We discuss using github classroom for our projects here.
