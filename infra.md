@@ -116,7 +116,7 @@ Each project has or will have a github classroom link posted on our course websi
 After booting your virtual machine, you need to clone this project repository in your virtual machine
 
 ```
-git clone https://github.com/Harvard-CS145/projectX-YYY.git
+git clone https://github.com/Harvard-CS145/cs145-25-projectX-YYY.git
 ```
 
 where X (1-8) is the project number, and YYY is your Github username. The description and code skeletons of each minor project are in this repository. In this repository, you will finish your coding in each minor project, test your programs, and submit your codes into Github for grading.
