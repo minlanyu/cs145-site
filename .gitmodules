@@ -1,0 +1,3 @@
+[submodule "p4-utils"]
+	path = p4-utils
+	url = https://github.com/nsg-ethz/p4-utils.git
