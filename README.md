@@ -1,4 +1,4 @@
-# CS 145, Spring 2025: Networking at Scale
+# CS 1450, Spring 2025: Networking at Scale
 
 
 ## Overview
