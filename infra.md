@@ -50,7 +50,7 @@ We run all our programs in a virtual machine. The VM is built on Ubuntu 22.04.5 
   - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded [here](https://drive.google.com/file/d/1ilfS0ej46BYVpb-DqW4u9-RxaQgkIc51/view?usp=sharing).
   - For M-series (ARM) Mac users, the virtual machine files for VMWare can be downloaded [here](https://drive.google.com/file/d/1zacRYoIUl6ABbcscxMJxxBidKiTWcULc/view?usp=drive_link).
 
-- **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**. *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM. For Windows users, it is recommended to change the VM location to somewhere other than the (default) C Drive.
+- **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**. *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
 
 - **Login to the VM (VMWare).** Right click on the VM in your VM library and select "Connect to SSH".
 
