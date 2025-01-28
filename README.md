@@ -14,7 +14,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 - TF and office hours:
   * Howard Huang: howardhuang@college.harvard.edu; Winthrop Dhall at 8pm on Wednesdays (CS Nights)
   * Raj Joshi: rajjoshi@g.harvard.edu
-  * Yao Xiao: yaoxiao@g.harvard.edu
+  * Yao Xiao: yaoxiao@g.harvard.edu; Fridays 4-6pm, virtual on zoom
 - Prerequisites: There are no official prerequisites. Recommended prep: system programming at the level of CS 61.
 
 ## Textbook
