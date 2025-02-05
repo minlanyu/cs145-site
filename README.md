@@ -110,7 +110,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 * Apr 13 Sun: `Project 4 grading out`
 
 ### Week 12
-* Apr 15 Tue class: Ethics (Minlan travel)
+* Apr 15 Tue class: Host networking (by Raj Joshi, Minlan travel)
 * Apr 17 Thu class: Application: Data center applications
 * Apr 17 Thu: `Project 6 released`
 * Apr 18 Fri section: Final project suggestions
@@ -118,7 +118,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 
 ### Week 13
 * Apr 22 Tue class: Application: Data center applications
-* Apr 24 Thu class: Reseaerch topics presented by PhD students (Minlan travel)
+* Apr 24 Thu class: Research projects in networking (led by Raj Joshi, Minlan travel)
 * Apr 27 Sun: `Project 5 grading out`
 
 ### Week 14
