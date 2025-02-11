@@ -58,15 +58,14 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 
 ### Week 3
 * Feb 11 Tue class: Link layer: Ethernet (K&R 6.1-6.4)
-* Feb 13 Thu class: Network layer: data plane: packet switching vs circuit switching (K&R 1.3); Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3)
+* Feb 13 Thu class: Network layer: Control plane (K&R 5.2, 5.3)
 * Feb 13 Thu: `Project 2 (intradomain routing) released`
-* Feb 14 Fri section: Q&A on project 1
+* Feb 14 Fri section: Routing protocols
 * Feb 16 Sun: `Project 1 due`
 
 ### Week 4
-* Feb 18 Tue class: Network layer: Control plane: Link state and distance vector (K&R 5.2, 5.3)
-* Feb 20 Thu class: Network layer: Data plane: IP forwarding (K&R 4.1-4.3, 6.4)
-* Feb 21 Fri section: Routing protocols
+* Feb 18 Tue class: Network layer: Control plane (K&R 5.2, 5.3)
+* Feb 20 Thu class: Network layer: Data plane (K&R 4.1-4.3, 6.4, K&R 1.3)
 
 ### Week 5
 * Feb 25 Tue class: Discovery service
