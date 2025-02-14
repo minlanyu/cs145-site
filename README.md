@@ -48,7 +48,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 * Jan 28 Tue class: Course Overview; Internet Pinciples
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose
 * Jan 30 Thu class: Network at Scale; Network topology (K&R 6.6)
-* Jan 30 Thu: `Project 1 (Topology) released` [Project 1 Github Classroom Link](https://classroom.github.com/a/AHlfb-bJ)
+* Jan 30 Thu: `Project 1 (Topology) released` [Project 1 GitHub Classroom Link](https://classroom.github.com/a/AHlfb-bJ)
 * Jan 31 Fri section: Mininet tutorial
 * Feb 2 Sun: `Project 0 check-in`
 
@@ -59,7 +59,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 ### Week 3
 * Feb 11 Tue class: Link layer: Ethernet (K&R 6.1-6.4)
 * Feb 13 Thu class: Network layer: Control plane (K&R 5.2, 5.3)
-* Feb 13 Thu: `Project 2 (intradomain routing) released`
+* Feb 13 Thu: `Project 2 (intradomain routing) released` [Project 2 GitHub Classroom Link](https://classroom.github.com/a/RMsGm0bG)
 * Feb 14 Fri section: Q&A on project 1
 * Feb 16 Sun: `Project 1 due`
 
