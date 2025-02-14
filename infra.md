@@ -47,7 +47,7 @@ If you're installing Workstation for Windows:
 We run all our programs in a virtual machine. The VM is built on Ubuntu 22.04.5 and has the P4 and Mininet environment already set up for you. For Project 2 and Project 4 which do not use P4 or Mininet, we *still recommend* you do these projects using this VM.
 
 - **Download the virtual machine we prepared.**
-  - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded [here](https://drive.google.com/file/d/1ilfS0ej46BYVpb-DqW4u9-RxaQgkIc51/view?usp=sharing).
+  - For MacOS (x86), Linux and Windows users, the virtual machine files for VMWare can be downloaded [here](https://drive.google.com/file/d/1ehq41PDK5_fbIyii7NU_7p4BS3QKjr16/view?usp=drive_link).
   - For M-series (ARM) Mac users, the virtual machine files for VMWare can be downloaded [here](https://drive.google.com/file/d/1zacRYoIUl6ABbcscxMJxxBidKiTWcULc/view?usp=drive_link).
 
 - **Install the VM.** Directly use your virtual machine software to open the VM file downloaded. The username and the password of this VM are both **p4**. *Note*: The VM file is large. It could consume about 40G disk size in your laptop. Please reserve enough space in your disk before installing the VM.
