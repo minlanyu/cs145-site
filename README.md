@@ -45,7 +45,7 @@ This course studies computer network topics including Layer 2/Layer 3 topology, 
 You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) before the class or in the first week of the class. Project 0 will not be graded. This is just a project for you to check if you are comfortable with the level of programming in this class and to set up infrastructure for future projects.
 
 ### Week 1
-* Jan 28 Tue class: Course Overview; Internet Pinciples
+* Jan 28 Tue class: Course Overview; Internet Principles
    - Supplemental: [UMass Professor Explains the Internet in 5 Levels of Difficulty](https://www.youtube.com/watch?v=0EqKnvzo3no&t=1216s) by Jim Kurose
 * Jan 30 Thu class: Network at Scale; Network topology (K&R 6.6)
 * Jan 30 Thu: `Project 1 (Topology) released` [Project 1 GitHub Classroom Link](https://classroom.github.com/a/AHlfb-bJ)
@@ -64,13 +64,13 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 * Feb 16 Sun: `Project 1 due`
 
 ### Week 4
-* Feb 18 Tue class: Network layer: Control plane (K&R 5.2, 5.3)
-* Feb 20 Thu class: Network layer: Data plane (K&R 4.1-4.3, 6.4, K&R 1.3)
+* Feb 18 Tue class: Network layer: Data plane (K&R 4.1-4.3, 6.4, K&R 1.3)
+* Feb 20 Thu class: Discovery service
 * Feb 21 Fri section: Routing protocols
 
 ### Week 5
-* Feb 25 Tue class: Discovery service
-* Feb 27 Thu class: Network layer: data center routing (K&R 5.4)
+* Feb 25 Tue class: Network layer: data center routing (K&R 5.4)
+* Feb 27 Thu class: BGP
 * Feb 28 Fri: `Project 3 (ECMP) Released`
 * Feb 28 Fri section: Project 3 ECMP tutorial
 * Mar 2 Sun: `Project 1 grading out`
