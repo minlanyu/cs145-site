@@ -76,9 +76,9 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 * Mar 2 Sun: `Project 1 grading out`
 
 ### Week 6
-* Mar 4 Tue class: BGP
+* Mar 4 Tue class: BGP in data centers
 * Mar 4 Tue: `Project 2 Due`
-* Mar 6 Thu class: BGP in data centers
+* Mar 6 Thu class: Packet switching vs Circuit Switching
 
 ### Week 7
 * Mar 11 Tue class: Transport layer: TCP basics (K&R 3.1-3.5)
