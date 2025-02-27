@@ -1,4 +1,4 @@
-# CS 1450, Spring 2025: Networking at Scale
+f# CS 1450, Spring 2025: Networking at Scale
 
 
 ## Overview
@@ -106,12 +106,12 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 ### Week 11
 * Apr 8 Tue class: Data center TCP; TCP fairness (K&R 3.7.1); SDN in the control plane (K&R 4.4, 5.5)
   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Apr 10 Thu class: SDN in the data plane; Wide area: Traffic engineering; Application: Internet application HTTP and DNS
+* Apr 10 Thu class: SDN in the data plane; Wide area: Traffic engineering; 
 * Apr 13 Sun: `Project 4 grading out`
 
 ### Week 12
 * Apr 15 Tue class: Host networking (by Raj Joshi, Minlan travel)
-* Apr 17 Thu class: Application: Data center applications
+* Apr 17 Thu class: Application: Internet application HTTP and DNS
 * Apr 17 Thu: `Project 6 released`
 * Apr 18 Fri section: Final project suggestions
 * Apr 20 Sun: `Project 5 due`
