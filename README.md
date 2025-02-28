@@ -1,5 +1,4 @@
-f# CS 1450, Spring 2025: Networking at Scale
-
+# CS 1450, Spring 2025: Networking at Scale
 
 ## Overview
 
@@ -71,7 +70,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 ### Week 5
 * Feb 25 Tue class: Network layer: data center routing (K&R 5.4)
 * Feb 27 Thu class: BGP
-* Feb 28 Fri: `Project 3 (ECMP) Released`
+* Feb 28 Fri: `Project 3 (ECMP) Released` [Project 3 GitHub Classroom Link](https://classroom.github.com/a/jyQOHwDK)
 * Feb 28 Fri section: Project 3 ECMP tutorial
 * Mar 2 Sun: `Project 1 grading out`
 
