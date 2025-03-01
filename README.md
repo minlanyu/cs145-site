@@ -69,6 +69,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 
 ### Week 5
 * Feb 25 Tue class: Network layer: data center routing (K&R 5.4)
+  - Supplemental [VL2: A Scalable and Flexible Data Center Network](https://dl.acm.org/doi/pdf/10.1145/1592568.1592576)
 * Feb 27 Thu class: BGP
 * Feb 28 Fri: `Project 3 (ECMP) Released` [Project 3 GitHub Classroom Link](https://classroom.github.com/a/jyQOHwDK)
 * Feb 28 Fri section: Project 3 ECMP tutorial
