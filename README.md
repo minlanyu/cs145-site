@@ -81,8 +81,8 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 * Mar 6 Thu class: Packet switching vs Circuit Switching
 
 ### Week 7
-* Mar 11 Tue class: Transport layer: TCP basics (K&R 3.1-3.5)
-* Mar 13 Thu class: Transport layer: Congestion control (K&R 3.6)
+* Mar 11 Tue class: Transport layer: Reliable transport (K&R 3.1-3.5)
+* Mar 13 Thu class: Transport layer: TCP basics (K&R 3.1-3.5)
 * Mar 13 Thu: `Project 4 (reliable transport) released`
 * Mar 14 Fri section: Transport tutorial
 * Mar 16 Sun: `Project 3 Due`
