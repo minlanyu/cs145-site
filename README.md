@@ -99,7 +99,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 * Apr 1 Tue class: **Exam**
    * Extension school students will take the exam on Canvas on Apr 1-2. The exam will be available starting at 9:45 AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 minutes of starting the exam.
 * Apr 3 Thu class: Data center TCP; Data center load balancing
-* Apr 3 Thu: `Project 5 (traffic balancing) released`
+* Apr 3 Thu: `Project 5 (traffic balancing) released` [Project 5 GitHub Classroom Link](https://classroom.github.com/a/Y13lEg9F)
 * Apr 4 Fri section: Data center load balancing tutorial
 * Apr 6 Sun: `Project 4 due`
 
