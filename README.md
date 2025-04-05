@@ -98,26 +98,26 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 ### Week 10
 * Apr 1 Tue class: **Exam**
    * Extension school students will take the exam on Canvas on Apr 1-2. The exam will be available starting at 9:45 AM ET and will be available for 24 hours. You must finish the exam within 1 hour and 15 minutes of starting the exam.
-* Apr 3 Thu class: Data center TCP; Data center load balancing
+* Apr 3 Thu class: Data center TCP; 
 * Apr 3 Thu: `Project 5 (traffic balancing) released` [Project 5 GitHub Classroom Link](https://classroom.github.com/a/Y13lEg9F)
 * Apr 4 Fri section: Data center load balancing tutorial
 * Apr 6 Sun: `Project 4 due`
 
 ### Week 11
-* Apr 8 Tue class: Data center TCP; TCP fairness (K&R 3.7.1); SDN in the control plane (K&R 4.4, 5.5)
-  - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker
-* Apr 10 Thu class: SDN in the data plane; Wide area: Traffic engineering; 
+* Apr 8 Tue class: Data center TCP; Data center load balancing
+* Apr 10 Thu class: TCP fairness (K&R 3.7.1); SDN in the control plane (K&R 4.4, 5.5)
+  - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker 
 * Apr 13 Sun: `Project 4 grading out`
 
 ### Week 12
 * Apr 15 Tue class: Host networking (by Raj Joshi, Minlan travel)
-* Apr 17 Thu class: Application: Internet application HTTP and DNS
+* Apr 17 Thu class: SDN in the data plane; Wide area: Traffic engineering;
 * Apr 17 Thu: `Project 6 released`
 * Apr 18 Fri section: Final project suggestions
 * Apr 20 Sun: `Project 5 due`
 
 ### Week 13
-* Apr 22 Tue class: Application: Data center applications
+* Apr 22 Tue class: Application: Internet application HTTP and DNS; Application: Data center applications
 * Apr 24 Thu class: Research projects in networking (led by Raj Joshi, Minlan travel)
 * Apr 27 Sun: `Project 5 grading out`
 
