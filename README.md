@@ -105,24 +105,24 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 
 ### Week 11
 * Apr 8 Tue class: Data center TCP; Data center load balancing
-* Apr 10 Thu class: TCP fairness (K&R 3.7.1); SDN in the control plane (K&R 4.4, 5.5)
+* Apr 10 Thu class: TCP fairness (K&R 3.7.1); 
   - Supplemental: [The Future of Networking, and the Past of Protocols](https://www.youtube.com/watch?v=YHeyuD89n1Y) by Scott Shenker 
 * Apr 13 Sun: `Project 4 grading out`
 
 ### Week 12
 * Apr 15 Tue class: Host networking (by Raj Joshi, Minlan travel)
-* Apr 17 Thu class: SDN in the data plane; Wide area: Traffic engineering;
+* Apr 17 Thu class: SDN in the control plane (K&R 4.4, 5.5)
 * Apr 17 Thu: `Project 6 released`
 * Apr 18 Fri section: Final project suggestions
 * Apr 20 Sun: `Project 5 due`
 
 ### Week 13
-* Apr 22 Tue class: Application: Internet application HTTP and DNS; Application: Data center applications
+* Apr 22 Tue class: SDN in the data plane
 * Apr 24 Thu class: Research projects in networking (led by Raj Joshi, Minlan travel)
 * Apr 27 Sun: `Project 5 grading out`
 
 ### Week 14
-* Apr 29 Tue class: Course summary
+* Apr 29 Tue class: Data center applications; Course summary
 
 ### Week 15
 * May 13 Tue: `Project 6 due`
