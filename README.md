@@ -112,7 +112,7 @@ You are required to finish [Project 0](https://classroom.github.com/a/uzL3S4Q_) 
 ### Week 12
 * Apr 15 Tue class: Host networking (by Raj Joshi, Minlan travel)
 * Apr 17 Thu class: SDN in the control plane (K&R 4.4, 5.5)
-* Apr 17 Thu: `Project 6 released`
+* Apr 17 Thu: `Project 6 released` [Project 6 GitHub Classroom Link](https://classroom.github.com/a/A6iyTDWi)
 * Apr 18 Fri section: Final project suggestions
 * Apr 20 Sun: `Project 5 due`
 
